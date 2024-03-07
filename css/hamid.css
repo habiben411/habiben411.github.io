@@ -1,0 +1,215 @@
+:root {
+  --dividline: 40%;
+}
+
+html, body {
+ width: 100%;
+ height: 100%;
+  margin: 0
+  padding:0
+}
+@keyframes breath {
+  0%   { background-size: 140% auto; }
+  50% { background-size: 100% auto; }
+  100% { background-size: 140% auto; }
+}
+
+
+#bkg{
+  width: 100%;
+  height: 100%;
+  background-color: lightblue;
+  animation: breath 120s linear infinite;
+  background: url(../images/shipinstorm_yellow_resampled.jpg) center center no-repeat;
+}
+
+
+.front_page_container {
+    position: relative;
+    height: 100vh; /* Adjust this value according to your needs */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.phoenicians-image {
+    position: absolute;
+    left: 0;
+    margin: 0;
+    width: var(--dividline);
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-image: url('../images/discovery_of_purple.jpg'); /* Replace 'path_to_your_image' with the actual path to your image */
+
+}
+
+.fade-effect {
+  transition: color  3s ease; /* Adjust the duration and easing function as needed */
+}
+
+.cover-image {
+    position: absolute;
+    left: 0;
+    margin: 0;
+    width: var(--dividline);
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-image: url('../images/naz.jpg'); /* Replace 'path_to_your_image' with the actual path to your image */
+
+}
+
+.right_side_content{
+    position: absolute;
+    right: 0;
+    width: 60%;  
+    margin-right: 10px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.content {
+    position: absolute;
+    right: 0;
+    width: 60%;  
+    text-align: right;
+    margin-right: 10px;
+    padding: 10px 10px 10px 10px;
+    font-size: 70px;
+    #margin-left: 20px;
+
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
+
+
+.container {
+  position: relative;
+  width: /* Your preferred width */;
+  height: /* Your preferred height */;
+}
+
+.banner {
+    position: fixed;
+    word-wrap: break-word;
+    left: var(--dividline);
+    bottom: 0;
+    text-align: left;
+    padding: 10px 0;
+    margin-left:10px;
+    color:white;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.fullscreen-div {
+ height: 100vh;
+ width:100vw;  
+ background-color: lightblue;
+
+ /* Other styles */
+}
+
+
+
+.upperrright {
+    position: relative;
+}
+
+.upperright .text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+    color:white;
+    padding: 10px 10px 10px 10px;
+    font-weight: 100;
+}
+
+
+#boxA {
+ background-color: yellow;
+}
+
+.squareBox {
+    justify-content: center;
+    height: 50px; /* Adjust as needed */
+    width: 50px; /* Adjust as needed */
+    font-size: 24px; /* Adjust as needed */
+    font-family: Arial, sans-serif; /* Adjust as needed */
+    border: none;
+    outline: none;
+    text-align: center;
+    background-color: white;
+}
+
+
+
+
+#imageGallery .galleryImage {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0; 
+    height:100vh;
+    transition: opacity 0.5s ease-in-out;
+
+}
+
+#imageGallery .galleryImage.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+#imageGallery .galleryImage.fadeIn {
+    animation: fadeIn 0.5s forwards;
+
+
+}
+
+
+.fullscreenimg{
+    height: 100vh;
+    width:100vw;  
+    background-color: black;
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.fullscreenimg img {
+    flex-shrink: 1;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: contain;
+
+}
+
+.fullscreenimg object {
+    flex-shrink: 1;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: contain;
+
+}
+
+.imageGallery2 {
+    position: absolute;
+   
+}

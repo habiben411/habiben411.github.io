@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black_hamid.css">
+		
+		<link rel="stylesheet" href="css/hamid.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	
+
+		
+	<body background=black>
+
+	   <script> 
+			
+				// Define the total number of elements
+			const numElements = 3;
+			
+					// Generate the CSS rules
+			let cssRules = '';
+			for (let i = 1; i <= numElements; i++) {
+			 cssRules += `.text${i} {\n animation-delay: ${(i - 1) * 2}s;\n}\n`;
+			}
+			
+			// Add the CSS rules to the head of the document
+			let styleElement = document.createElement('style');
+			document.head.appendChild(styleElement);
+			styleElement.innerHTML = cssRules;
+
+		   // Add a click event listener to the document
+			document.addEventListener('click', () => {
+			//window.location.reload();
+			});
+ 			
+		</script>
+		<div class="reveal">
+			<div class="slides">
+				<section id="bkg">
+				</section>
+				<section>
+				    <div class="front_page_container">
+				    	<div class="cover-image"></div> 
+					    <div class="content"><h1>arabiska</h1><br><h2>en introduktion</h2>
+					    <div class="banner"> ett tak i Marrakech, Marocko. Stilen kallas för Zanil.</div>
+					    </div>
+					    
+					</div>
+				</section>
+				<section>
+					<section data-transition="fade" data-autoslide="1000">
+					Kaffe
+					</section>
+					<section data-transition="fade" data-autoslide="1000">
+					Siffra
+					</section>
+				   <section data-transition="fade" data-autoslide="1000">
+					Arsenik
+					</section>
+				</section>
+					<style>
+					  .fragment.blur {
+					    filter: blur(5px);
+					  }
+					  .fragment.blur.visible {
+					    filter: none;
+					  }
+					</style>
+					<section>
+					  <div class="fragment custom blur"><img src="./animations/gif.gif">TEST</div>
+					  <p class="fragment custom blur">Two</p>
+					  <p class="fragment custom blur">Three</p>
+					</section> 
+<section  data-auto-animate data-autoslide="500">
+
+							<div id="test">
+								<input type="text" value="ع" id="boxA" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								  <input id="button" type="button" value="button"> 
+							</div>
+							 
+</section>
+
+<section  data-auto-animate>
+
+							<div id="test"> 
+								<input type="text" value="ع" id="boxA" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								  <input id="button" type="button" value="button"> 
+							</div>
+							<div id="test">
+								<input type="text" value="ع" id="boxA" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								<input type="text" value="ع" class="squareBox">
+								   
+							</div>
+							
+							 
+</section>
+
+				<section data-external="table.html"> </section>
+				 
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/external/external.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize(
+			{
+				 //autoSlide: 1500,
+				 loop: true,
+				hash: true,
+				margin: 0.0,
+ 				width: '100%',  // You can also use window.innerWidth
+				height: '100%', // You can also use window.innerHeight
+ 				minScale: 1.0,
+  				maxScale: 1.0,
+  				center: true,
+  				disableLayout: false,
+  				autoAnimate: true,
+  				viewDistance: 10,
+  				
+  				dependencies: [
+					{
+						src: 'plugin/external/external.js',
+						condition: function() {
+							return !!document.querySelector( '[data-external],[data-external-replace]' );
+						}
+					},
+
+				],
+				
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ external,RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+						
+			/*$(function () {
+			    // on page load  replace all src URLs
+			
+			    $('.animated-gif').each(function (i, e) {
+			        disableGif(e)
+			    });
+			});*/
+			Reveal.addEventListener('slidechanged', initAnimatedGifs);
+			Reveal.addEventListener('ready', initAnimatedGifs);
+			
+			function initAnimatedGifs(event) {
+			    $('.animated-gif', event.currentSlide).each(function (i, e) {
+			        enableGif(e)
+			    });
+			
+			    if (event.previousSlide)
+			        $('.animated-gif', event.previousSlide).each(function (i, e) {
+			            disableGif(e)
+			
+			        });
+			}
+			
+			function enableGif(e) {
+			    var src = $(e).attr("src")
+			    $(e).attr('src', src.replace('-image.gif', '.gif'));
+			
+			
+			}
+			function disableGif(e) {
+			    var src = $(e).attr("src")
+			    $(e).attr('src', src.replace('.gif', '-image.gif'));
+			
+			}
+		</script>
+		
+			 		 <script type="text/javascript">
+	var button = document.getElementById("button");
+	var text = document.getElementById("boxA");
+ 
+	button.addEventListener('click', function() {
+	  text.value = "G";
+  
+	});
+</script>
+
+	</body>
+</html>

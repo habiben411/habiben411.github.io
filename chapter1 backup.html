@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+       <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>-->
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black_hamid.css">
+		
+		<link rel="stylesheet" href="css/hamid.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	
+
+		
+	<body background=black>
+
+	 
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    				<h2 class="r-fit-text">första delen</h2><br>
+                    <h2 class="r-fit-text">ARABISKANS HISTORIA</h2>
+				</section>
+				
+			
+				
+				
+				<section data-transition="none">
+    				
+    				<section data-transition="none" data-transition-speed="slow">
+        				<div  style="background-image: url(images/map00.png); height: 100vh; background-size: cover;"></div>   				
+    				</section>
+    				
+    				<section  data-transition="fade-in" data-transition-speed="slow">
+        				<div  style="background-image: url(images/map01.png); height: 100vh; background-size: cover;"></div>   				
+    				</section>
+    				
+    				<section  data-transition="none" data-transition-speed="slow">
+        				<div  style="background-image: url(images/map02.png); height: 100vh; background-size: cover;"></div>   				
+    				</section>
+    				
+    				<section  data-transition="none" data-transition-speed="slow">
+        				<div  style="background-image: url(images/map03.png); height: 100vh; background-size: cover;"></div>   				
+    				</section>
+    				
+				</section>
+				
+	 
+                 <section data-background-image="images/map00.png" data-background-size="cover">
+                 <!-- Your content here -->
+                </section>
+                
+                <section data-background-image="images/map01.png" data-background-size="cover">
+                 <!-- Your content here -->
+                </section>
+				 
+				<section>
+    				<img src="animations/testgif.gif">
+    			</section>
+    				
+        	    <section>
+            	   <div id="imageGallery" class="fullscreen-div">
+                        <img src="images/map00.png" class="galleryImage">
+                        <img src="images/map01.png" class="galleryImage">
+                        <img src="images/map02.png" class="galleryImage">
+                        <img src="images/map03.png" class="galleryImage">
+
+                    </div>
+				
+				</section>
+				
+				<section>
+				
+            	   <div class="fullscreenimg" id="gallerian">
+                        <img src="images/map00.png" class="imageGallery2">
+                        <img src="images/map01.png" class="imageGallery2">
+                        <img src="images/map02.png" class="imageGallery2">
+                        <img src="images/map03.png" class="imageGallery2">
+                        <img src="images/map04.png" class="imageGallery2">
+                        <img src="images/map00.png" class="imageGallery2">
+
+                    </div>
+				
+				</section>
+				
+				
+				<section>
+        				  <div class="fullscreenimg" id="gallerian">
+
+        					<!--<img src="./svg/master_presentation3.svg" width=640>-->
+                            <object id="linguamap" type="image/svg+xml" data="http://localhost:8000/svg/master_presentation.svg" onload="handleSvgLoad()" class="imageGallery2"></object>
+
+        					<!--
+        					<lottie-player src="animations/testing_haiku.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
+                    		-->
+                    	  </div>
+        		</section>
+			</div>
+		</div>
+    
+        <script src="transition2.js"></script>
+ 		    <script src="svg_key.js"></script>
+
+        <script src="dist/reveal.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize(
+			{
+				 //autoSlide: 1500,
+				 loop: true,
+				hash: true,
+				margin: 0.0,
+ 				width: '100%',  // You can also use window.innerWidth
+				height: '100%', // You can also use window.innerHeight
+ 				minScale: 1.0,
+  				maxScale: 1.0,
+  				center: true,
+  				disableLayout: false,
+  				autoAnimate: true,
+  				viewDistance: 10,
+                controls: true,
+                autoAnimateEasing: 'ease-out',
+                autoAnimateDuration: 3.8,
+                autoAnimateUnmatched: false,
+                backgroundTransition: 'cross',
+
+  				dependencies: [
+					{
+						src: 'plugin/external/external.js',
+						condition: function() {
+							return !!document.querySelector( '[data-external],[data-external-replace]' );
+						}
+					},
+
+				],
+				
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [  RevealHighlight ]
+			});
+						
+			/*$(function () {
+			    // on page load  replace all src URLs
+			
+			    $('.animated-gif').each(function (i, e) {
+			        disableGif(e)
+			    });
+			});*/
+
+            
+
+		</script>
+</script>
+
+	</body>
+</html>

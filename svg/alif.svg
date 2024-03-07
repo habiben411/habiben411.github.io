@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="260mm"
+   height="75mm"
+   viewBox="0 0 260 75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="alif.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="549.42195"
+     inkscape:cy="320.31936"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text_latin"
+     showgrid="false"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <rect
+       x="13.435028"
+       y="14.142135"
+       width="465.27625"
+       height="55.154327"
+       id="rect16" />
+    <rect
+       x="498.51028"
+       y="91.570328"
+       width="88.388351"
+       height="82.024384"
+       id="rect20" />
+    <rect
+       x="494.62119"
+       y="87.681244"
+       width="98.994949"
+       height="99.348503"
+       id="rect19" />
+  </defs>
+  <g
+     inkscape:label="radicals"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:1">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none"
+       id="rect1"
+       width="26.205753"
+       height="26.205753"
+       x="42.096664"
+       y="22.947363"
+       ry="3.2395921"
+       inkscape:label="r1" />
+    <rect
+       style="opacity:1;fill:#000000;stroke:#ffd42a;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none;fill-opacity:0"
+       id="rect4"
+       width="26.205753"
+       height="26.205753"
+       x="160.15424"
+       y="22.947363"
+       ry="3.2395921"
+       inkscape:label="r3" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none"
+       id="rect6"
+       width="26.205753"
+       height="26.205753"
+       x="101.12544"
+       y="22.947363"
+       ry="3.2395921"
+       inkscape:label="r2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="vocals"
+     inkscape:label="vocals"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="rect5"
+       width="26.205753"
+       height="26.205753"
+       x="71.611053"
+       y="22.947363"
+       ry="3.2395921"
+       inkscape:label="v1" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="v2"
+       width="26.205753"
+       height="26.205753"
+       x="130.63985"
+       y="-49.153114"
+       ry="3.2395921"
+       transform="scale(1,-1)"
+       inkscape:label="v2" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="rect7"
+       width="26.205753"
+       height="26.205753"
+       x="189.66862"
+       y="22.605833"
+       ry="3.2395921"
+       inkscape:label="v3" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="prefix"
+       width="35.450924"
+       height="26.129448"
+       x="3.095428"
+       y="22.985518"
+       ry="3.230159"
+       inkscape:label="prefix" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect2"
+       width="35.44537"
+       height="26.685158"
+       x="219.52747"
+       y="22.427029"
+       ry="3.2988567"
+       inkscape:label="suffix" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="text_latin"
+     inkscape:label="text_latin"
+     style="display:inline;opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="173.15674"
+       y="43.151932"
+       id="text_latin_r3"
+       inkscape:label="text_latin_r3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         id="tspan14">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:1.63573"
+       x="113.98673"
+       y="43.151932"
+       id="text_latin_r2"
+       inkscape:label="text_latin_r2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffd42a;fill-opacity:1"
+         id="tspan10">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="55.17844"
+       y="43.151932"
+       id="text_latin_r1"
+       inkscape:label="text_latin_r1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffd42a;fill-opacity:1"
+         id="tspan11">ʔ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="202.85063"
+       y="43.151932"
+       id="text_latin_v3"
+       inkscape:label="text_latin_v3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan13"
+         transform="translate(0.3745782,1.1448287)">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
+       x="143.50113"
+       y="43.151932"
+       id="text_latin_v2"
+       inkscape:label="text_latin_v2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f9f9f9;fill-opacity:1"
+         id="tspan9">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="84.661171"
+       y="43.151932"
+       id="text_latin_v1"
+       inkscape:label="text_latin_v1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan17">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="20.85327"
+       y="42.888145"
+       id="text_latin_prefix"
+       inkscape:label="text_latin_prefix"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan20">mu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="237.28253"
+       y="43.151932"
+       id="text_latin_suffix"
+       inkscape:label="text_latin_suffix"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan5">AT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="text_arabic"
+     inkscape:label="text_arabic"
+     style="display:inline;opacity:0.231">
+    <text
+       xml:space="preserve"
+       x="53.940704"
+       y="39.61832"
+       id="text_ar_r1"
+       inkscape:label="text_ar_r1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.979139;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         id="tspan21">ء</tspan></text>
+    <text
+       xml:space="preserve"
+       x="113.02786"
+       y="41.476604"
+       id="text_ar_r2"
+       inkscape:label="text_ar_r2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         id="tspan23">ل</tspan></text>
+    <text
+       xml:space="preserve"
+       x="173.29535"
+       y="42.827999"
+       id="text_ar_r3"
+       inkscape:label="text_ar_r3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         id="tspan25">ف</tspan></text>
+    <text
+       xml:space="preserve"
+       x="84.24437"
+       y="42.827999"
+       id="text_ar_v1"
+       inkscape:label="text_ar_v1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan22">ف</tspan></text>
+    <text
+       xml:space="preserve"
+       x="142.97589"
+       y="42.827999"
+       id="text_ar_v2"
+       inkscape:label="text_ar_v2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan24">ف</tspan></text>
+    <text
+       xml:space="preserve"
+       x="203.34598"
+       y="37.571301"
+       id="text_ar_v3"
+       inkscape:label="text_ar_v3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         id="tspan26">ي</tspan></text>
+    <text
+       xml:space="preserve"
+       x="20.188501"
+       y="42.827999"
+       id="text_ar_prefix"
+       inkscape:label="text_ar_prefix"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan27">ف</tspan></text>
+    <text
+       xml:space="preserve"
+       x="233.60933"
+       y="39.781109"
+       id="text_ar_suffix"
+       inkscape:label="text_ar_suffix"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan8">d</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Light';text-align:left;letter-spacing:0.529167px;display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     x="4.0751739"
+     y="62.893055"
+     id="explain_sv"
+     inkscape:label="explain_sv"><tspan
+       style="text-align:start;text-anchor:start"
+       id="tspan15">välbekant</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:14.0087px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:39.2932;display:inline;fill:#f9f9f9;stroke-width:1.16739"
+     x="105.90877"
+     y="17.486328"
+     id="explain_ar"
+     inkscape:label="explain_ar"
+     transform="translate(24.128736,0.74835421)"><tspan
+       x="105.90877"
+       y="17.486328"
+       id="tspan19"><tspan
+         style="font-weight:600;-inkscape-font-specification:'Signika Semi-Bold'"
+         id="tspan16">ʔ</tspan><tspan
+         style="font-weight:600;-inkscape-font-specification:'Signika Semi-Bold'"
+         id="tspan18">‘alīfa</tspan></tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="radicals"
+     inkscape:label="radicals_circles"
+     style="display:inline;opacity:1">
+    <g
+       id="g1"
+       inkscape:label="R1_group">
+      <circle
+         style="opacity:1;fill:#ffd42a;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         id="path1"
+         cx="63.34267"
+         cy="47.159504"
+         r="6"
+         inkscape:label="R1_path" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:8.81944px;line-height:0.75;font-family:'Univers 57 Condensed';text-align:center;letter-spacing:0.19246px;text-anchor:middle;display:inline;opacity:1;fill:#b3b3b3"
+         x="63.687241"
+         y="50.164154"
+         id="R1"
+         inkscape:label="R1"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed, ';fill:#1a1a1a"
+           x="63.78347"
+           y="50.164154">R<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed, ';fill:#1a1a1a"
+   id="tspan1">1</tspan></tspan></text>
+    </g>
+    <g
+       id="g4"
+       inkscape:label="R2_group"
+       transform="translate(59.795837)">
+      <circle
+         style="opacity:1;fill:#ffd42a;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         id="circle3"
+         cx="63.34267"
+         cy="47.159504"
+         r="6"
+         inkscape:label="R2_path" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:8.81944px;line-height:0.75;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;letter-spacing:0.19246px;text-anchor:middle;display:inline;opacity:1;fill:#b3b3b3;stroke:none;stroke-width:0.363703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="63.687241"
+         y="50.164154"
+         id="text4"
+         inkscape:label="R2"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Medium Condensed';fill:#1a1a1a;stroke-width:0.363703"
+           x="63.78347"
+           y="50.164154">R<tspan
+   style="font-size:4.23333px;fill:#1a1a1a"
+   id="tspan3">2</tspan></tspan></text>
+    </g>
+    <g
+       id="g7"
+       inkscape:label="R2_group"
+       transform="translate(119.06252)">
+      <circle
+         style="opacity:1;fill:#ffd42a;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         id="circle6"
+         cx="63.34267"
+         cy="47.159504"
+         r="6"
+         inkscape:label="R2_path" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:8.81944px;line-height:0.75;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;letter-spacing:0.19246px;text-anchor:middle;display:inline;opacity:1;fill:#b3b3b3;stroke:none;stroke-width:0.363703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="63.687241"
+         y="50.164154"
+         id="text7"
+         inkscape:label="R2"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Medium Condensed';fill:#1a1a1a;stroke-width:0.363703"
+           x="63.78347"
+           y="50.164154">R<tspan
+   style="font-size:4.23333px;fill:#1a1a1a"
+   id="tspan6">3</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

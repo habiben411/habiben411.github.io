@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="tree_Indoeuropean.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.3786088"
+     inkscape:cx="739.29769"
+     inkscape:cy="256.03201"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient48"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a01d28;stop-opacity:1;"
+         offset="0"
+         id="stop48" />
+      <stop
+         style="stop-color:#ac2239;stop-opacity:1;"
+         offset="1"
+         id="stop49" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient46"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ad2430;stop-opacity:1;"
+         offset="0"
+         id="stop46" />
+      <stop
+         style="stop-color:#a01d28;stop-opacity:1;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient45"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#af3c3c;stop-opacity:0.88749999;"
+         offset="0"
+         id="stop44" />
+      <stop
+         style="stop-color:#b72d2d;stop-opacity:0;"
+         offset="1"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient42"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c72424;stop-opacity:0.98750001;"
+         offset="0"
+         id="stop42" />
+      <stop
+         style="stop-color:#ee4f71;stop-opacity:1;"
+         offset="1"
+         id="stop43" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient40"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d93030;stop-opacity:1;"
+         offset="0"
+         id="stop40" />
+      <stop
+         style="stop-color:#d35948;stop-opacity:1;"
+         offset="1"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient38"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d93030;stop-opacity:1;"
+         offset="0"
+         id="stop38" />
+      <stop
+         style="stop-color:#d74442;stop-opacity:1;"
+         offset="1"
+         id="stop39" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient36"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d93030;stop-opacity:1;"
+         offset="0"
+         id="stop36" />
+      <stop
+         style="stop-color:#d74644;stop-opacity:1;"
+         offset="1"
+         id="stop37" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient32"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#df3a3a;stop-opacity:1;"
+         offset="0"
+         id="stop32" />
+      <stop
+         style="stop-color:#d93030;stop-opacity:1;"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c72424;stop-opacity:1;"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#df3c3c;stop-opacity:1;"
+         offset="1"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient26"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c62525;stop-opacity:1;"
+         offset="0"
+         id="stop26" />
+      <stop
+         style="stop-color:#ad2530;stop-opacity:1;"
+         offset="1"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient20"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#b1202b;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#a11d27;stop-opacity:0;"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0c0c0c;stop-opacity:0.67843095;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#0c0c0c;stop-opacity:0;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ad2530;stop-opacity:1;"
+         offset="0"
+         id="stop34" />
+      <stop
+         style="stop-color:#ad2530;stop-opacity:0;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient30"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#df3c3c;stop-opacity:1;"
+         offset="0"
+         id="stop30" />
+      <stop
+         style="stop-color:#df3c3c;stop-opacity:0;"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#731515;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#971414;stop-opacity:0;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#b72d2d;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#b72d2d;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a11d1d;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#a11d1d;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="153.50758"
+       y1="155.2644"
+       x2="147.22258"
+       y2="77.622726"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.068196,0,0,1.068196,-6.1791214,17.306726)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="135.93364"
+       y1="153.6993"
+       x2="135.78883"
+       y2="72.27565"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.068196,0,0,1.068196,3.430192,17.306726)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.068196,0,0,1.068196,-24.267238,17.306726)"
+       x1="135.93364"
+       y1="153.6993"
+       x2="135.78883"
+       y2="72.27565" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient45"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.068196,0,0,1.068196,55.998793,17.306726)"
+       x1="144.62236"
+       y1="146.63051"
+       x2="163.18037"
+       y2="84.056961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       x1="153.50758"
+       y1="155.2644"
+       x2="147.22258"
+       y2="77.622726"
+       gradientTransform="matrix(1.068196,0,0,1.068196,-1.6570922,17.306726)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30"
+       id="linearGradient31"
+       x1="201.62698"
+       y1="82.621979"
+       x2="208.98068"
+       y2="38.002495"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.068196,0,0,1.068196,-5.6138677,17.306726)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient35"
+       x1="109.37201"
+       y1="73.499214"
+       x2="106.43491"
+       y2="45.80183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.068196,0,0,1.068196,271.17398,16.861788)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.057513292"
+       y="-1.194708"
+       width="1.1150266"
+       height="3.389416">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4363666"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="152.7731"
+       y1="182.86951"
+       x2="152.75546"
+       y2="178.78639"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect17" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect7" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect9" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect11" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect13" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect18" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect9-5" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect6" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect10" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect12" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect14" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect19" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20"
+       id="linearGradient22"
+       x1="121.07805"
+       y1="63.747929"
+       x2="122.94342"
+       y2="55.410534"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="linearGradient27"
+       x1="135.78175"
+       y1="171.74532"
+       x2="136.77068"
+       y2="146.89044"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28"
+       id="linearGradient29"
+       x1="187.63283"
+       y1="179.57558"
+       x2="197.14491"
+       y2="129.55122"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32"
+       id="linearGradient33"
+       x1="183.79855"
+       y1="105.7452"
+       x2="184.76654"
+       y2="71.451767"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36"
+       id="linearGradient37"
+       x1="184.72021"
+       y1="67.141739"
+       x2="182.53087"
+       y2="52.197346"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38"
+       id="linearGradient39"
+       x1="186.33583"
+       y1="63.397194"
+       x2="190.68866"
+       y2="47.508949"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient40"
+       id="linearGradient41"
+       x1="188.96124"
+       y1="66.23082"
+       x2="198.48955"
+       y2="54.432617"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient42"
+       id="linearGradient43"
+       x1="215.72314"
+       y1="170.94116"
+       x2="238.75634"
+       y2="143.25471"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient46"
+       id="linearGradient47"
+       x1="124.01827"
+       y1="101.46873"
+       x2="122.71085"
+       y2="72.838425"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48"
+       id="linearGradient49"
+       x1="120.48815"
+       y1="64.749893"
+       x2="118.17465"
+       y2="57.356354"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient41);stroke-width:3.20459;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 188.78504,68.482596 c 2.33771,-9.325943 10.97427,-13.170081 10.93363,-17.146907"
+       id="path40"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient37);stroke-width:8.54557;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 182.12427,67.978484 c 2.42172,-11.342389 -3.59153,-14.3692 -3.34953,-23.532319"
+       id="path27"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.811765;stroke:url(#linearGradient35);stroke-width:16.0229;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 133.85869,109.47114 c 2.85979,-34.600142 20.02898,-16.947865 19.83832,-51.624918"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:url(#linearGradient22);stroke-width:1.0682;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="M 121.31932,64.772897 C 119.59389,56.823331 122.31054,54.7485 124.5006,51.798405"
+       id="path35"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g7"
+       transform="matrix(1.8189159,0,0,1.4677908,-3.7194908,-72.925814)"
+       style="fill:none">
+      <g
+         id="g6"
+         style="fill:none" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:url(#linearGradient49);stroke-width:1.0682;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.48648,65.585895 c -1.77479,-7.498558 -0.74324,-4.432896 -2.96185,-10.094867"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient47);stroke-width:2.13639;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.78904,109.72481 c -0.5011,-26.367543 -2.60999,-39.490858 -4.13668,-45.857537"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient31);stroke-width:34.1823;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 207.58347,113.63801 C 209.95176,78.562573 225.8595,68.503185 226.05016,33.826134"
+       id="path29"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient21);stroke-width:2.13639;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 168.59053,195.99407 c -1.92501,-51.0833 2.73757,-96.301381 2.73757,-96.301381"
+       id="path20"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient13);stroke-width:34.1823;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 126.68778,190.03865 C 121.72753,154.93437 99.221512,115.32926 99.412174,80.652188"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.811765;stroke:url(#linearGradient27);stroke-width:18.1593;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 136.21659,197.18227 c -2.85978,-34.60016 -3.63178,-54.01981 -3.44111,-88.69688"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient3);stroke-width:2.13639;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 164.0685,195.99407 c -4.06377,-50.84566 0.36117,-90.36037 0.36117,-90.36037"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient5);stroke-width:17.0911;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 153.73944,197.18227 c -3.03316,-34.29453 -3.86751,-66.50056 -4.08727,-84.09546 -0.10917,-8.73544 -0.0668,-13.869404 -0.0668,-13.869404"
+       id="path1"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient33);stroke-width:12.8184;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.16481,113.17821 c 0.33567,-7.37909 -1.80077,-33.610664 1.65533,-48.297174"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient29);stroke-width:48.0688;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.19421,184.38347 c 0.0437,-28.04413 15.33701,-29.13597 17.79388,-75.39221"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text18"
+       transform="translate(1.0583333)"><textPath
+         xlink:href="#path10"
+         id="textPath12"
+         style="fill:#ffffff;fill-opacity:1;stroke:none">                 germanska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.9;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:end;text-anchor:end;opacity:1;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="162.74449"
+       y="34.883041"
+       id="text24"
+       transform="rotate(1.0547482)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.9;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:start;text-anchor:start;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="162.74449"
+         y="34.883041"
+         id="tspan24">farsi/</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.9;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:start;text-anchor:start;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="162.74449"
+         y="40.185291"
+         id="tspan7">persiska</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.9;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:start;text-anchor:start;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="162.74449"
+         y="45.487541"
+         id="tspan40" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.749326;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.575221;paint-order:stroke fill markers"
+       id="text27"
+       transform="translate(1.2584746,3.1461864)"><textPath
+         xlink:href="#path3"
+         id="textPath27"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:0.79375px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:0.575221">         indo-iranska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text32"
+       x="98.283867"
+       y="40.576878"
+       transform="translate(-3.4456203,1.3865806)" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient43);stroke-width:1.0682;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.67451"
+       d="m 210.87334,177.88274 c 5.72239,-14.92782 22.55436,-42.69824 26.5119,-61.89562 0.5542,-2.68829 0.85592,-5.20847 0.83933,-7.50173"
+       id="path12"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.326531;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text14"
+       transform="translate(-5.2916667)"><textPath
+         xlink:href="#path13"
+         id="textPath14"
+         style="fill:#ffffff;fill-opacity:1;stroke:none">                 romanska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.326531;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text15"><textPath
+         xlink:href="#path1"
+         id="textPath15"
+         style="fill:#ffffff;fill-opacity:1;stroke:none">               balto-slaviska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.326531;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.058;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text16"
+       transform="translate(0.52916667,-14.287503)"><textPath
+         xlink:href="#path9"
+         id="textPath16"
+         style="font-size:4.93889px;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-dasharray:none">                     keltiska</textPath></text>
+    <path
+       style="opacity:1;fill:none;stroke:url(#linearGradient18);stroke-width:2.13639;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.95344,178.10596 c 3.24698,-16.26206 18.79676,-26.92618 21.71747,-69.85821"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text20"
+       transform="translate(4.7625003)"><textPath
+         xlink:href="#path12"
+         id="textPath22"
+         style="font-size:4.58611px;fill:#ffffff;fill-opacity:1;stroke:none">           armeniska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.326531;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.058;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text21"
+       transform="translate(1.0583334,-14.287503)"><textPath
+         xlink:href="#path20"
+         id="textPath21"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-dasharray:none">                       <tspan
+   style="font-size:4.93889px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-dasharray:none"
+   id="tspan21">helleniska</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.326531;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text23"
+       transform="translate(1.0583333,-0.52916667)"><textPath
+         xlink:href="#path18"
+         id="textPath23"
+         style="fill:#ffffff;fill-opacity:1;stroke:none">                        albanska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#ac2239;fill-opacity:1;stroke:none;stroke-width:4.95929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="101.0446"
+       y="54.890652"
+       id="text26"
+       transform="rotate(-0.03055004)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#ac2239;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="101.0446"
+         y="54.890652"
+         id="tspan26">svenska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text37"
+       transform="translate(-1.0583333,-2.6458334)"><textPath
+         xlink:href="#path25"
+         id="textPath37"
+         style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke:none">       nordgerm.</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text38"><textPath
+         xlink:href="#path16"
+         id="textPath38"
+         style="font-size:4.93889px">        iranska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:end;text-anchor:end;opacity:1;fill:#d35948;fill-opacity:1;stroke:none;stroke-width:4.95929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="207.60374"
+       y="54.387066"
+       id="text42"
+       transform="rotate(-1.0548613)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:center;text-anchor:middle;fill:#d35948;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="207.60374"
+         y="54.387066"
+         id="tspan42">kurdiska</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient39);stroke-width:2.13639;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.92611,65.093987 c 0.26565,0.744508 0.88869,-9.43521 6.1446,-21.368841"
+       id="path43"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:end;text-anchor:end;opacity:1;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="193.58881"
+       y="-43.614998"
+       id="text43"
+       transform="rotate(24.208455)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:center;text-anchor:middle;fill:#d74644;fill-opacity:1;stroke:none;stroke-width:4.95929"
+         x="193.58881"
+         y="-43.614998"
+         id="tspan43">dari</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:end;text-anchor:end;opacity:1;fill:#ef4f71;fill-opacity:0.619608;stroke:none;stroke-width:4.95929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="264.3819"
+       y="26.534288"
+       id="text1"
+       transform="rotate(17.740452)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89139px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';text-align:center;text-anchor:middle;fill:#ef4f71;fill-opacity:0.619608;stroke:none;stroke-width:4.95929"
+         x="264.3819"
+         y="26.534288"
+         id="tspan1">armeniska</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient7);fill-opacity:0.678431;stroke:none;stroke-width:1.0532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:0.67451;paint-order:stroke markers fill;filter:url(#filter4)"
+       id="rect4"
+       width="101.66832"
+       height="4.8943172"
+       x="102.78067"
+       y="178.42012"
+       ry="0.35118216"
+       inkscape:label="shadow"
+       transform="matrix(1.068196,0,0,1.068196,-5.6138677,-16.608498)" />
+    <g
+       id="path7"
+       transform="matrix(1.068196,0,0,1.068196,-5.6138677,-16.608498)">
+      <path
+         style="color:#000000;fill:#ff5555;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+         d="m 153.719,209.70054 v -56.41941 -4.40207"
+         id="path4" />
+      <path
+         style="color:#000000;fill:#c72525;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+         d="m 105.05356,181.51881 c 12.92364,60.62918 1.55728,20.19763 7.11901,56.46007 l 6.22913,5.02959 85.31705,-1.55728 -9.12123,2.08942 c 0,0 -12.9032,-18.32574 9.12123,-62.59706 z"
+         id="path2"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:1.94835px;opacity:0.792453;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.74073;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.265487;paint-order:stroke fill markers"
+       x="121.99419"
+       y="191.00446"
+       id="text19"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:1.94835px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.74073;stroke-dasharray:none;stroke-opacity:0.265487"
+         x="121.99419"
+         y="191.00446"
+         id="tspan20">indo-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:1.94835px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.74073;stroke-dasharray:none;stroke-opacity:0.265487"
+         x="121.99419"
+         y="198.94193"
+         id="tspan13">europeiska</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Broder">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31403309,0,0,0.31403309,85.926227,-25.759974)"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect6);display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="47.822311"
+         y="269.52004"
+         id="tspan3"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan2">broder</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31403309,0,0,0.31403309,147.53998,-36.633963)"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect10);display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="44.238986"
+         y="269.52004"
+         id="tspan5"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan4">barādar</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31403309,0,0,0.31403309,186.85957,-30.056674)"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect14);display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="48.935589"
+         y="269.52004"
+         id="tspan8"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan6">birayê</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.30080361,0.09018853,-0.09018853,0.30080361,242.67302,20.664163)"
+       id="text17"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect19);display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="40.291078"
+         y="269.52004"
+         id="tspan10"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan9">yeghbayr</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.29127263,0.11737563,-0.11737563,0.29127263,204.23675,-43.777985)"
+       id="text25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect25);display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="44.238986"
+         y="269.52004"
+         id="tspan12"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan11">barādar</tspan></tspan></text>
+  </g>
+</svg>

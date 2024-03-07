@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="tree_Semitic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="490.35917"
+     inkscape:cy="250.30762"
+     inkscape:window-width="1984"
+     inkscape:window-height="1387"
+     inkscape:window-x="1150"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient19"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d0af2a;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+      <stop
+         style="stop-color:#dbc057;stop-opacity:1;"
+         offset="1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d0af2a;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+      <stop
+         style="stop-color:#ebdca1;stop-opacity:1;"
+         offset="1"
+         id="stop18" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e4ba16;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+      <stop
+         style="stop-color:#deb826;stop-opacity:1;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e4ba16;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#d3b229;stop-opacity:1;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ccac33;stop-opacity:1;"
+         offset="0"
+         id="stop11" />
+      <stop
+         style="stop-color:#ecc74d;stop-opacity:1;"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d6ac00;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#d2c07b;stop-opacity:0.99781179;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#aa912c;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#cbad35;stop-opacity:1;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d6ac00;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#e5bc16;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cbad35;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#dfd3aa;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="190.44696"
+       y1="87.334152"
+       x2="218.35463"
+       y2="73.763535"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,31.750001)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="152.7731"
+       y1="182.86951"
+       x2="152.75546"
+       y2="178.78639"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12.037355,-33.402223)" />
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0c0c0c;stop-opacity:0.67843095;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#0c0c0c;stop-opacity:0;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.057513292"
+       y="-1.194708"
+       width="1.1150266"
+       height="3.389416">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4363666"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="147.51477"
+       y1="175.20842"
+       x2="137.95396"
+       y2="134.38536"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient8"
+       x1="173.22066"
+       y1="173.27541"
+       x2="180.62469"
+       y2="127.55803"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient10"
+       x1="182.2836"
+       y1="169.01152"
+       x2="204.21037"
+       y2="144.98488"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient12"
+       x1="184.5378"
+       y1="115.98981"
+       x2="203.3143"
+       y2="100.96677"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13"
+       id="linearGradient14"
+       x1="120.93498"
+       y1="105.65456"
+       x2="104.45165"
+       y2="80.960495"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient16"
+       x1="135.44325"
+       y1="88.961357"
+       x2="133.57263"
+       y2="77.61544"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17"
+       id="linearGradient18"
+       x1="124.29755"
+       y1="78.074379"
+       x2="122.53271"
+       y2="69.175621"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient20"
+       x1="127.61848"
+       y1="83.123566"
+       x2="127.38563"
+       y2="72.22258"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect50" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect22" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect34" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect35" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect37" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect39" />
+    <rect
+       x="27.747311"
+       y="258.97491"
+       width="78.196968"
+       height="23.122759"
+       id="rect41" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#dbad57;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 121.70365,75.920372 C 117.99038,63.337305 107.92893,54.374809 110.30784,47.252021"
+       id="path33"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient18);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 126.73368,83.982668 C 121.513,72.726756 126.07745,75.302951 120.05306,64.243606"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient10);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.51223,183.0434 c 12.0542,-32.92779 18.58476,-27.49833 38.45985,-48.33208"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.990724;fill:#000000;fill-opacity:1;stroke:url(#linearGradient2);stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 186.9872,119.83232 c 6.33053,-4.88688 20.3356,1.46784 30.95044,-13.85163"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient12);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.51304,115.93912 c 4.98609,-6.01814 17.44651,-4.76861 21.34938,-22.077009"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient16);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 139.79823,95.463443 C 130.12817,83.42889 133.89178,76.840097 134.13702,74.703227"
+       id="path15"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient8);stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 167.87277,185.49056 c 8.4947,0.44255 1.45466,-56.19683 19.77245,-67.6869"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#d4aa00;stroke:#ffd42a;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 133.08369,162.1431 168.6356,87.263841"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient20);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 133.50264,94.730863 C 123.83258,82.696307 129.15155,73.840024 126.06207,67.784875"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient14);stroke-width:38;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.283866,72.326878 c 0,0 1.085946,2.143117 2.908734,5.469042 4.55933,8.319115 14.82984,23.64516 22.12348,32.28714"
+       id="path10"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4);stroke-width:45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.78912,106.4291 c 0,0 26.11334,28.31571 23.91101,76.13775"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:url(#linearGradient7);fill-opacity:0.678431;stroke:none;stroke-width:1.0532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:0.67451;paint-order:stroke markers fill;filter:url(#filter4)"
+       id="rect4"
+       width="101.66832"
+       height="4.8943172"
+       x="114.81802"
+       y="145.0179"
+       ry="0.35118216"
+       inkscape:label="shadow"
+       transform="matrix(0.56471366,0,0,1,61.362382,31.2847)" />
+    <path
+       style="color:#000000;fill:#d4aa00;stroke-width:1.2501;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 126.24303,181.05675 c 0.0772,1.34873 -3.71238,19.60597 -14.00779,37.15263 l 65.54474,3.18995 c 0,0 -0.68962,-27.89242 3.32177,-40.79178 z"
+       id="path7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#ecd887;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 141.06789,98.184263 C 131.39783,86.149713 127.11383,77.365138 126.06937,74.298867"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text18"
+       x="22.099476"
+       y="0"
+       transform="translate(5.5393652,2.745967)"><textPath
+         xlink:href="#path10"
+         id="textPath23"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:0.271386">  central-</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:1.82396px;opacity:0.792453;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.6296;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.265487;paint-order:stroke fill markers"
+       x="108.30122"
+       y="194.86667"
+       id="text19"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:1.82396px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.6296;stroke-dasharray:none;stroke-opacity:0.265487"
+         x="108.30122"
+         y="194.86667"
+         id="tspan20">afro-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:1.82396px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.6296;stroke-dasharray:none;stroke-opacity:0.265487"
+         x="108.30122"
+         y="202.80414"
+         id="tspan1">asiatiska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:1.05833px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.286136;paint-order:stroke fill markers"
+       id="text21"
+       transform="translate(-2.4471587,2.2246898)"><textPath
+         xlink:href="#path9"
+         id="textPath22"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:1.05833px;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:0.286136">    semitiska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#ecc74d;fill-opacity:1;stroke:none;stroke-width:4.64268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="208.58743"
+       y="40.032452"
+       id="text24"
+       transform="rotate(12.898181)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#ecc74d;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="208.58743"
+         y="40.032452"
+         id="tspan24">somaliska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.43519px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:0.450135;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.06709;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="234.3712"
+       y="-29.872145"
+       id="text25"
+       transform="rotate(32.773872)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.43519px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.06709"
+         x="234.3712"
+         y="-29.872145"
+         id="tspan25">övriga</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.4401px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#d2c07b;fill-opacity:1;stroke:none;stroke-width:5.07095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="240.71031"
+       y="-59.635452"
+       id="text26"
+       transform="rotate(44.345789)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.4401px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#d2c07b;fill-opacity:1;stroke:none;stroke-width:5.07095"
+         x="240.71031"
+         y="-59.635452"
+         id="tspan26">berberspråk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.749326;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.575221;paint-order:stroke fill markers"
+       id="text27"
+       transform="translate(1.2584746,3.1461864)"><textPath
+         xlink:href="#path3"
+         id="textPath27"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';letter-spacing:0.79375px;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1;stroke-dasharray:none;stroke-opacity:0.575221">                kushitiska</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#deb928;fill-opacity:1;stroke:none;stroke-width:4.64268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="88.76812"
+       y="128.54262"
+       id="text28"
+       transform="rotate(-27.332281)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#deb928;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="88.76812"
+         y="128.54262"
+         id="tspan27">etiopiska språk </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#deb928;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="88.76812"
+         y="132.96477"
+         id="tspan32">(amhariska, tigrinska, etc)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#dbc057;fill-opacity:1;stroke:none;stroke-width:4.64268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="86.382812"
+       y="114.80116"
+       id="text29"
+       transform="rotate(-25.410969)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#dbc057;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="86.382812"
+         y="114.80116"
+         id="tspan28">hebreiska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#ebdca1;fill-opacity:1;stroke:none;stroke-width:4.64268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="77.570793"
+       y="105.70882"
+       id="text30"
+       transform="rotate(-25.999302)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#ebdca1;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="77.570793"
+         y="105.70882"
+         id="tspan30">arameiska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.74346px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#d3b229;fill-opacity:1;stroke:none;stroke-width:4.52242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="46.306347"
+       y="102.21033"
+       id="text31"
+       transform="rotate(-25.999302)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.74346px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#d3b229;fill-opacity:1;stroke:none;stroke-width:4.52242"
+         x="46.306347"
+         y="102.21033"
+         id="tspan31">arabiska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:Signika;-inkscape-font-specification:Signika;letter-spacing:0.79375px;opacity:0.757412;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.271386;paint-order:stroke fill markers"
+       id="text32"
+       x="22.099476"
+       y="0"
+       transform="translate(-0.77599292,3.166332)"><textPath
+         xlink:href="#path10"
+         id="textPath31"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#f9f9f9;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:0.271386">  semitiska </textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;line-height:0.75;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';opacity:1;fill:#dbad57;fill-opacity:1;stroke:none;stroke-width:4.64268;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="75.146492"
+       y="94.520279"
+       id="text33"
+       transform="rotate(-28.273973)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.89619px;font-family:Signika;-inkscape-font-specification:'Signika Semi-Bold';fill:#dbad57;fill-opacity:1;stroke:none;stroke-width:4.64268"
+         x="75.146492"
+         y="94.520279"
+         id="tspan33">maltesiska</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27151524,-0.15778546,0.15778546,0.27151524,57.876238,-15.151775)"
+       id="text50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect50);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="50.395873"
+         y="269.52004"
+         id="tspan29"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan2">a</tspan><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan22">ħ</tspan><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan23">wa</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27453785,-0.15246556,0.15246556,0.27453785,31.870296,10.012509)"
+       id="text22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="56.720076"
+         y="269.52004"
+         id="tspan35"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan34">akh</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27453785,-0.15246556,0.15246556,0.27453785,61.601757,-0.84183424)"
+       id="text34"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect34);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="54.98896"
+         y="269.52004"
+         id="tspan37"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan36">akhi</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27453785,-0.15246556,0.15246556,0.27453785,73.085338,4.663992)"
+       id="text35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect35);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="56.345728"
+         y="269.52004"
+         id="tspan39"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan38">ach</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27453785,-0.15246556,0.15246556,0.27453785,86.220666,15.361026)"
+       id="text37"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect37);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="53.5111"
+         y="269.52004"
+         id="tspan41"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan40">akay</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.30637356,0.06893491,-0.06893491,0.30637356,197.35637,3.4175565)"
+       id="text39"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect39);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="47.819055"
+         y="269.52004"
+         id="tspan43"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan42">walaal</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22486331,0.21921057,-0.21921057,0.22486331,259.18443,56.707446)"
+       id="text41"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Signika;-inkscape-font-specification:Signika;text-align:center;letter-spacing:0.5px;white-space:pre;shape-inside:url(#rect41);display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.50416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+         x="51.399125"
+         y="269.52004"
+         id="tspan47"><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan44">a</tspan><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan45">ɣ</tspan><tspan
+           style="font-style:italic;font-stretch:condensed;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Italic Condensed'"
+           id="tspan46">yul</tspan></tspan></text>
+  </g>
+</svg>
