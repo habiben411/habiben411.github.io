@@ -78,7 +78,7 @@ window.addEventListener('load', function() {
 
     console.log("inside load! " )
     
-    var svgObject = document.getElementById('linguamap');
+    var svgObject =  window.parent.document.getElementById('linguamap');
     
         console.log("inside load! " + svgObject )
 
@@ -105,7 +105,7 @@ function isvisible(obj) {
 }
 
 function showTurkey(){
-  var svgObject = document.getElementById('historicalmap');
+  var svgObject =  window.parent.document.getElementById('historicalmap');
 
   var svgElement = svgObject.contentDocument.querySelector('#turkiye');
   svgElement.textContent = "TURKIET";
@@ -118,7 +118,8 @@ function handleSvgLoad() {
     //console.log("svgObject " + svgObject);
     
     // Select all object elements on the page
-    var objects = document.getElementsByTagName('object');
+    var objects =  window.parent.document.getElementsByTagName('object');
+             console.log("objects: " + objects.length); 
 
 
     for (var i =  0; i < objects.length; i++) {
