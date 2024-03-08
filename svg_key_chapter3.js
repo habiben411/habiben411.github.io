@@ -15,7 +15,6 @@ window.onload = function() {
     
             // Step 3: Get the ID of the parent table
             var tableId = table.id;
-            console.log("node " + tableId);
 
             if (tableId === "sifrTable") {
                 // Select the output div
@@ -32,4 +31,19 @@ window.onload = function() {
             
         });
     }
+    
+    var divs  =  document.getElementsByTagName('div');
+    
+    console.log("node, length " + divs.length);
+
+    
+    for (var i = 0; i < divs.length; i++) {
+        if (divs[i].id.startsWith("composed")){
+        
+            divs[i].addEventListener('click', function() {
+                 this.textContent = ""
+            });
+        }
+    }
+    
 }

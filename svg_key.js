@@ -1,6 +1,6 @@
 
 
-const map = document.getElementById("historicalmap");
+const map =  window.parent.document.getElementById("historicalmap");
 console.log("map: " + map);
 
 function testme(){
@@ -23,33 +23,33 @@ map.addEventListener("click", (event) => {
 
 
 // Select all object elements
-const objects = document.querySelectorAll("object");
+const objects = window.parent.document.querySelectorAll("object");
 
 // Iterate over each object element
 objects.forEach(object => {
 
 
- object.addEventListener('click', function(event) {
-    event.preventDefault();
- });
- 
- // Attach the load event listener to each object
- object.addEventListener("load", (evt) => {
-    const doc = evt.target.contentDocument;
-    
-    console.log("querySelector" + doc);
-
-    // Attach the keydown event listener to each document
-    doc.addEventListener("keydown", (evt) => {
-        console.log("pressed in svg document", evt.key);
-        var keyName = evt.key; // Corrected: Use evt.key instead of event.key
-        console.log("pressed inside SVG");
+     object.addEventListener('click', function(event) {
+        event.preventDefault();
+     });
+     
+     // Attach the load event listener to each object
+     object.addEventListener("load", (evt) => {
+        const doc = evt.target.contentDocument;
         
-        if (keyName == 'ö') {
-          handleSvgLoad(); // Assuming handleSvgLoad is a defined function
-          return;
-        }
-   });
+        console.log("querySelector" + doc);
+    
+        // Attach the keydown event listener to each document
+        doc.addEventListener("keydown", (evt) => {
+            console.log("pressed in svg document", evt.key);
+            var keyName = evt.key; // Corrected: Use evt.key instead of event.key
+            console.log("pressed inside SVG");
+            
+            if (keyName == 'ö') {
+              handleSvgLoad(); // Assuming handleSvgLoad is a defined function
+              return;
+            }
+       });
    
     doc.addEventListener("focus", (event) => {
           console.log("CLICKED!! < " );
