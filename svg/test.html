@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+       <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>-->
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black_hamid.css">
+		
+		<link rel="stylesheet" href="css/hamid.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	
+
+		
+	<body background=black>
+
+	 
+		<div class="reveal">
+			<div class="slides">
+ 
+        		<section>
+        		            <div class="fullscreenimg"  onclick="testme()">
+                             <object what="map" id="historicalmap" type="image/svg+xml" data="historical_map.svg" class="imageGallery2" onclick="testme()"></object>
+                    	  </div>
+        		</section>
+			</div>
+		</div>
+    	
+        <!--<script src="transition2.js"></script>-->
+ 	    <script src="svg_key.js"></script>
+
+        <script src="dist/reveal.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize(
+			{
+				 //autoSlide: 1500,
+				 loop: true,
+				hash: true,
+				margin: 0.0,
+ 				width: '100%',  // You can also use window.innerWidth
+				height: '100%', // You can also use window.innerHeight
+ 				minScale: 1.0,
+  				maxScale: 1.0,
+  				center: true,
+  				disableLayout: false,
+  				autoAnimate: true,
+  				viewDistance: 10,
+                controls: true,
+                autoAnimateEasing: 'ease-out',
+                autoAnimateDuration: 3.8,
+                autoAnimateUnmatched: false,
+                backgroundTransition: 'cross',
+
+  				dependencies: [
+					{
+						src: 'plugin/external/external.js',
+						condition: function() {
+							return !!document.querySelector( '[data-external],[data-external-replace]' );
+						}
+					},
+
+				],
+				
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [  RevealHighlight ]
+			});
+						
+			/*$(function () {
+			    // on page load  replace all src URLs
+			
+			    $('.animated-gif').each(function (i, e) {
+			        disableGif(e)
+			    });
+			});*/
+
+            
+
+		</script>
+  	    <script>
+          // Select the element
+          var textElement = document.getElementById('chapter_section');
+       
+         // Function to fade in the element
+         function fadeIn(element) {
+             var op =  0;  // initial opacity
+             var timer = setInterval(function () {
+                 if (op >=  1){
+                     clearInterval(timer);
+                 }
+                 element.style.opacity = op;
+                 op +=  0.05;
+             },  50);
+         }
+        setTimeout(function() {
+             fadeIn(textElement);
+         },  1000);
+      </script>
+  
+
+	</body>
+</html>
