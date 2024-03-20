@@ -1624,8 +1624,13 @@
              #cities{ transition: opacity 0.5s linear;}
              #turkiye{ transition: opacity 0.5s linear;}
              
+             @import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+
+          
+    
      </style>
-       
+ 
+ 
        </defs><g
      inkscape:label="World map"
      inkscape:groupmode="layer"
