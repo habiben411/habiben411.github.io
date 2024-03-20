@@ -1612,8 +1612,7 @@
        
 
 
-       <style
-   id="style1"> 
+       <style id="style1"> 
              #WorldUntil1500 { transition: opacity 0.5s linear;}
              #World1798 { transition: opacity 0.5s linear;}
              #World2024 { transition: opacity 0.5s linear;}
@@ -1623,13 +1622,13 @@
              #World900BCE{ transition: opacity 0.5s linear;}
              #cities{ transition: opacity 0.5s linear;}
              #turkiye{ transition: opacity 0.5s linear;}
-             
-             @import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
 
-          
     
      </style>
  
+     <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+     </style>
  
        </defs><g
      inkscape:label="World map"
