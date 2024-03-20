@@ -173,9 +173,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0070185"
-     inkscape:cx="344.58155"
-     inkscape:cy="690.15614"
+     inkscape:zoom="1.4241392"
+     inkscape:cx="511.53707"
+     inkscape:cy="702.17854"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1069,7 +1069,7 @@
        y="66.988815"
        x="701.40302"
        id="rect90311"
-       style="fill:#ab1207;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ab1207;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="11.580093"
        width="0.57713157"
        class="node-rect" />
@@ -1113,7 +1113,7 @@
        y="88.901917"
        x="701.40302"
        id="rect90324"
-       style="fill:#ab1207;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ab1207;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="10.970614"
        width="0.57713157"
        class="node-rect" />
@@ -1159,7 +1159,7 @@
        y="133.71735"
        x="701.40302"
        id="rect90337"
-       style="fill:#ab1207;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ab1207;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -1203,7 +1203,7 @@
        y="145.2692"
        x="701.40302"
        id="rect90350"
-       style="fill:#ab1207;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ab1207;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.38600308"
        width="0.57713157"
        class="node-rect" />
@@ -1247,7 +1247,7 @@
        y="311.44498"
        x="497.81989"
        id="rect90363"
-       style="fill:#ab1207;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ab1207;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="24.155666"
        width="0.57713157"
        class="node-rect" />
@@ -1293,7 +1293,7 @@
        y="20.723639"
        x="701.40302"
        id="rect90376"
-       style="fill:#be2618;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#be2618;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="14.627485"
        width="0.57713157"
        class="node-rect" />
@@ -1337,7 +1337,7 @@
        y="45.684578"
        x="701.40302"
        id="rect90389"
-       style="fill:#be2618;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#be2618;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="10.970614"
        width="0.57713157"
        class="node-rect" />
@@ -1382,7 +1382,7 @@
        y="110.20615"
        x="701.40302"
        id="rect90402"
-       style="fill:#be2618;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#be2618;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.2347548"
        width="0.57713157"
        class="node-rect" />
@@ -1426,7 +1426,7 @@
        y="122.77435"
        x="701.40302"
        id="rect90415"
-       style="fill:#be2618;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#be2618;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.60947853"
        width="0.57713157"
        class="node-rect" />
@@ -1470,7 +1470,7 @@
        y="272.66925"
        x="497.81989"
        id="rect90428"
-       style="fill:#be2618;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#be2618;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="28.442333"
        width="0.57713157"
        class="node-rect" />
@@ -1516,7 +1516,7 @@
        y="475.39365"
        x="294.23672"
        id="rect90441"
-       style="fill:#dc442c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc442c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="52.598003"
        width="0.57713157"
        class="node-rect" />
@@ -1555,7 +1555,7 @@
        y="155.98885"
        x="701.40302"
        id="rect90454"
-       style="fill:#dc442c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc442c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="26.410738"
        width="0.57713157"
        class="node-rect" />
@@ -1599,7 +1599,7 @@
        y="218.50662"
        x="701.40302"
        id="rect90467"
-       style="fill:#dc442c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc442c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.5236964"
        width="0.57713157"
        class="node-rect" />
@@ -1645,7 +1645,7 @@
        y="230.36378"
        x="701.40302"
        id="rect90480"
-       style="fill:#dc442c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc442c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.0157976"
        width="0.57713157"
        class="node-rect" />
@@ -1690,7 +1690,7 @@
        y="241.71307"
        x="701.40302"
        id="rect90493"
-       style="fill:#e64e36;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e64e36;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.60947853"
        width="0.57713157"
        class="node-rect" />
@@ -1734,7 +1734,7 @@
        y="372.68268"
        x="497.81989"
        id="rect90506"
-       style="fill:#e64e36;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e64e36;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="29.559711"
        width="0.57713157"
        class="node-rect" />
@@ -1779,7 +1779,7 @@
        y="192.73308"
        x="701.40302"
        id="rect90519"
-       style="fill:#e64e36;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e64e36;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="15.440124"
        width="0.57713157"
        class="node-rect" />
@@ -1823,7 +1823,7 @@
        y="252.65549"
        x="701.40302"
        id="rect90532"
-       style="fill:#f0583c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f0583c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -1867,7 +1867,7 @@
        y="264.20795"
        x="701.40302"
        id="rect90545"
-       style="fill:#f0583c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f0583c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.60947853"
        width="0.57713157"
        class="node-rect" />
@@ -1911,7 +1911,7 @@
        y="412.57578"
        x="497.81989"
        id="rect90558"
-       style="fill:#f0583c;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f0583c;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="17.26856"
        width="0.57713157"
        class="node-rect" />
@@ -1955,7 +1955,7 @@
        y="275.15094"
        x="701.40302"
        id="rect90571"
-       style="fill:#ff5a50;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff5a50;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="5.8916264"
        width="0.57713157"
        class="node-rect" />
@@ -1999,7 +1999,7 @@
        y="291.37582"
        x="701.40302"
        id="rect90584"
-       style="fill:#ff5a50;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff5a50;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.0157976"
        width="0.57713157"
        class="node-rect" />
@@ -2043,7 +2043,7 @@
        y="302.7251"
        x="701.40302"
        id="rect90597"
-       style="fill:#ff5a50;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff5a50;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.34537119"
        width="0.57713157"
        class="node-rect" />
@@ -2087,7 +2087,7 @@
        y="440.17822"
        x="497.81989"
        id="rect90610"
-       style="fill:#dc442c;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc442c;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="7.2527952"
        width="0.57713157"
        class="node-rect" />
@@ -2131,7 +2131,7 @@
        y="313.40381"
        x="701.40302"
        id="rect90623"
-       style="fill:#e64e36;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e64e36;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.5236964"
        width="0.57713157"
        class="node-rect" />
@@ -2175,7 +2175,7 @@
        y="325.26096"
        x="701.40302"
        id="rect90636"
-       style="fill:#f0583c;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f0583c;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.1173774"
        width="0.57713157"
        class="node-rect" />
@@ -2220,7 +2220,7 @@
        y="457.76401"
        x="497.81989"
        id="rect90649"
-       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.6410737"
        width="0.57713157"
        class="node-rect" />
@@ -2264,7 +2264,7 @@
        y="538.32465"
        x="294.23672"
        id="rect90662"
-       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="56.722137"
        width="0.57713157"
        class="node-rect" />
@@ -2302,7 +2302,7 @@
        y="336.71182"
        x="701.40302"
        id="rect90675"
-       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="15.236963"
        width="0.57713157"
        class="node-rect" />
@@ -2346,7 +2346,7 @@
        y="362.2822"
        x="701.40302"
        id="rect90688"
-       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff6e6e;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.4379141"
        width="0.57713157"
        class="node-rect" />
@@ -2391,7 +2391,7 @@
        y="375.05356"
        x="701.40302"
        id="rect90701"
-       style="fill:#e66e5a;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e66e5a;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.0315952"
        width="0.57713157"
        class="node-rect" />
@@ -2435,7 +2435,7 @@
        y="479.24658"
        x="497.81989"
        id="rect90714"
-       style="fill:#e66e5a;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e66e5a;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="19.706474"
        width="0.57713157"
        class="node-rect" />
@@ -2479,7 +2479,7 @@
        y="387.41858"
        x="701.40302"
        id="rect90727"
-       style="fill:#f25d52;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f25d52;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.0631905"
        width="0.57713157"
        class="node-rect" />
@@ -2523,7 +2523,7 @@
        y="509.28629"
        x="497.81989"
        id="rect90740"
-       style="fill:#f25d52;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f25d52;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.0631905"
        width="0.57713157"
        class="node-rect" />
@@ -2567,7 +2567,7 @@
        y="401.81516"
        x="701.40302"
        id="rect90753"
-       style="fill:#cd1c58;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cd1c58;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.0315952"
        width="0.57713157"
        class="node-rect" />
@@ -2611,7 +2611,7 @@
        y="523.6828"
        x="497.81989"
        id="rect90766"
-       style="fill:#f88e80;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f88e80;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.0315952"
        width="0.57713157"
        class="node-rect" />
@@ -2655,7 +2655,7 @@
        y="605.38037"
        x="294.23672"
        id="rect90779"
-       style="fill:#b41c0f;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#b41c0f;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="25.801258"
        width="0.57713157"
        class="node-rect" />
@@ -2700,7 +2700,7 @@
        y="536.36182"
        x="701.40302"
        id="rect90792"
-       style="fill:#cd1c58;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cd1c58;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="3.2505524"
        width="0.57713157"
        class="node-rect" />
@@ -2744,7 +2744,7 @@
        y="613.86194"
        x="497.81989"
        id="rect90805"
-       style="fill:#cd1c58;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cd1c58;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="3.2505524"
        width="0.57713157"
        class="node-rect" />
@@ -2789,7 +2789,7 @@
        y="691.36316"
        x="294.23672"
        id="rect90818"
-       style="fill:#cd1c58;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cd1c58;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="3.2505524"
        width="0.57713157"
        class="node-rect" />
@@ -2834,7 +2834,7 @@
        y="414.18018"
        x="701.40302"
        id="rect90831"
-       style="fill:#ff7441;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff7441;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="17.065399"
        width="0.57713157"
        class="node-rect" />
@@ -2878,7 +2878,7 @@
        y="441.57892"
        x="701.40302"
        id="rect90844"
-       style="fill:#ff7441;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff7441;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="15.033805"
        width="0.57713157"
        class="node-rect" />
@@ -2924,7 +2924,7 @@
        y="466.94614"
        x="701.40302"
        id="rect90857"
-       style="fill:#ff7441;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff7441;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -2968,7 +2968,7 @@
        y="536.04785"
        x="497.81989"
        id="rect90870"
-       style="fill:#ff9345;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="33.318161"
        width="0.57713157"
        class="node-rect" />
@@ -3012,7 +3012,7 @@
        y="478.4986"
        x="701.40302"
        id="rect90883"
-       style="fill:#ff9345;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.2347548"
        width="0.57713157"
        class="node-rect" />
@@ -3056,7 +3056,7 @@
        y="491.06677"
        x="701.40302"
        id="rect90896"
-       style="fill:#ff9345;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.5236964"
        width="0.57713157"
        class="node-rect" />
@@ -3099,7 +3099,7 @@
        y="502.92398"
        x="701.40302"
        id="rect90909"
-       style="fill:#ff7441;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff7441;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.6252762"
        width="0.57713157"
        class="node-rect" />
@@ -3143,7 +3143,7 @@
        y="514.88214"
        x="701.40302"
        id="rect90922"
-       style="fill:#ff9345;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -3187,7 +3187,7 @@
        y="525.62195"
        x="701.40302"
        id="rect90935"
-       style="fill:#ff9345;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -3231,7 +3231,7 @@
        y="579.69977"
        x="497.81989"
        id="rect90948"
-       style="fill:#ff9345;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ff9345;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="6.1963654"
        width="0.57713157"
        class="node-rect" />
@@ -3276,7 +3276,7 @@
        y="641.5152"
        x="294.23672"
        id="rect90961"
-       style="fill:#ed7455;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#ed7455;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="39.51453"
        width="0.57713157"
        class="node-rect" />
@@ -3293,11 +3293,6 @@
        id="g90965"
        transform="matrix(0.57713154,0,0,0.57713154,282.23672,661.8496)"
        class="node-entered">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 5,0 1412,0"
-         id="1169578975408 0 fyfindoiranskafzf#195! fcf194 500fdf__1"
-         class="node-label-guide" />
       <text
          id="text90968"
          style="font-size:21.6px;line-height:0%;font-family:Univers;fill:#f9f9f9;fill-opacity:1"
@@ -3318,7 +3313,7 @@
        y="549.94574"
        x="701.40302"
        id="rect90974"
-       style="fill:#dc1414;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc1414;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.1173774"
        width="0.57713157"
        class="node-rect" />
@@ -3362,7 +3357,7 @@
        y="627.44641"
        x="497.81989"
        id="rect90987"
-       style="fill:#dc1414;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc1414;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.1173774"
        width="0.57713157"
        class="node-rect" />
@@ -3389,7 +3384,7 @@
        y="704.94708"
        x="294.23672"
        id="rect91000"
-       style="fill:#dc1414;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dc1414;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.1173774"
        width="0.57713157"
        class="node-rect" />
@@ -3416,7 +3411,7 @@
        y="561.39661"
        x="701.40302"
        id="rect91013"
-       style="fill:#cc5271;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cc5271;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="7.9232216"
        width="0.57713157"
        class="node-rect" />
@@ -3461,7 +3456,7 @@
        y="638.89734"
        x="497.81989"
        id="rect91026"
-       style="fill:#cc5271;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cc5271;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="7.9232216"
        width="0.57713157"
        class="node-rect" />
@@ -3488,7 +3483,7 @@
        y="716.39746"
        x="294.23672"
        id="rect91039"
-       style="fill:#cc5271;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#cc5271;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="7.9232216"
        width="0.57713157"
        class="node-rect" />
@@ -3515,7 +3510,7 @@
        y="509.61292"
        x="90.653572"
        id="rect91052"
-       style="fill:#c8c864;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8c864;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="186.92708"
        width="0.57713157"
        class="node-rect" />
@@ -3538,7 +3533,7 @@
        y="579.65308"
        x="701.40302"
        id="rect91065"
-       style="fill:#c8c864;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8c864;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="31.489727"
        width="0.57713157"
        class="node-rect" />
@@ -3565,7 +3560,7 @@
        y="621.47656"
        x="701.40302"
        id="rect91078"
-       style="fill:#c8c864;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8c864;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="10.564295"
        width="0.57713157"
        class="node-rect" />
@@ -3609,7 +3604,7 @@
        y="642.3739"
        x="701.40302"
        id="rect91091"
-       style="fill:#c8c864;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8c864;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -3653,7 +3648,7 @@
        y="662.68268"
        x="497.81989"
        id="rect91104"
-       style="fill:#dcdc50;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dcdc50;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="42.460342"
        width="0.57713157"
        class="node-rect" />
@@ -3680,7 +3675,7 @@
        y="653.11377"
        x="701.40302"
        id="rect91117"
-       style="fill:#b4b478;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#b4b478;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="3.8600309"
        width="0.57713157"
        class="node-rect" />
@@ -3697,11 +3692,6 @@
        id="g91121"
        transform="matrix(0.57713154,0,0,0.57713154,701.40303,655.62097)"
        class="node-entered">
-      <path
-         inkscape:connector-curvature="0"
-         d="M -1412,0 -4,0"
-         id="1169578975408 0 fyftigrinskafzf#19! fcf19 000fdf__1"
-         class="node-label-guide" />
       <text
          id="text91124"
          style="font-size:21.6px;line-height:0%;font-family:Univers;fill:#f9f9f9;fill-opacity:1"
@@ -3724,7 +3714,7 @@
        y="667.30719"
        x="701.40302"
        id="rect91130"
-       style="fill:#b4b478;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#b4b478;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -3741,11 +3731,6 @@
        id="g91134"
        transform="matrix(0.57713154,0,0,0.57713154,701.40303,668.49377)"
        class="node-entered">
-      <path
-         inkscape:connector-curvature="0"
-         d="M -1412,0 -4,0"
-         id="1169578975408 0 fyfamhariskafzf#6! fcf6 000fdf__1"
-         class="node-label-guide" />
       <text
          id="text91137"
          style="font-size:21.6px;line-height:0%;font-family:Univers;fill:#f9f9f9;fill-opacity:1"
@@ -3768,7 +3753,7 @@
        y="715.47632"
        x="497.81989"
        id="rect91143"
-       style="fill:#e6e646;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e6e646;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="5.0789881"
        width="0.57713157"
        class="node-rect" />
@@ -3812,7 +3797,7 @@
        y="734.65436"
        x="294.23672"
        id="rect91156"
-       style="fill:#dcdc50;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dcdc50;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="47.53933"
        width="0.57713157"
        class="node-rect" />
@@ -3839,7 +3824,7 @@
        y="678.85968"
        x="701.40302"
        id="rect91169"
-       style="fill:#dcdc50;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dcdc50;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="10.767455"
        width="0.57713157"
        class="node-rect" />
@@ -3856,11 +3841,6 @@
        id="g91173"
        transform="matrix(0.57713154,0,0,0.57713154,701.40303,684.82048)"
        class="node-entered">
-      <path
-         inkscape:connector-curvature="0"
-         d="M -1412,0 -4,0"
-         id="1169578975408 0 fyfsomaliskafzf#53! fcf53 000fdf__1"
-         class="node-label-guide" />
       <text
          transform="translate(-13.861657,10.396243)"
          id="text91176"
@@ -3883,7 +3863,7 @@
        y="736.25189"
        x="497.81989"
        id="rect91182"
-       style="fill:#c8c864;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8c864;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="10.767455"
        width="0.57713157"
        class="node-rect" />
@@ -3927,7 +3907,7 @@
        y="699.96014"
        x="701.40302"
        id="rect91195"
-       style="fill:#e6e646;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#e6e646;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -3970,7 +3950,7 @@
        y="757.35242"
        x="497.81989"
        id="rect91208"
-       style="fill:#b4b478;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#b4b478;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -4014,7 +3994,7 @@
        y="792.52679"
        x="294.23672"
        id="rect91221"
-       style="fill:#9696c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9696c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="11.173774"
        width="0.57713157"
        class="node-rect" />
@@ -4058,7 +4038,7 @@
        y="706.8736"
        x="90.653572"
        id="rect91234"
-       style="fill:#9696c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9696c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="58.713104"
        width="0.57713157"
        class="node-rect" />
@@ -4074,7 +4054,7 @@
        y="710.69995"
        x="701.40302"
        id="rect91247"
-       style="fill:#9696c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9696c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="36.568714"
        width="0.57713157"
        class="node-rect" />
@@ -4118,7 +4098,7 @@
        y="757.60236"
        x="701.40302"
        id="rect91260"
-       style="fill:#9696c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9696c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.0631905"
        width="0.57713157"
        class="node-rect" />
@@ -4162,7 +4142,7 @@
        y="771.99884"
        x="701.40302"
        id="rect91273"
-       style="fill:#aaaadc;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#aaaadc;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.4379141"
        width="0.57713157"
        class="node-rect" />
@@ -4206,7 +4186,7 @@
        y="784.7702"
        x="701.40302"
        id="rect91286"
-       style="fill:#aaaadc;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#aaaadc;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -4250,7 +4230,7 @@
        y="796.32263"
        x="701.40302"
        id="rect91299"
-       style="fill:#9696c8;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9696c8;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.8758283"
        width="0.57713157"
        class="node-rect" />
@@ -4294,7 +4274,7 @@
        y="822.71429"
        x="497.81989"
        id="rect91312"
-       style="fill:#a0a0d2;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#a0a0d2;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.8758283"
        width="0.57713157"
        class="node-rect" />
@@ -4338,7 +4318,7 @@
        y="768.09222"
        x="497.81989"
        id="rect91325"
-       style="fill:#64c8c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="44.288776"
        width="0.57713157"
        class="node-rect" />
@@ -4382,7 +4362,7 @@
        y="814.03418"
        x="294.23672"
        id="rect91338"
-       style="fill:#64c8c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="49.164604"
        width="0.57713157"
        class="node-rect" />
@@ -4420,7 +4400,7 @@
        y="775.91992"
        x="90.653572"
        id="rect91351"
-       style="fill:#64c8c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="49.164604"
        width="0.57713157"
        class="node-rect" />
@@ -4462,7 +4442,7 @@
        y="811.5318"
        x="701.40302"
        id="rect91364"
-       style="fill:#78b4b4;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#78b4b4;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="9.1421785"
        width="0.57713157"
        class="node-rect" />
@@ -4507,7 +4487,7 @@
        y="831.00708"
        x="701.40302"
        id="rect91377"
-       style="fill:#78b4b4;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#78b4b4;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -4550,7 +4530,7 @@
        y="842.55951"
        x="701.40302"
        id="rect91390"
-       style="fill:#64c8c8;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -4593,7 +4573,7 @@
        y="853.60406"
        x="701.40302"
        id="rect91403"
-       style="fill:#64c8c8;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -4636,7 +4616,7 @@
        y="844.31458"
        x="497.81989"
        id="rect91416"
-       style="fill:#46d5f0;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#46d5f0;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="11.072194"
        width="0.57713157"
        class="node-rect" />
@@ -4682,7 +4662,7 @@
        y="865.7204"
        x="497.81989"
        id="rect91429"
-       style="fill:#64beaa;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64beaa;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -4726,7 +4706,7 @@
        y="873.53241"
        x="294.23672"
        id="rect91442"
-       style="fill:#64beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="11.478513"
        width="0.57713157"
        class="node-rect" />
@@ -4770,7 +4750,7 @@
        y="901.33746"
        x="701.40302"
        id="rect91455"
-       style="fill:#46d5f0;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#46d5f0;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -4813,7 +4793,7 @@
        y="912.38153"
        x="701.40302"
        id="rect91468"
-       style="fill:#c28311;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c28311;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.50789881"
        width="0.57713157"
        class="node-rect" />
@@ -4856,7 +4836,7 @@
        y="835.41809"
        x="90.653572"
        id="rect91481"
-       style="fill:#c28311;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c28311;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="12.697471"
        width="0.57713157"
        class="node-rect" />
@@ -4902,7 +4882,7 @@
        y="864.34393"
        x="701.40302"
        id="rect91494"
-       style="fill:#f7b00a;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f7b00a;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="4.0631905"
        width="0.57713157"
        class="node-rect" />
@@ -4946,7 +4926,7 @@
        y="878.74048"
        x="701.40302"
        id="rect91507"
-       style="fill:#f7b00a;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#f7b00a;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.5236964"
        width="0.57713157"
        class="node-rect" />
@@ -4989,7 +4969,7 @@
        y="890.59766"
        x="701.40302"
        id="rect91520"
-       style="fill:#9632dc;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9632dc;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.40631905"
        width="0.57713157"
        class="node-rect" />
@@ -5032,7 +5012,7 @@
        y="895.34399"
        x="294.23672"
        id="rect91533"
-       style="fill:#64c8c8;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="5.9932055"
        width="0.57713157"
        class="node-rect" />
@@ -5076,7 +5056,7 @@
        y="923.2229"
        x="701.40302"
        id="rect91546"
-       style="fill:#64c8c8;fill-opacity:0.6;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.6;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.32505524"
        width="0.57713157"
        class="node-rect" />
@@ -5119,7 +5099,7 @@
        y="933.55646"
        x="294.23672"
        id="rect91559"
-       style="fill:#dcc832;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#dcc832;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.32505524"
        width="0.57713157"
        class="node-rect" />
@@ -5165,7 +5145,7 @@
        y="858.4491"
        x="90.653572"
        id="rect91572"
-       style="fill:#c8dc32;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8dc32;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="6.3182611"
        width="0.57713157"
        class="node-rect" />
@@ -5211,7 +5191,7 @@
        y="933.88135"
        x="701.40302"
        id="rect91585"
-       style="fill:#c8dc46;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8dc46;fill-opacity:0.75;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="6.0947857"
        width="0.57713157"
        class="node-rect" />
@@ -5255,7 +5235,7 @@
        y="944.2149"
        x="294.23672"
        id="rect91598"
-       style="fill:#9632dc;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9632dc;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="6.0947857"
        width="0.57713157"
        class="node-rect" />
@@ -5301,7 +5281,7 @@
        y="875.10052"
        x="90.653572"
        id="rect91611"
-       style="fill:#c8beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="6.0947857"
        width="0.57713157"
        class="node-rect" />
@@ -5347,7 +5327,7 @@
        y="950.31"
        x="701.40302"
        id="rect91624"
-       style="fill:#c8beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.6410737"
        width="0.57713157"
        class="node-rect" />
@@ -5391,7 +5371,7 @@
        y="960.64294"
        x="294.23672"
        id="rect91637"
-       style="fill:#c8beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.6410737"
        width="0.57713157"
        class="node-rect" />
@@ -5436,7 +5416,7 @@
        y="891.52856"
        x="90.653572"
        id="rect91650"
-       style="fill:#c8beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="2.6410737"
        width="0.57713157"
        class="node-rect" />
@@ -5482,7 +5462,7 @@
        y="963.28394"
        x="701.40302"
        id="rect91663"
-       style="fill:#aa1c2e;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#aa1c2e;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.1173774"
        width="0.57713157"
        class="node-rect" />
@@ -5525,7 +5505,7 @@
        y="974.73474"
        x="701.40302"
        id="rect91676"
-       style="fill:#d2d25a;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#d2d25a;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.60947853"
        width="0.57713157"
        class="node-rect" />
@@ -5568,7 +5548,7 @@
        y="973.61749"
        x="294.23672"
        id="rect91689"
-       style="fill:#a0a0d2;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#a0a0d2;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.7268559"
        width="0.57713157"
        class="node-rect" />
@@ -5614,7 +5594,7 @@
        y="904.50311"
        x="90.653572"
        id="rect91702"
-       style="fill:#64c8c8;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.7268559"
        width="0.57713157"
        class="node-rect" />
@@ -5660,7 +5640,7 @@
        y="906.50397"
        x="497.81989"
        id="rect91715"
-       style="fill:#46d5f0;fill-opacity:0.4;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#46d5f0;fill-opacity:0.4;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -5687,7 +5667,7 @@
        y="911.67047"
        x="294.23672"
        id="rect91728"
-       style="fill:#9632dc;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#9632dc;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -5733,7 +5713,7 @@
        y="917.54858"
        x="497.81989"
        id="rect91741"
-       style="fill:#64c8c8;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#64c8c8;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.50789881"
        width="0.57713157"
        class="node-rect" />
@@ -5760,7 +5740,7 @@
        y="922.71503"
        x="294.23672"
        id="rect91754"
-       style="fill:#c8dc46;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8dc46;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.50789881"
        width="0.57713157"
        class="node-rect" />
@@ -5806,7 +5786,7 @@
        y="985.6778"
        x="701.40302"
        id="rect91767"
-       style="fill:#c8beaa;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#c8beaa;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -5849,7 +5829,7 @@
        y="985.6778"
        x="294.23672"
        id="rect91780"
-       style="fill:#1e321e;fill-opacity:0.8;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#1e321e;fill-opacity:0.8;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.71105832"
        width="0.57713157"
        class="node-rect" />
@@ -5897,7 +5877,7 @@
        y="996.72235"
        x="701.40302"
        id="rect91793"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.50789881"
        width="0.57713157"
        class="node-rect" />
@@ -5946,7 +5926,7 @@
        y="996.72235"
        x="294.23672"
        id="rect91806"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="0.50789881"
        width="0.57713157"
        class="node-rect" />
@@ -5998,7 +5978,7 @@
        y="916.56342"
        x="90.653572"
        id="rect91819"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="1.2189571"
        width="0.57713157"
        class="node-rect" />
@@ -6045,7 +6025,7 @@
        y="482.86923"
        x="-112.92957"
        id="rect91832"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
+       style="fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.57713157;stroke-opacity:1;shape-rendering:geometricPrecision"
        height="325.29904"
        width="0.57713157"
        class="node-rect" />
@@ -6061,13 +6041,7 @@
        style="shape-rendering:geometricPrecision"
        id="g91836"
        transform="matrix(0.57713154,0,0,0.57713154,-112.92958,646.09587)"
-       class="node-entered">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 5,0 1412,0"
-         id="1169578975408 0 fyfinvandrar- och minoritetsspråkfzf#1647! fcf1647 200fdf__1"
-         class="node-label-guide" />
-    </g>
+       class="node-entered" />
     <g
        class="layer-above"
        id="g91846"

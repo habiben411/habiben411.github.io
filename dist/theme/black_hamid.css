@@ -98,7 +98,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal h2 {
   font-size: var(--r-heading2-size);
-  font-weight: 100;
+  font-weight: 400;
 }
 
 .reveal h3 {
@@ -119,6 +119,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal p {
   margin: var(--r-block-margin) 0;
   line-height: 1.0;
+  font-weight: 100;
 }
 
 /* Remove trailing margins after titles */
