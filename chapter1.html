@@ -52,6 +52,10 @@
                              <object what="map" id="historicalmap" type="image/svg+xml" data="./svg/historical_map.svg" class="imageGallery2" onclick="testme()"></object>
                     	  </div>
         		</section>
+        		
+        		<section data-state="mylastslide">
+				</section>
+				
 			</div>
 		</div>
     	
@@ -106,7 +110,9 @@
 			    });
 			});*/
 
-            
+            Reveal.addEventListener( 'mylastslide', function() {
+                window.location = 'menu.html';
+            } );
 
 		</script>
   	    <script>

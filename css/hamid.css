@@ -203,14 +203,13 @@ th, td {
 }
 
 .scaledownimg{
-    height:100vh;
-    width:100vw;  
-    background-color: black;
-    object-fit: scale-down;
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    background-color: black;
+    height: 100vh;
+
 }
 
 .fullscreenimg img {
@@ -231,5 +230,7 @@ th, td {
 
 .imageGallery2 {
     position: absolute;
-   
+    min-height: 100%
+
+
 }
