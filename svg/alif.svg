@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4142136"
-     inkscape:cx="549.42195"
+     inkscape:cx="549.77551"
      inkscape:cy="320.31936"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="text_latin"
+     inkscape:current-layer="radicals"
      showgrid="false"
      showguides="true" />
   <defs
@@ -316,11 +316,11 @@
      transform="translate(24.128736,0.74835421)"><tspan
        x="105.90877"
        y="17.486328"
-       id="tspan19"><tspan
+       id="tspan29"><tspan
          style="font-weight:600;-inkscape-font-specification:'Signika Semi-Bold'"
-         id="tspan16">ʔ</tspan><tspan
+         id="tspan2">ʔ</tspan><tspan
          style="font-weight:600;-inkscape-font-specification:'Signika Semi-Bold'"
-         id="tspan18">‘alīfa</tspan></tspan></text>
+         id="tspan28">‘alīfa</tspan></tspan></text>
   <g
      inkscape:groupmode="layer"
      id="radicals"
@@ -345,10 +345,10 @@
          inkscape:label="R1"><tspan
            sodipodi:role="line"
            id="tspan12"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed, ';fill:#1a1a1a"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed, ';fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
    id="tspan1">1</tspan></tspan></text>
     </g>
     <g
@@ -371,10 +371,10 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan4"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Medium Condensed';fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-size:4.23333px;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
    id="tspan3">2</tspan></tspan></text>
     </g>
     <g
@@ -397,10 +397,10 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan7"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:8.81944px;font-family:'Univers 57 Condensed';-inkscape-font-specification:'Univers 57 Condensed,  Medium Condensed';fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-size:4.23333px;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
    id="tspan6">3</tspan></tspan></text>
     </g>
   </g>

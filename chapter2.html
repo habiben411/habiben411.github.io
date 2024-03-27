@@ -5,6 +5,12 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
       	<title>Arabiskans struktur </title>
         		
 		<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,18 +48,21 @@
     	 
 		<div class="reveal">
 			<div class="slides">
-				<section>
-    				<h2 class="r-fit-text">andra delen</h2><br>
-                    <h2 class="r-fit-text">ARABISKANS STRUKTUR</h2>
+				<section data-background-image="http://localhost:8000/svg/background2.svg">
+    				andra delen<br><br>
+                    <h2 class="r-fit-text" ><div style="opacity:0;" id="chapter_section">arabikans struktur</div></h2>
 				</section>
 				<section>
     				<section>
-        				arabiskan är ett konsonantrikt språk:
+    				<p>
+        				arabiskan är ett <b>konsonantrikt</b> språk:
+        				<br><br>
         				28 konsonantfonemer men endast högst 10 vokaler
+        				<br>
         				(svenskan har ca 18 av varje)
     				</section>
-    				<section>
-        				inget verb för "vara"
+    				<section><p>
+        				inget verb för <span style="font-style: italic;"> vara</span>
     				</section>
     					<section>
         				grammatiskt kön
@@ -448,7 +457,25 @@
             
 
 		</script>
-</script>
+  	    <script>
+          // Select the element
+          var textElement = document.getElementById('chapter_section');
+       
+         // Function to fade in the element
+         function fadeIn(element) {
+             var op =  0;  // initial opacity
+             var timer = setInterval(function () {
+                 if (op >=  1){
+                     clearInterval(timer);
+                 }
+                 element.style.opacity = op;
+                 op +=  0.05;
+             },  50);
+         }
+        setTimeout(function() {
+             fadeIn(textElement);
+         },  1000);
+      </script>
 
 	</body>
 </html>
