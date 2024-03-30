@@ -13,6 +13,20 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+   
+   
+       <style
+   id="style1"> 
+             #V3 { transition: opacity 0.5s linear;}
+             #V2 { transition: opacity 0.5s linear;}
+             #V1 { transition: opacity 0.5s linear;}
+             #SuffixLayer{ transition: opacity 0.5s linear;}
+             #PrefixLayer{ transition: opacity 0.5s linear;}
+             #explain_ar{ transition: opacity 0.5s linear;}
+             #explain_sv{ transition: opacity 0.5s linear;}
+
+     </style>
+     
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#000000"
@@ -24,14 +38,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4142136"
-     inkscape:cx="549.77551"
+     inkscape:cx="549.42195"
      inkscape:cy="320.31936"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="radicals"
+     inkscape:current-layer="V2"
      showgrid="false"
      showguides="true" />
   <defs
@@ -61,7 +75,7 @@
      id="layer1"
      style="display:inline;opacity:1">
     <rect
-       style="fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none"
+       style="fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect1"
        width="26.205753"
        height="26.205753"
@@ -70,7 +84,7 @@
        ry="3.2395921"
        inkscape:label="r1" />
     <rect
-       style="opacity:1;fill:#000000;stroke:#ffd42a;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none;fill-opacity:0"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect4"
        width="26.205753"
        height="26.205753"
@@ -79,7 +93,7 @@
        ry="3.2395921"
        inkscape:label="r3" />
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill;stroke-dasharray:none"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ffd42a;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect6"
        width="26.205753"
        height="26.205753"
@@ -87,58 +101,6 @@
        y="22.947363"
        ry="3.2395921"
        inkscape:label="r2" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="vocals"
-     inkscape:label="vocals"
-     style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
-       id="rect5"
-       width="26.205753"
-       height="26.205753"
-       x="71.611053"
-       y="22.947363"
-       ry="3.2395921"
-       inkscape:label="v1" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
-       id="v2"
-       width="26.205753"
-       height="26.205753"
-       x="130.63985"
-       y="-49.153114"
-       ry="3.2395921"
-       transform="scale(1,-1)"
-       inkscape:label="v2" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
-       id="rect7"
-       width="26.205753"
-       height="26.205753"
-       x="189.66862"
-       y="22.605833"
-       ry="3.2395921"
-       inkscape:label="v3" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.000125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
-       id="prefix"
-       width="35.450924"
-       height="26.129448"
-       x="3.095428"
-       y="22.985518"
-       ry="3.230159"
-       inkscape:label="prefix" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
-       id="rect2"
-       width="35.44537"
-       height="26.685158"
-       x="219.52747"
-       y="22.427029"
-       ry="3.2988567"
-       inkscape:label="suffix" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -172,9 +134,162 @@
        inkscape:label="text_latin_r1"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffd42a;fill-opacity:1"
          id="tspan11">ʔ</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="PrefixLayer"
+     inkscape:label="PrefixLayer"
+     onmouseover="document.getElementById('PrefixLayer').style.opacity = '1';"
+     style="opacity:0">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="prefix"
+       width="35.450924"
+       height="26.129448"
+       x="3.095428"
+       y="22.985518"
+       ry="3.230159"
+       inkscape:label="prefix" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="20.85327"
+       y="42.888145"
+       id="text_latin_prefix"
+       inkscape:label="text_latin_prefix"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan20">mu</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="SuffixLayer"
+     inkscape:label="SuffixLayer"
+     onmouseover="document.getElementById('SuffixLayer').style.opacity = '1';"
+     style="opacity:0">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect2"
+       width="35.44537"
+       height="26.685158"
+       x="219.52747"
+       y="22.427029"
+       ry="3.2988567"
+       inkscape:label="suffix" />
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="237.28253"
+       y="43.151932"
+       id="text_latin_suffix"
+       inkscape:label="text_latin_suffix"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan5">AT</tspan></text>
+    <text
+       xml:space="preserve"
+       x="233.60933"
+       y="39.781109"
+       id="text_ar_suffix"
+       inkscape:label="text_ar_suffix"
+       style="display:none;opacity:0.231;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan8">d</tspan></text>
+    <text
+       xml:space="preserve"
+       x="20.188501"
+       y="42.827999"
+       id="text_ar_prefix"
+       inkscape:label="text_ar_prefix"
+       style="display:none;opacity:0.231;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
+         id="tspan27">ف</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="V1"
+     inkscape:label="V1"
+     onmouseover="document.getElementById('V1').style.opacity = '1';"
+     style="opacity:0">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="rect5"
+       width="26.205753"
+       height="26.205753"
+       x="71.611053"
+       y="22.947363"
+       ry="3.2395921"
+       inkscape:label="v1" />
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="84.661171"
+       y="43.151932"
+       id="text_latin_v1"
+       inkscape:label="text_latin_v1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan17">f</tspan></text>
+    <text
+       xml:space="preserve"
+       x="84.24437"
+       y="42.827999"
+       id="text_ar_v1"
+       inkscape:label="text_ar_v1"
+       style="display:none;opacity:0.231;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan22">ف</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="V2"
+     inkscape:label="V2"
+     onmouseover="document.getElementById('V2').style.opacity = '1';"
+     style="opacity:0">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="v2"
+       width="26.205753"
+       height="26.205753"
+       x="130.63985"
+       y="-49.153114"
+       ry="3.2395921"
+       transform="scale(1,-1)"
+       inkscape:label="v2" />
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
+       x="143.50113"
+       y="43.151932"
+       id="text_latin_v2"
+       inkscape:label="text_latin_v2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f9f9f9;fill-opacity:1"
+         id="tspan9">L</tspan></text>
+    <text
+       xml:space="preserve"
+       x="142.97589"
+       y="42.827999"
+       id="text_ar_v2"
+       inkscape:label="text_ar_v2"
+       style="display:none;opacity:0.231;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan24">ف</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="V3"
+     inkscape:label="V3"
+     onmouseover="document.getElementById('V3').style.opacity = '1';"
+     style="opacity:0">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       id="rect7"
+       width="26.205753"
+       height="26.205753"
+       x="189.66862"
+       y="22.605833"
+       ry="3.2395921"
+       inkscape:label="v3" />
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
        x="202.85063"
        y="43.151932"
        id="text_latin_v3"
@@ -184,46 +299,19 @@
          transform="translate(0.3745782,1.1448287)">i</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
-       x="143.50113"
-       y="43.151932"
-       id="text_latin_v2"
-       inkscape:label="text_latin_v2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f9f9f9;fill-opacity:1"
-         id="tspan9">L</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="84.661171"
-       y="43.151932"
-       id="text_latin_v1"
-       inkscape:label="text_latin_v1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
-         id="tspan17">f</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="20.85327"
-       y="42.888145"
-       id="text_latin_prefix"
-       inkscape:label="text_latin_prefix"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
-         id="tspan20">mu</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="237.28253"
-       y="43.151932"
-       id="text_latin_suffix"
-       inkscape:label="text_latin_suffix"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
-         id="tspan5">AT</tspan></text>
+       x="203.34598"
+       y="37.571301"
+       id="text_ar_v3"
+       inkscape:label="text_ar_v3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:none;opacity:0.231;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         id="tspan26">ي</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="text_arabic"
      inkscape:label="text_arabic"
-     style="display:inline;opacity:0.231">
+     style="display:none;opacity:0.231">
     <text
        xml:space="preserve"
        x="53.940704"
@@ -251,69 +339,30 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
          id="tspan25">ف</tspan></text>
-    <text
-       xml:space="preserve"
-       x="84.24437"
-       y="42.827999"
-       id="text_ar_v1"
-       inkscape:label="text_ar_v1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
-         id="tspan22">ف</tspan></text>
-    <text
-       xml:space="preserve"
-       x="142.97589"
-       y="42.827999"
-       id="text_ar_v2"
-       inkscape:label="text_ar_v2"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
-         id="tspan24">ف</tspan></text>
-    <text
-       xml:space="preserve"
-       x="203.34598"
-       y="37.571301"
-       id="text_ar_v3"
-       inkscape:label="text_ar_v3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
-         id="tspan26">ي</tspan></text>
-    <text
-       xml:space="preserve"
-       x="20.188501"
-       y="42.827999"
-       id="text_ar_prefix"
-       inkscape:label="text_ar_prefix"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
-         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
-         id="tspan27">ف</tspan></text>
-    <text
-       xml:space="preserve"
-       x="233.60933"
-       y="39.781109"
-       id="text_ar_suffix"
-       inkscape:label="text_ar_suffix"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
-         style="text-align:center;text-anchor:middle;fill:#f9f9f9"
-         id="tspan8">d</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Radicals" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Light';text-align:left;letter-spacing:0.529167px;display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Light';text-align:left;letter-spacing:0.529167px;display:inline;opacity:0.077;fill:#666666;fill-opacity:0.3264887;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
      x="4.0751739"
      y="62.893055"
      id="explain_sv"
-     inkscape:label="explain_sv"><tspan
-       style="text-align:start;text-anchor:start"
+     inkscape:label="explain_sv"
+     onmouseover="document.getElementById('explain_sv').style.opacity = '1';"><tspan
+       style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:0.3264887"
        id="tspan15">välbekant</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:14.0087px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:39.2932;display:inline;fill:#f9f9f9;stroke-width:1.16739"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:14.0087px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:39.2932;display:inline;opacity:0.1;fill:#f9f9f9;stroke-width:1.16739"
      x="105.90877"
      y="17.486328"
      id="explain_ar"
      inkscape:label="explain_ar"
-     transform="translate(24.128736,0.74835421)"><tspan
+     transform="translate(24.128736,0.74835421)"
+     onmouseover="document.getElementById('explain_ar').style.opacity = '1';"><tspan
        x="105.90877"
        y="17.486328"
        id="tspan29"><tspan

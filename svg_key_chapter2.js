@@ -1,5 +1,5 @@
 language = "Arabic"
-
+/*
 document.querySelector("object").addEventListener("load", (evt) => {
   const doc = evt.target.contentDocument;
   doc.addEventListener( "keydown", (evt) => {
@@ -10,6 +10,30 @@ document.querySelector("object").addEventListener("load", (evt) => {
     } 
   });
 });
+*/
+
+// Select all SVG elements
+var svgs =  document.getElementsByTagName('object');
+var svgsArray = Array.from(svgs);
+
+// Iterate over each SVG element and add the mouseover event listener
+svgsArray.forEach(function(svg) {
+    svg.addEventListener('mouseover', function() {
+        console.log('SVG mouseover');
+    });
+});
+
+svgsArray.forEach(function(svg) {
+  console.log ("adding listener");
+  svg.addEventListener( "keydown", (evt) => {
+    console.log( "pressed in svg document", evt.key );
+    var keyName = event.key;
+    if (keyName === 'ö') {
+        toggleArabicLatin();
+    } 
+  });
+});
+
 
 function changeText(element,id, new_text){
  // Access the SVG document
@@ -20,7 +44,6 @@ function changeText(element,id, new_text){
 
     // Check if the text element exists
     if (textElement) {
-        console.log("inside changeText");
 
         // Change the text content
         textElement.textContent = new_text;
@@ -32,7 +55,7 @@ function showArabic(){
     var objects = document.getElementsByTagName('object');
     var ids = [];
     
-    console.log("inside shwArabic " + objects.length);
+    //console.log("inside shwArabic " + objects.length);
 
 
     for (var i =  0; i < objects.length; i++) {
@@ -43,8 +66,6 @@ function showArabic(){
     
     for (var i =  0; i < ids.length; i++) {
         element = ids[i]
-        console.log("inside shwArabic " + element);
-
         changeOpacity(element,"text_latin",0.0);
         changeOpacity(element,"text_arabic",1.0); 
     }
@@ -64,7 +85,6 @@ function showLatin(){
     
     for (var i =  0; i < ids.length; i++) {
         element = ids[i]
-                console.log("inside shwLatin " + element);
 
         changeOpacity(element,"text_latin",1.0);
         changeOpacity(element,"text_arabic",0.0); 
@@ -79,6 +99,25 @@ function toggleArabicLatin(){
         showArabic();
 }
 
+function changeVisibility(element, id, opacity){
+ // Access the SVG document
+    var svgDoc = document.getElementById(element).contentDocument;
+
+    // Find the text element by its ID
+    var el = svgDoc.getElementById(id);
+
+    // Check if the text element exists
+    if (el) {
+        if (opacity < 1.0){
+            el.style.display = "none";
+            console.log("Setting el to zero")
+        }
+        else{
+            el.style.display = "block";
+        }       
+    }
+}
+
 function changeOpacity(element, id, opacity){
  // Access the SVG document
     var svgDoc = document.getElementById(element).contentDocument;
@@ -88,9 +127,6 @@ function changeOpacity(element, id, opacity){
 
     // Check if the text element exists
     if (el) {
-    
-        console.log("inside opacity " + opacity);
-
         // Change the text content
         el.style.opacity = opacity;
     }
@@ -122,7 +158,7 @@ function startup(element,
                  opacity_vocals,
                  opacity_radicals
                  ){
-    console.log("r1_la " + r1_la);
+    //console.log("r1_la " + r1_la);
     changeText(element,"text_latin_prefix", prefix_la);
     changeText(element,"text_latin_suffix", suffix_la);
     changeText(element,"text_latin_v3", v3_la);
@@ -141,7 +177,13 @@ function startup(element,
     changeText(element,"text_ar_v1", v1_ar);
     changeText(element,"explain_ar", explain_ar);
     changeText(element,"explain_sv", explain_sv);
-    changeOpacity(element,"vocals",opacity_vocals);
+
+    changeVisibility(element,"V1",opacity_vocals);
+    changeVisibility(element,"V2",opacity_vocals);
+    changeVisibility(element,"V3",opacity_vocals);
+    changeVisibility(element,"SuffixLayer",opacity_vocals);
+    changeVisibility(element,"PrefixLayer",opacity_vocals);
+
     changeOpacity(element,"radicals",opacity_radicals);
 
 }

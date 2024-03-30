@@ -190,6 +190,17 @@ th, td {
 
 }
 
+.nonresponsive{
+    /*pointer-events: none;*/
+}
+
+
+.emphasizedText{
+    font-style: italic; 
+    color: red;
+}
+
+
 
 .fullscreenimg{
     height: 100vh;
