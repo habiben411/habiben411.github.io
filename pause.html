@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+    	<title> Arabiska, en introduktion </title>
+        		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black_hamid.css">
+		
+		<link rel="stylesheet" href="css/hamid.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+	</head>
+	
+
+		
+	<body background=black>
+
+	   <script> 
+			
+				// Define the total number of elements
+			const numElements = 3;
+			
+					// Generate the CSS rules
+			let cssRules = '';
+			for (let i = 1; i <= numElements; i++) {
+			 cssRules += `.text${i} {\n animation-delay: ${(i - 1) * 2}s;\n}\n`;
+			}
+			
+			// Add the CSS rules to the head of the document
+			let styleElement = document.createElement('style');
+			document.head.appendChild(styleElement);
+			styleElement.innerHTML = cssRules;
+
+		   // Add a click event listener to the document
+			document.addEventListener('click', () => {
+			//window.location.reload();
+			});
+ 			
+		</script>
+		<div class="reveal">
+			<div class="slides">
+				<section id="bkg">
+				</section>
+	
+                
+                    <section data-transition="fade"  data-autoslide=2500 style="background-image:url(../images/slideshow/01.jpg); background-size:cover; background-position:center;width:100%; height:100%;" >
+                        
+                        
+                        <div style='background:black;opacity:0.75;'>
+        					<a href="menu.html">tillbaka till menyn</a>
+    					</div>
+    					
+                        <div style='background:black;opacity:0.75;position:fixed;bottom:0;margin-bottom:20px;width:100%;'>
+        					<div style="margin-left:20px;">Libanon 1988, ett foto på ett bröllop</div>
+    					</div>
+    					
+    				</section>
+    				       
+    			 
+	                
+                    <section data-transition="fade"  data-autoslide=2500 style="background-image:url(../images/slideshow/02.jpg); background-size:cover; background-position:center;width:100%; height:100%;" >
+                        
+                        
+                        <div style='background:black;opacity:0.75;'>
+        					<a href="menu.html">tillbaka till menyn</a>
+    					</div>
+    					
+                        <div style='background:black;opacity:0.75;position:fixed;bottom:0;margin-bottom:20px;width:100%;height:120px;'>
+        					<div style="margin-left:20px;">Egypter 2024, Alexandrias spårvagnar. <br>De köptes av Köpenhamns kommun sedan Köpenhamn lade ner spårvagnsnätet</div>
+    					</div>
+    					
+    				</section>
+    				       
+    			
+                
+                
+    			<section data-state="mylastslide">
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/external/external.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize(
+			{
+
+				//autoSlide: 1500,
+				loop: false,
+				hash: true,
+				margin: 0.0,
+ 				width: '100%',  // You can also use window.innerWidth
+				height: '100%', // You can also use window.innerHeight
+ 				minScale: 1.0,
+  				maxScale: 1.0,
+  				center: true,
+  				disableLayout: false,
+  				autoSlideStoppable: false,
+  				autoAnimate: true,
+  				viewDistance: 10,
+  				transition: 'fade',
+                progress: false,
+                controls: false,
+  				dependencies: [
+					{
+						src: 'plugin/external/external.js',
+						condition: function() {
+							return !!document.querySelector( '[data-external],[data-external-replace]' );
+						}
+					},
+
+				],
+				
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+						
+			/*$(function () {
+			    // on page load  replace all src URLs
+			
+			    $('.animated-gif').each(function (i, e) {
+			        disableGif(e)
+			    });
+			});*/
+			Reveal.on('slidechanged', function(event) {
+                if (Reveal.isLastSlide()) {
+                    // Set state
+                    Reveal.setState({mylastslide: true});
+                }
+            });
+			//Reveal.addEventListener('slidechanged', initAnimatedGifs);
+			//Reveal.addEventListener('ready', initAnimatedGifs);
+			Reveal.addEventListener( 'mylastslide', function() {
+                window.location = 'pause.html';
+            } );
+            
+       
+            
+		</script>
+</script>
+
+	</body>
+</html>
