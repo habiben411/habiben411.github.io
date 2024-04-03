@@ -15,12 +15,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #191919;
-  --r-main-font: Signika, Source Sans, Helvetica, sans-serif;
+  --r-main-font: Signika, Markazi Text, Source Sans, Helvetica, sans-serif;
   --r-main-font-size: 42px;
   --r-main-color: #f5efb8;
   --r-block-margin: 2px;
   --r-heading-margin: 0 0 0px 0;
-  --r-heading-font: Signika, Source Sans Pro, Helvetica, sans-serif;
+  --r-heading-font: Signika, Markazi Text, Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #f5efb8;
   --r-heading2-color: #ffffff;
   --r-heading-line-height: 0.25;
@@ -41,6 +41,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-overlay-element-bg-color: 240, 240, 240;
   --r-overlay-element-fg-color: 0, 0, 0;
 }
+
 
 .reveal-viewport {
   background: #191919;
@@ -103,6 +104,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal h3 {
   font-size: var(--r-heading3-size);
+  font-weight: 100;
+
 }
 
 .reveal h4 {
