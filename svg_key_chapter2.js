@@ -12,6 +12,47 @@ document.querySelector("object").addEventListener("load", (evt) => {
 });
 */
 
+let currentAudio = null; // Global reference to the currently playing audio
+
+function pauseCurrentAudio() {
+ if (currentAudio) {
+    currentAudio.pause();
+    currentAudio.currentTime = 0; // Rewind to the beginning
+ }
+}
+
+var audioElements = document.getElementsByTagName('audio');
+for (var i = 0; i < audioElements.length; i++) {
+    
+    var elementID = audioElements[i].id;
+    console.log("Element " + elementID)
+
+    var hoverText = document.getElementById('hoverText_' + elementID);
+    
+    var originalColor = hoverText.style.color;
+
+    // Add a mouseover event listener to the element
+    (function(audio, hoverText) {
+        hoverText.addEventListener('mouseover', function() {
+            // Play the audio when the mouse hovers over the element
+             hoverText.style.color = 'red';
+
+            try {
+                   pauseCurrentAudio();
+                   console.error('Playing ' + elementID)
+                   audio.play(); 
+                   currentAudio = audio;
+                } catch (error) {
+                    console.error('Failed to play audio:', error);
+                }
+        });
+    // Reset the color on mouseout
+       hoverText.addEventListener('mouseout', function() {
+           hoverText.style.color = originalColor; // Reset to original color
+       });
+       
+    })(audioElements[i], hoverText); // Pass 'audio' to the IIFE    
+}
 // Select all SVG elements
 var svgs =  document.getElementsByTagName('object');
 var svgsArray = Array.from(svgs);
@@ -110,7 +151,7 @@ function changeVisibility(element, id, opacity){
     if (el) {
         if (opacity < 1.0){
             el.style.display = "none";
-            console.log("Setting el to zero")
+            //console.log("Setting el to zero")
         }
         else{
             el.style.display = "block";
