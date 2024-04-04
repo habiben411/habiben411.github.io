@@ -195,11 +195,23 @@ th, td {
 }
 
 
-.emphasizedText{
+.emphasizedTextItalic{
     font-style: italic; 
     color: red;
 }
 
+.emphasizedTextBold{
+    font-weight: 500; 
+    color: red;
+}
+
+.emphasizedText{
+    color: red;
+}
+
+.smallText{
+    font-size: 24px;
+}
 
 
 .fullscreenimg{
