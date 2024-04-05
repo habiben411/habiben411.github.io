@@ -199,12 +199,67 @@ function startup(element,
                  opacity_vocals,
                  opacity_radicals
                  ){
+                 
+    changeVisibility(element,"SuffixLayer",opacity_vocals);
+    changeVisibility(element,"PrefixLayer",opacity_vocals);
+    changeVisibility(element,"V1",opacity_vocals);
+    changeVisibility(element,"V2",opacity_vocals);
+    changeVisibility(element,"V3",opacity_vocals);
+
     //console.log("r1_la " + r1_la);
-    changeText(element,"text_latin_prefix", prefix_la);
-    changeText(element,"text_latin_suffix", suffix_la);
-    changeText(element,"text_latin_v3", v3_la);
-    changeText(element,"text_latin_v2", v2_la);
-    changeText(element,"text_latin_v1", v1_la);
+    if (prefix_la.length > 0) {
+        changeText(element,"text_latin_prefix", prefix_la);
+    }
+    else{
+        changeVisibility(element,"text_latin_prefix",0.0);
+        changeVisibility(element,"PrefixLayer",0.0);
+
+    }
+    
+    if (suffix_la.length > 0) {
+        changeText(element,"text_latin_suffix", suffix_la);
+    }
+    else{
+        changeVisibility(element,"text_latin_suffix",0.0);
+        changeVisibility(element,"SuffixLayer",0.0);
+
+    }
+    
+    if (v3_la.length > 0) {
+        changeText(element,"text_latin_v3", v3_la);
+        changeText(element,"text_ar_v3", v3_ar);
+
+    }
+    else{
+        changeVisibility(element,"V3Rect",0.0);
+        changeVisibility(element,"V3",0.0);
+
+    }
+    
+    if (v2_la.length > 0) {
+        changeText(element,"text_latin_v2", v2_la);
+        changeText(element,"text_ar_v2", v2_ar);
+
+    }
+    else{
+        changeVisibility(element,"V2Rect",0.0);
+        changeVisibility(element,"V2",0.0);
+
+    }
+    
+    if (v1_la.length > 0) {
+        changeText(element,"text_latin_v1", v1_la);
+        changeText(element,"text_ar_v1", v1_ar);
+
+    }
+    else{
+        changeVisibility(element,"V1Rect",0.0);
+        changeVisibility(element,"V1",0.0);
+
+    }
+    
+        
+    
     changeText(element,"text_latin_r3", r3_la);
     changeText(element,"text_latin_r2", r2_la);
     changeText(element,"text_latin_r1", r1_la);
@@ -213,17 +268,10 @@ function startup(element,
     changeText(element,"text_ar_r3", r3_ar);
     changeText(element,"text_ar_r2", r2_ar);
     changeText(element,"text_ar_r1", r1_ar);
-    changeText(element,"text_ar_v3", v3_ar);
-    changeText(element,"text_ar_v2", v2_ar);
-    changeText(element,"text_ar_v1", v1_ar);
     changeText(element,"explain_ar", explain_ar);
     changeText(element,"explain_sv", explain_sv);
 
-    changeVisibility(element,"V1",opacity_vocals);
-    changeVisibility(element,"V2",opacity_vocals);
-    changeVisibility(element,"V3",opacity_vocals);
-    changeVisibility(element,"SuffixLayer",opacity_vocals);
-    changeVisibility(element,"PrefixLayer",opacity_vocals);
+
 
     changeOpacity(element,"radicals",opacity_radicals);
 
