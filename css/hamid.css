@@ -254,6 +254,32 @@ th, td {
 .imageGallery2 {
     position: absolute;
     min-height: 100%
+}
 
+.first {
+    width: 40vw; /* Adjust width as needed */
+    float: left;
+    vertical-align: middle;
+    display: table-cell;
+    padding: 10% 0;
+    height: 100vh;
+    
+}
 
+.second {
+    width: 60vw; /* Adjust width as needed */
+    float: right;
+    vertical-align: middle;
+    height: 100vh;
+
+}
+
+.scrollable {
+    bottom: 0px;
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+}
+
+iframe {
+    height: 100vh;
 }

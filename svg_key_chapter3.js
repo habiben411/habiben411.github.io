@@ -34,7 +34,6 @@ window.onload = function() {
     
     var divs  =  document.getElementsByTagName('div');
     
-    console.log("node, length " + divs.length);
 
     
     for (var i = 0; i < divs.length; i++) {
@@ -47,3 +46,34 @@ window.onload = function() {
     }
     
 }
+
+document.addEventListener('keypress', function(event) {
+                var svgObject = document.getElementById("diac");
+                var svgDoc = svgObject.contentDocument; // Access the SVG document
+                var layer = svgDoc.getElementById("diac");
+                var layerExplanation = svgDoc.getElementById("Explanation");
+
+                // Check if the key pressed is 'c' (for example)
+                if (event.key === 'ö') {
+                   
+                      if (layer.style.opacity == 0) {
+                            layer.style.opacity = 1.0;
+                        } else {
+                            layer.style.opacity = 0.0;
+                            layerExplanation.style.opacity = 0.0;
+
+                      }
+                  
+                }
+                
+                if (event.key === 't') {
+                  
+                      if (layerExplanation.style.opacity == 0) {
+                            layerExplanation.style.opacity = 1.0;
+                        } else {
+                            layerExplanation.style.opacity = 0.0;
+                      }
+                  
+                }
+                
+            });

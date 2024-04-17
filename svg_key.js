@@ -127,9 +127,6 @@ function handleSvgLoad() {
          if (svgObject.getAttribute('what') === 'map') {
 
              var svgElement = svgObject.contentDocument.querySelector('#cities');
-             console.log("loaded: " + svgElement); // Logs the selected element to the console
-             //svgElement.style.display = 'none';
-        
         
               if (svgElement.style.opacity == 0) {
                     console.log("is zero, setting to one " + svgElement); // Logs the selected element to the console
