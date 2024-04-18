@@ -1665,7 +1665,7 @@
      <style
    type="text/css"
    id="style3">
-        @import url(&quot;https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Signika:wght,GRAD@300,-16&display=swap&quot;);
+        @import url(&quot;https://fonts.googleapis.com/css2?family=Nanum+Gothic&amp;family=Signika:wght@300..700&amp;display=swap&quot;);
      </style>
  
        <linearGradient
