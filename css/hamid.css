@@ -225,14 +225,20 @@ th, td {
     overflow: hidden;
 }
 
-.scaledownimg{
+.scaledownimg {
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
     background-color: black;
     height: 100vh;
+    width: 100%; /* Ensure the container has a width */
+}
 
+.scaledownimg img {
+    width: 100%;
+    height: 90%;
+    object-fit: contain;
 }
 
 .fullscreenimg img {

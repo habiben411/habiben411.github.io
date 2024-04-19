@@ -1,5 +1,3 @@
-
-
 const map =  window.parent.document.getElementById("historicalmap");
 console.log("map: " + map);
 
@@ -74,27 +72,6 @@ window.addEventListener('keypress', function(event) {
     }
 });
 
-window.addEventListener('load', function() {
-
-    console.log("inside load! " )
-    
-    var svgObject =  window.parent.document.getElementById('linguamap');
-    
-        console.log("inside load! " + svgObject )
-
-
-        console.log("inside layersaddEventListener ")
-
-        var svgElement = svgObject.contentDocument.querySelector('svg');
-        var layers = svgElement.querySelectorAll('g[inkscape\\:groupmode="layer"]');
-
-        for (var i = 0; i < layers.length; i++) {
-            console.log(layers[i].getAttribute('inkscape:label'));
-        } 
-});
-
-
-
 
 function startup(){
     return;
@@ -119,7 +96,6 @@ function handleSvgLoad() {
     
     // Select all object elements on the page
     var objects =  window.parent.document.getElementsByTagName('object');
-             console.log("objects: " + objects.length); 
 
 
     for (var i =  0; i < objects.length; i++) {
