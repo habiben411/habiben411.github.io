@@ -34,9 +34,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.2448681"
-     inkscape:cx="811.33095"
-     inkscape:cy="232.95641"
+     inkscape:zoom="1.7605093"
+     inkscape:cx="509.22763"
+     inkscape:cy="5.1121569"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
@@ -76,7 +76,7 @@
        id="rect1"
        width="26.205753"
        height="26.205753"
-       x="180.73834"
+       x="163.80524"
        y="10.247365"
        ry="3.2395921"
        inkscape:label="r1" />
@@ -85,7 +85,7 @@
        id="rect4"
        width="26.205753"
        height="26.205753"
-       x="298.79593"
+       x="281.86234"
        y="10.247365"
        ry="3.2395921"
        inkscape:label="r3" />
@@ -94,7 +94,7 @@
        id="rect6"
        width="26.205753"
        height="26.205753"
-       x="239.76721"
+       x="222.83411"
        y="10.247365"
        ry="3.2395921"
        inkscape:label="r2" />
@@ -106,30 +106,30 @@
      style="display:inline;opacity:1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="311.79837"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="294.86478"
        y="30.451927"
        id="text_latin_r3"
        inkscape:label="text_latin_r3"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
          id="tspan14">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:1.63573"
-       x="252.62848"
+       x="235.69537"
        y="30.451927"
        id="text_latin_r2"
        inkscape:label="text_latin_r2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffd42a;fill-opacity:1"
          id="tspan10">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="193.82013"
+       x="176.88702"
        y="30.451927"
        id="text_latin_r1"
        inkscape:label="text_latin_r1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffd42a;fill-opacity:1"
          id="tspan11">ʔ</tspan></text>
   </g>
   <g
@@ -143,18 +143,18 @@
        id="prefix"
        width="35.450924"
        height="26.129448"
-       x="141.73708"
+       x="124.80393"
        y="10.285519"
        ry="3.230159"
        inkscape:label="prefix" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="159.49493"
+       x="142.56183"
        y="30.188141"
        id="text_latin_prefix"
        inkscape:label="text_latin_prefix"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
          id="tspan20">mu</tspan></text>
   </g>
   <g
@@ -168,14 +168,14 @@
        id="rect2"
        width="35.44537"
        height="26.685158"
-       x="358.16898"
+       x="341.23538"
        y="9.7270308"
        ry="3.2988567"
        inkscape:label="suffix" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="375.92398"
+       x="358.99039"
        y="30.451927"
        id="text_latin_suffix"
        inkscape:label="text_latin_suffix"><tspan
@@ -211,18 +211,18 @@
        id="V1Rect"
        width="26.205753"
        height="26.205753"
-       x="210.25278"
+       x="193.31967"
        y="10.247365"
        ry="3.2395921"
        inkscape:label="v1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="223.3029"
+       x="206.3698"
        y="30.451927"
        id="text_latin_v1"
        inkscape:label="text_latin_v1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
          id="tspan17">f</tspan></text>
     <text
        xml:space="preserve"
@@ -245,19 +245,19 @@
        id="V2Rect"
        width="26.205753"
        height="26.205753"
-       x="269.28162"
+       x="252.34813"
        y="-36.45311"
        ry="3.2395921"
        transform="scale(1,-1)"
        inkscape:label="v2" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
-       x="282.14285"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
+       x="265.20926"
        y="30.451927"
        id="text_latin_v2"
        inkscape:label="text_latin_v2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f9f9f9;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;fill:#f9f9f9;fill-opacity:1"
          id="tspan9">L</tspan></text>
     <text
        xml:space="preserve"
@@ -280,14 +280,14 @@
        id="V3Rect"
        width="26.205753"
        height="26.205753"
-       x="328.31021"
+       x="311.37662"
        y="9.9058352"
        ry="3.2395921"
        inkscape:label="v3" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Arial;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       x="341.49219"
+       x="324.55859"
        y="30.451927"
        id="text_latin_v3"
        inkscape:label="text_latin_v3"><tspan
@@ -349,7 +349,7 @@
     <g
        id="g1"
        inkscape:label="R1_group"
-       transform="translate(138.6417,-12.700001)">
+       transform="translate(121.70826,-12.700001)">
       <circle
          style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill"
          id="path1"
@@ -366,16 +366,16 @@
          inkscape:label="R1"><tspan
            sodipodi:role="line"
            id="tspan12"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
    id="tspan1">1</tspan></tspan></text>
     </g>
     <g
        id="g4"
        inkscape:label="R2_group"
-       transform="translate(198.43757,-12.700001)">
+       transform="translate(181.50413,-12.700001)">
       <circle
          style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle3"
@@ -392,16 +392,16 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
    id="tspan3">2</tspan></tspan></text>
     </g>
     <g
        id="g7"
        inkscape:label="R2_group"
-       transform="translate(257.70428,-12.700001)">
+       transform="translate(240.77084,-12.700001)">
       <circle
          style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.22927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle6"
@@ -418,38 +418,48 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
    id="tspan6">3</tspan></tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:14.0087px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Bold';text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0.03;fill:#f9f9f9"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.0087px;line-height:1;font-family:Roboto, 'Noto Sans Arabic';letter-spacing:0.9;text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0;fill:#f9f9f9"
      x="137.97787"
      y="14.873549"
      id="explain_ar"
-     transform="translate(-6.35,5.2916667)"
+     transform="translate(-23.283342,5.2916667)"
      onmouseover="document.getElementById('explain_ar').style.opacity = '1';"><tspan
        x="137.97787"
        y="14.873549"
-       id="tspan19"><tspan
-         style="stroke-width:0"
-         id="tspan15">ʔ</tspan><tspan
-         style="stroke-width:0"
-         id="tspan16">‘alīf</tspan></tspan></text>
+       id="tspan16"><tspan
+         style="letter-spacing:0.132292px;stroke-width:0"
+         id="tspan2">ʔ</tspan><tspan
+         style="letter-spacing:0.132292px;stroke-width:0"
+         id="tspan15">‘alīf</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.529167px;text-anchor:end;white-space:pre;opacity:0.03;fill:#666666"
-     x="130.00554"
+     style="&#10;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.01px;line-height:1;font-family:Signika;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.529167px;text-anchor:end;white-space:pre;opacity:0;fill:#666666"
+     x="113.07224"
      y="36.022827"
      id="explain_sv"
      onmouseover="document.getElementById('explain_sv').style.opacity = '1';"
      inkscape:label="explain_sv"><tspan
        sodipodi:role="line"
        id="tspan18"
-       x="130.53471"
+       x="113.60141"
        y="36.022827">undergivenhet</tspan></text>
+  <rect
+     style="font-variation-settings:normal;opacity:0.02811951;vector-effect:none;fill:#666666;fill-opacity:0.17690875;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:0.237348;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+     id="dummy"
+     width="25.07963"
+     height="61.211304"
+     x="378.7449"
+     y="-4.2507854"
+     ry="0.35094205"
+     inkscape:label="dummy"
+     onmouseover="document.getElementById('explain_sv').style.opacity = '1';document.getElementById('explain_ar').style.opacity = '1';" />
 </svg>
