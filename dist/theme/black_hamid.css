@@ -15,12 +15,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #191919;
-  --r-main-font: Signika, Markazi Text, Source Sans, Helvetica, sans-serif;
+  --r-main-font: Signika, Noto Sans Arabic, Source Sans, Helvetica, sans-serif;
   --r-main-font-size: 42px;
   --r-main-color: #f5efb8;
   --r-block-margin: 2px;
   --r-heading-margin: 0 0 0px 0;
-  --r-heading-font: Signika, Markazi Text, Source Sans Pro, Helvetica, sans-serif;
+  --r-heading-font: Signika, Noto Sans Arabic, Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #f5efb8;
   --r-heading2-color: #ffffff;
   --r-heading-line-height: 0.25;
