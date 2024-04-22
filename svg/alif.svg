@@ -26,7 +26,7 @@
      </style>
   <style
      id="style2">
-        @import url(&quot;https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&amp;family=Roboto&amp;family=Signika:wght@300..700&amp;display=swap&quot;);
+        @import url(&quot;https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&amp;subset=latin&amp;family=Signika:wght@300..700&amp;family=Noto+Sans+Arabic&amp;display=swap&quot;);
      </style>
   <sodipodi:namedview
      id="namedview1"
@@ -45,8 +45,8 @@
      inkscape:window-height="1387"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="text_latin"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
      showgrid="false"
      showguides="true" />
   <defs
@@ -110,30 +110,30 @@
      style="display:inline;opacity:1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:'Inter';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
        x="294.86478"
        y="30.451927"
        id="text_latin_r3"
        inkscape:label="text_latin_r3"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';-inkscape-font-specification:'Gothic A1 Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1"
          id="tspan14">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:1.63573"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:'Inter';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:1.63573"
        x="235.69537"
        y="30.451927"
        id="text_latin_r2"
        inkscape:label="text_latin_r2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';-inkscape-font-specification:'Gothic A1 Bold';fill:#ffd42a;fill-opacity:1"
          id="tspan10">l</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:'Inter';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.767603;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
        x="176.88702"
        y="30.451927"
        id="text_latin_r1"
        inkscape:label="text_latin_r1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffd42a;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';-inkscape-font-specification:'Gothic A1 Bold';fill:#ffd42a;fill-opacity:1"
          id="tspan11">ʔ</tspan></text>
   </g>
   <g
@@ -158,7 +158,7 @@
        y="30.188141"
        id="text_latin_prefix"
        inkscape:label="text_latin_prefix"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';-inkscape-font-specification:'Gothic A1 Bold';text-align:center;text-anchor:middle;fill:#f9f9f9"
          id="tspan20">mu</tspan></text>
   </g>
   <g
@@ -226,7 +226,7 @@
        y="30.451927"
        id="text_latin_v1"
        inkscape:label="text_latin_v1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';-inkscape-font-specification:'Gothic A1 Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
          id="tspan17">f</tspan></text>
     <text
        xml:space="preserve"
@@ -256,12 +256,12 @@
        inkscape:label="v2" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:Roboto;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4028px;font-family:'Inter';text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:1.63573"
        x="265.20926"
        y="30.451927"
        id="text_latin_v2"
        inkscape:label="text_latin_v2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;fill:#f9f9f9;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Inter';fill:#f9f9f9;fill-opacity:1"
          id="tspan9">L</tspan></text>
     <text
        xml:space="preserve"
@@ -370,10 +370,10 @@
          inkscape:label="R1"><tspan
            sodipodi:role="line"
            id="tspan12"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a"
    id="tspan1">1</tspan></tspan></text>
     </g>
     <g
@@ -396,10 +396,10 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a"
    id="tspan3">2</tspan></tspan></text>
     </g>
     <g
@@ -422,16 +422,16 @@
          inkscape:label="R2"><tspan
            sodipodi:role="line"
            id="tspan7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;stroke-width:0.363703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a;stroke-width:0.363703"
            x="63.78347"
            y="50.164154">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Inter';-inkscape-font-specification:'Inter';fill:#1a1a1a"
    id="tspan6">3</tspan></tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.0087px;line-height:1;font-family:Roboto, 'Noto Sans Arabic';letter-spacing:0.9;text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0;fill:#f9f9f9"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.0087px;line-height:1;font-family:'Inter', 'Noto Sans Arabic';letter-spacing:0.5;text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0;fill:#f9f9f9"
      x="137.97787"
      y="14.873549"
      id="explain_ar"
