@@ -7,7 +7,7 @@
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Signika&family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Signika:wght@300;500;700&family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
         <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 
 
@@ -51,7 +51,10 @@
 				<section>
     				<section>
     				<p>
-        				arabiskan är ett <span class="emphasizedTextBold">konsonantrikt</span> språk:
+        				<span class="myTitle">
+							arabiskan är ett <span class="emphasizedTextBold">konsonantrikt</span> språk
+						</span>
+
         				<br><br>
         				<table>
             				<tr>
@@ -80,8 +83,7 @@
                     		</tr>
                     	</table>		
     				</section>
-    				<section>
-    				Exempel på konsonantfonem som saknas* i svenskan:<br><br>
+    				<section> 
     				          <audio id="dj" src="./audio/dj.ogg" ></audio>
     				          <audio id="th" src="./audio/th.ogg" ></audio>
     				          <audio id="z" src="./audio/z.ogg" ></audio>
@@ -92,9 +94,9 @@
     				          <audio id="ayn" src="./audio/ayn.ogg" ></audio>
     				          <audio id="aa" src="./audio/aa.ogg" ></audio>
     				          <audio id="hamidh" src="./audio/hamidh.ogg" ></audio>
-    				          <audio id="dh" src="./audio/dh.ogg" ></audio>
+    				          <audio id="dh" src="./audio/dh.mp3" ></audio>
 
-                            <table>
+                            <table><tr><td colspan="7"> Exempel: <b>konsonantfonem som saknas* i svenskan</b></td></tr>
                                 <tr>
                                     <td>
             				          <p id="hoverText_dj" style="display:inline">ʤ ج</p>
@@ -151,18 +153,21 @@
 
                           <br><br><br>
                           omvänt:<br>
-                          konsonantfonem som finns i svenskan men inte i standardarabiskan:
+                          konsonantfonem som finns i svenskan men inte i standardarabiskan:<br>
                           <table>
                               <tr>
                                   <td>
                                       p پ
                                   </td>
+								  <td></td>
                                   <td>
                                       (g گ
                                   )</td> 
-                                  <td>
+								  <td></td> 
+								  <td>
                                       (v ڤ)
                                   </td>   
+								  <td></td>
                                   <td>
                                       sj
                                   </td>   
@@ -170,14 +175,74 @@
                          </table>
     				</section>
     				<section><p>
-        				inget verb för <span style="font-style: italic;"> vara</span>
+        				<span class="myTitle">
+							null copula / nollkopia
+						</span>
+						<br><br>
+						verbet <span class="emphasizedText">att vara</span> utelämnas <br>i vissa satser som beskriver tillstånd eller egenskaper hos subjektet
+						<br><br>
+						<table><tr><td colspan="5"> Exempel: <b>sockret är sött</b></td></tr>
+							<tr>
+								<td>السكر حلو</td>
+							   <td>  al-sukkar helw </td>
+							   <td><span class="smallText">ordagrant:</span> sockret sött </td>
+							 </tr>
+							 
+						   
+						</table>
     				</section>
-    					<section>
-        				<p>grammatiskt kön
+    				<section>
+        				<p>
+        					<span class="myTitle">
+								grammatiskt kön
+							</span>
+							<br><br>
+							viktigt i arabisk satsbildning
+							<br><br><br>
+							<table><tr><td colspan="5"> Exempel: <b>du är den enda deltagaren i mötet</b></td></tr>
+								<tr>
+									<td>أنتِ الوحيدة في الاجتماع</td>
+								   <td>ant<font class="emphasizedText">i</font> al-waheed<font class="emphasizedText">a</font> fi al-ijtima</td>
+								   <td> (till en kvinna) </td>
+								 </tr>
+								<tr>
+									<td>أنت الوحيد في الاجتماع</td>
+									<td>ant<font class="emphasizedText">a</font> al-waheed fi al-ijtima</td>
+									<td> (till en man) </td>
+							   </tr>
+							   
+							</table>
+
+						</p>
+    				</section>
+    				<section>
+						
+						<p>
+        					<span class="myTitle">dualis</span>
+						</p>
+						al-muthanna المثنّى<br>
+						<p><br><br>
+							suffix: <font class="emphasizedText">-an ـان </font>eller <font class="emphasizedText">-ain ـين</font>
+						</p>
+						<br><br>
+						<p> 
+							<table><tr><td colspan="5"> Exempel: <b>hav</b></td></tr>
+									<tr>
+										<td>bahr</td><td>بحر</td><td><td> == 1</td><td> hav</td>
+								   </tr>
+								   <tr>
+									<td>bahrain</td><td>بحرين</td><td><td>== 2</td><td>hav</td>
+							   	   </tr>
+								   <tr>
+										<td>bahār</td><td>بحار</td><td><td>>= 3</td><td>hav</td>
+									</tr>
+							</table>
+						
     				</section>
     				
 				</section>
 				<section>
+					<span class="myTitle">Ordbildning</span>
 				     <p> 
                         nästan alla ord i arabiska bygger på en  <font class="emphasizedText">stam med tre konsonanter </font> 
                     </p>
@@ -308,7 +373,7 @@
                             			id="beyt"
                             			type="image/svg+xml"
                             			data="./svg/alif.svg"
-                            			onload="startup('beyt', '','b','e','j','○','t', '○','', '' ,'','', '', '','', '', '', 'bejt بَيْت⁩','hus', 1.0,0.0) ">
+                            			onload="startup('beyt', '','b','e','j','','t', '','', '' ,'','', '', '','', '', '', 'bejt بَيْت⁩','hus', 1.0,0.0) ">
                             			
                             	</object>
                     </p>
@@ -341,7 +406,7 @@
                             			id="hamid"
                             			type="image/svg+xml"
                             			data="./svg/alif.svg"
-                            			onload="startup('hamid', '','h','a','m','i','d', '○','', '' ,'','', '', '','', '', '', 'hamid حَمِيد','lovvärd', 1.0,0.0) ">
+                            			onload="startup('hamid', '','h','a','m','i','d', '','', '' ,'','', '', '','', '', '', 'hamid حَمِيد','lovvärd', 1.0,0.0) ">
                             			
                             	</object>
                     </p>
@@ -351,7 +416,7 @@
                             			id="ahmed"
                             			type="image/svg+xml"
                             			data="./svg/alif.svg"
-                            			onload="startup('ahmed', 'ʔa','h','○','m','a','d', '○','', '','','','','','','','', 'ahmad أحمد','högst lovvärd', 1.0,0.0) ">
+                            			onload="startup('ahmed', 'ʔa','h','','m','a','d', '','', '','','','','','','','', 'ahmad أحمد','högst lovvärd', 1.0,0.0) ">
                             			
                             	</object>
                     </p>
@@ -362,7 +427,7 @@
                             			id="muhammed"
                             			type="image/svg+xml"
                             			data="./svg/alif.svg"
-                            			onload="startup('muhammed', 'mu','h','a','m²','a','d', '○', '', '','','','','','','','', 'muhammad مُحَمَّد','lovvärd', 1.0,0.0) ">
+                            			onload="startup('muhammed', 'mu','h','a','m²','a','d', '', '', '','','','','','','','', 'muhammad مُحَمَّد','lovvärd', 1.0,0.0) ">
                             			
                             	</object>
                     </p>
@@ -372,7 +437,7 @@
         		        		    		        	   <!-- Mu -->
 
         	   <section>
-            	    prefixet <span class="emphasizedText"> mu</span> oftast passiv particip, ex:
+            	    prefixet <span class="emphasizedText"> mu-</span> kännetecknar bl.a. passiv/aktiv particip, t.ex.:
         	        
 
         	        <p class="fragment  fade-up" > 
@@ -404,7 +469,7 @@
         		    		        	   <!-- Makhazana -->
 
         	   <section>
-            	    Prefixet <span class="emphasizedText"> ma</span> oftast en platsmarkör, ex:
+            	    prefixet <span class="emphasizedText"> ma-</span> oftast en platsmarkör, t.ex.:
         	   
         	        <p class="fragment  fade-up"> 
 
@@ -454,7 +519,7 @@
         			        	   <!-- Allah ʔ-l-h / ǰ-->
 
         	   <section>
-            	    Prefixet <span style="font-style: italic;color:red"> al</span> skapar bestämd form, ex:
+            	    prefixet <span style="emphasizedText"> al-</span> skapar bestämd form, t.ex.:
         	   
         	        <p class="fragment  fade-up"> 
 
@@ -493,7 +558,7 @@
                             			id="algebra"
                             			type="image/svg+xml"
                             			data="./svg/alif.svg"
-                            			onload="startup('algebra', 'al','ʤ','a','b','○','r', '○', '', '','','','','','','','', 'alʤabr ⁧الْجَبْر⁩','algebra / determinism', 1.0,0.0) ">
+                            			onload="startup('algebra', 'al','ʤ','a','b','','r', '', '', '','','','','','','','', 'alʤabr ⁧الْجَبْر⁩','algebra / determinism', 1.0,0.0) ">
                             			
                             	</object>
                     </p>
