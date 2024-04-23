@@ -70,13 +70,13 @@
 				<section>
     				<section id="fenicierSection">
     				    <div class="front_page_container">
-    					    <div class="phoenicians-image"> <span style="font-style: italic;font-size:30px;">De hond van Hercules ontdekt het purper - Theodoor van Thulden </span></div> 
+    					    <div class="phoenicians-image"> <span class="descText">De hond van Hercules ontdekt het purper - Theodoor van Thulden </span></div> 
                     	
     					    <div class="right_side_content" id="purple_text">
-            				      <span style="font-size:70px;"> fenicier </span>
-        					      <p  class="fragment"><br>skickliga handelsmän 1200 f.Kr. - 300 f.Kr. </p><br>
-        					      <p  class="fragment">anlade en hel städer kring Medelhavet</p><br>
-        					      <p  class="fragment">handlade med färgmedel, speciellt #66023c<br>
+            				      <span class="myTitle"> fenicier </span>
+        					      <p  class="fragment custom blur"><br>skickliga handelsmän 1200 f.Kr. - 300 f.Kr. </p><br>
+        					      <p  class="fragment custom blur">anlade en hel städer kring Medelhavet</p><br>
+        					      <p  class="fragment custom blur">handlade med färgmedel <span style="background-color: black; border: 1px solid white;">&nbsp;#66023C&nbsp;</span><br>
             					      <img src="../images/purple_shell.png" width=400>
         					      
         					      </p>
@@ -87,24 +87,27 @@
     					</div>
     				</section>	
     				<section >
-    				     fenicierna talade ett semitiskt språk<br><br>
+    				    <p>fenicierna talade ett semitiskt språk<br><br></p>
                         <p  class="fragment " >
                            som handelsmän behövde de en skrift för bokföring<br><br>
                         </p> 
-                        <div class="fragment " >
-                             fanns en del att välja mellan på den tiden (ca 1000 f.Kr.)<br>
-                           <!-- <ul>
+                        <!-- <div class="fragment " >
+                              fanns en del att välja mellan på den tiden (ca 1000 f.Kr.)<br> 
+                             <ul>
                                 <li>akkadiska</li>
                                 <li>proto-elamitiska skript</li>
                                 <li>egyptiska hieroglyfer</li>
                                 <ul><li>proto-sinaitiska</li></ul>
 
-                            </ul>-->
+                            </ul> 
                             
-                        </div><br>
-                        <p  class="fragment " >
-                            de utgick från proto-sinaitiska (typ av egyptiska hieroglyfer)<br><br>
-                            <font class="emphasizedTextBold">genidraget:</font> förenkla 22 hieroglyfer och låt dessa representera konsonanter
+                        </div> -->
+                        <p  class="fragment" >
+                            de utgick från proto-sinaitiska, en typ av egyptiska hieroglyfer<br><br>
+                        </p>
+                        <br>
+                        <p  class="fragment" >
+                             <span class=" ">genidraget: </span><span class="framedText">&nbsp;förenkla 22 hieroglyfer och låt dessa representera konsonanter &nbsp;</span>
                         </p>
     				</section>
     			   
@@ -609,6 +612,8 @@
                 autoAnimateEasing: 'ease-out',
                 autoAnimateDuration: 0.5,
                 autoAnimateUnmatched: false,
+                navigationMode: 'grid',
+                transitionSpeed: 'slow', // default/fast/slow
   				dependencies: [
 					{
 						src: 'plugin/external/external.js',
