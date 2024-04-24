@@ -8,11 +8,11 @@
     position:absolute;
     top:-22px; /* - top padding */
     right:9999px;
-    width:200px;
-    margin-right:-220px; /* width + left/right padding */
+    width:100px;
+    margin-right:-75px; /* width + left/right padding */
     padding:10px;
-    color:#fff;
-    background:#333;
+    color:black;
+    background:#f5efb8;
     -webkit-box-shadow:2px 2px 5px #aaa;
        -moz-box-shadow:2px 2px 5px #aaa;
             box-shadow:2px 2px 5px #aaa;
@@ -22,6 +22,9 @@
         -ms-transition:opacity 250ms ease-out;
          -o-transition:opacity 250ms ease-out;
             transition:opacity 250ms ease-out;
+    font-size:40;
+    font-weight:700;
+    font-family: sans-serif;
 }
 /* <http://css-tricks.com/snippets/css/css-triangle/> */
 .field-tip .tip-content:before {

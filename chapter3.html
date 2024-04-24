@@ -114,7 +114,7 @@
     				</section>
     			   
             		<section>
-    				     exempel på 6 bokstäver av dessa 22:<br><br>
+    				     Exempel: 6 bokstäver utav de 22<br><br>
                             <table style="font-size:90px;">
                                 <tr style="vertical-align: top;text-align:center;" >
                                     <td  width=300 style="font-size:30px;vertical-align: middle; text-align:center;" > egyptiska hieroglyfer</td>
@@ -369,7 +369,9 @@
     			
     			
     			<section>
-        		<center>
+                    <div class="paris"><span class="myTitle">noll</span></div>
+
+                    <center>
                     <div width=600 style=" width:50%">
                             <table id="sifrTable">
                                   <tr style="font-size: 60px;">
@@ -431,7 +433,8 @@
 
                                 </table>
                             <br>
-                        <center>
+                        <center>                    
+
                         <div id="composedTextSifr"  class="framedScript">
                         
                         </div> 
@@ -442,57 +445,53 @@
         		
             		
         		<section>
-        		<center>
+                    <div class="paris"><span class="myTitle">Paris</span></div>
+                    <center>
                     <div width=600 style=" width:50%">
                     <table id="swahilTable">
                           <tr style="font-size: 60px;">
                             <td></th>
-                            <td>L</td>
-                            <td>I</td>
-                            <td>Ḥ</td>
-                            <td></td>
-                            <td>Ā</td>
-                            <td></td>
-                            <td>W</td>
                             <td>S</td>
+                            <td>I</td>
+                            <td></td>
+                            <td>R</td>
+                            <td></td>
+                            <td>A</td>
+                            <td>B</td>
                           </tr>
-                          <tr style="font-size: 60px;">
-                            <td style="font-size: 40px;">Isolated</td>
-                            <td ">ل</td>
-                            <td>ي</td>
-                            <td>ح</td>
-                            <td style="background-color: #3e3e3e;color: grey; pointer-events: none;  vertical-align: middle;" rowspan="4" valign=middle  >↺</td>
-                            <td>ا</td>
-                            <td style="background-color: #3e3e3e;color: grey; pointer-events: none;  vertical-align: middle;" rowspan="4" valign=middle  >↺</td>
-                            <td>و</td>
+                          <tr style="font-size: 60px; text-align: center;">
+                            <td style="font-size: 40px;">Isolerat</td>
                             <td>س</td>
+                            <td>ي</td>
+                            <td class="restartColumn" rowspan="4" valign=middle>↺</td>
+                            <td>ر</td>
+                            <td class="restartColumn" rowspan="4" valign=middle>↺</td>
+                            <td>ا</td>
+                            <td>ب</td>
                           </tr>
                           <tr style="font-size: 60px;">
                             <td style="font-size: 40px;">Initial</td>
-                            <td>لـ</td>
-                            <td>يـ</td>
-                            <td>حـ</td>
-                            <td>ا</td>
-                            <td>و</td>
                             <td>سـ</td>
+                            <td>يـ</td>
+                            <td>ر</td>
+                            <td>ا</td>
+                            <td>بـ</td>
                           </tr>
                           <tr style="font-size: 60px;">
                             <td style="font-size: 40px;">Medial</td>
-                            <td>ـلـ</td>
-                            <td>ـيـ</td>
-                            <td>ـحـ</td>
-                            <td>ـاـ</td>
-                            <td>ـو&ThinSpace;</td>
                             <td>ـسـ</td>
-                          </tr>
+                            <td>ـيـ</td>
+                            <td>ـر</td>
+                            <td>ـا</td>
+                            <td>ـبـ</td>
+                        </tr>
                           <tr style="font-size: 60px;">
                             <td style="font-size: 40px;">Final</td>
-                            <td>ـل</td>
-                            <td>ـي</td>
-                            <td>ـح</td>
-                            <td>ـا</td>
-                            <td>ـو</td>
                             <td>ـس</td>
+                            <td>ـي</td>
+                            <td>ـر</td>
+                            <td>ـا</td>
+                            <td>ـب</td>
                           </tr>
                         </table>
                         <br>
@@ -505,9 +504,10 @@
                 </center>
         		</section>
         		
-        		<section>
+        		<section class="scrollable">
                                                      
-                                                                     		
+                    <div class="paris"><span class="myTitle">siffror 0-9</span></div>
+                                     		
                     <table style="font-size: 60px;text-align: center; pointer-events: none; margin-left: auto;margin-right: auto;">
                       <tr style="font-size: 40px;text-align: center;">
                         <td style="width:100px;">brahmi</th>
@@ -577,6 +577,8 @@
                       </tr>
                     </table>
         		</section>
+                <section data-state="mylastslide">
+				</section>
 			</div>
 		</div>
     	
@@ -660,6 +662,10 @@
                 },  3000); //  3000 milliseconds =  3 seconds
             }
         });
+        						
+        Reveal.addEventListener( 'mylastslide', function() {
+                window.location = 'menu.html';
+            } );
       </script>
     
        <script>
