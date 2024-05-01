@@ -21,3 +21,35 @@ window.addEventListener("keydown", function(event) {
     }
 });
 
+
+
+window.onload = function() {
+    
+    cur = './images/favicon.ico'
+    pointer = "url('" + cur + "'), auto"
+    document.body.style.cursor = pointer;
+    console.log("change cursor? " + pointer);
+    cur_svg = '.' + cur
+    pointer_svg = "url('" + cur_svg + "'), auto"
+
+    var svgObjects = document.querySelectorAll('object[type="image/svg+xml"]');
+
+    svgObjects.forEach(function(svgObject) {
+      var svgDoc = svgObject.contentDocument || svgObject.contentWindow.document;
+      console.log("changing cursor for  object " + svgObject);
+
+      // Find all SVG elements within the SVG document
+      var svgElements = svgDoc.querySelectorAll('svg');
+      console.log("elements: " + svgElements);
+
+      svgElements.forEach(function(element) {
+        console.log("changing cursor for SVG " + element);
+
+        element.addEventListener('mousemove', function() {
+          this.style.cursor = pointer_svg; // Change cursor to 'pointer' or any other style
+        });
+      });
+    });
+  
+
+};
