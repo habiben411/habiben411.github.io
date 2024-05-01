@@ -57,12 +57,14 @@ for (var i = 0; i < audioElements.length; i++) {
 var svgs =  document.getElementsByTagName('object');
 var svgsArray = Array.from(svgs);
 
+/*
 // Iterate over each SVG element and add the mouseover event listener
 svgsArray.forEach(function(svg) {
     svg.addEventListener('mouseover', function() {
         console.log('SVG mouseover');
     });
 });
+*/
 
 svgsArray.forEach(function(svg) {
   console.log ("adding listener");
