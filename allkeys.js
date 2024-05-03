@@ -25,7 +25,7 @@ window.addEventListener("keydown", function(event) {
 
 window.onload = function() {
     
-    cur = './images/favicon.ico'
+    cur = './images/fatima_hand_cursor_128x128.ico'
     pointer = "url('" + cur + "'), auto"
     document.body.style.cursor = pointer;
     console.log("change cursor? " + pointer);
