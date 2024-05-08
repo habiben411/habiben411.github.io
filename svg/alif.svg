@@ -13,8 +13,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <style
-     id="style1"> 
+  <style id="style1"> 
              #V3 { transition: opacity 0.5s linear;}
              #V2 { transition: opacity 0.5s linear;}
              #V1 { transition: opacity 0.5s linear;}
@@ -22,12 +21,18 @@
              #PrefixLayer{ transition: opacity 0.5s linear;}
              #explain_ar{ transition: opacity 0.5s linear;}
              #explain_sv{ transition: opacity 0.5s linear;}
-
-     </style>
+  </style>
   <style
      id="style2">
         @import url(&quot;https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&amp;subset=latin&amp;family=Signika:wght@300..700&amp;family=Noto+Sans+Arabic&amp;display=swap&quot;);
-     </style>
+   </style>
+   
+  <style id="style3">
+      svg{ cursor: url(&quot;../images/mycursor.cur&quot;), pointer;}
+      <!--svg{ cursor:  wait;}-->
+
+  </style>
+
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#000000"
