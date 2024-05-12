@@ -55,10 +55,34 @@
         				         		
 				</section>
         		<section>
-        		     <b>Paralleller till MSA:</b><br><br>
-        		     Om man skapade skriftspråk av "skandinaviskan"<br><br>
-        		     Den engelskan som skulle talas om Kayne West, en skotte och Bob Marley åker hiss tillsammans<br><br>
-        		     Om vi hade kallat portugesiska, spanska och italienska för latin<br>      
+					<section>
+						<h1>Paralleller till MSA</h1>
+					</section>
+        		    <section>
+						<center>
+						<div class="framedText" style="width:800px;">
+							skriftspråk av "skandinaviskan"
+						</div>
+						<br>
+						<iframe class="sr_iframe" title="Inbäddat innehåll från Sveriges Radio" width="50%" height="150" src="https://sverigesradio.se/embed/episode/2389985#31" frameborder="0"></iframe>
+
+						</center>
+					 </section>
+					<section>
+						<center>
+						<div class="framedText" style="width:800px;">
+							den engelskan som skulle talas om Kayne West, en skotte och Bob Marley åker hiss tillsammans
+						</div>
+						</center>
+					</section>
+					<section>
+						<center>
+							<img src="images/latin.png" width="600"><br>
+							<div class="framedText" style="width:800px;">
+								om vi hade kallat alla romanska språk (rumänska, franska, spanska, m.m.) för latin
+							</div>
+						</center>
+					</section>   
         		</section>
 				<section data-transition="fade-in" data-transition-speed="slow">
 					<div class="fullscreenimg">
@@ -82,13 +106,13 @@
 						<tr>
 							<td>Egyptisk arabiska<br>🇪🇬</td>
 							<td style="text-align:center">~60</td>
-							<td style="text-align:center"><b>g</b> som <b>dʒ</b> <br> <b>q</b> som <b>g</b></td>
+							<td style="text-align:center"><b>bish</b> för negation<br> <b>q</b> som <b>g</b></td>
 							<td>koptiska, franska, <br>engelska, italienska, turkiska</td>
 						  </tr>
 						<tr>
 							<td>Golfarabiska<br>🇰🇼🇸🇦🇧🇭🇶🇦🇦🇪🇴🇲</td>
 							<td style="text-align:center">~40</td>
-							<td style="text-align:center"><b>q</b> som <b>g</b> <br> <b>dʒ</b> som <b>j</b></td>
+							<td style="text-align:center">långsammare och utdragen</td>
 							<td>engelska, persiska,<br> urdu</td>
 						  </tr>
 
@@ -102,7 +126,7 @@
 						<tr>
 						  <td>Irakisk arabiska<br>🇮🇶</td>
 						  <td style="text-align:center">~30</td>
-						  <td style="text-align:center"><b>q</b> som <b>g</b> <br> <b>k</b> som <b>ch</b></td>
+						  <td style="text-align:center">snabbt tempo <br> <b>k</b> som <b>ch</b></td>
 						  <td>kurdiska, persiska, <br>turkiska</td>
 						</tr>
 					  </table>
@@ -110,7 +134,57 @@
 
 				</section>
 
-
+				<section>
+					<section>
+						<h3>Whisper-large-v2 resultat för AraYouTube</h3>
+						<br>
+						<table>
+							<tr>
+								<th>Region</th>
+								<th>Dialekt</th>
+								<th>WER (%)</th>
+							</tr>
+							<tr>
+								<td>Algeriet</td>
+								<td>Maghreb</td>
+								<td style="text-align: center;">103.4</td>
+							</tr>
+							<tr>
+								<td>Jordan</td>
+								<td>Levantisk</td>
+								<td  style="text-align: center;">72.8</td>
+							</tr>
+							<tr>
+								<td>Palestina</td>
+								<td>Levantisk</td>
+								<td  style="text-align: center;">51.9 </td>
+							</tr>
+							<tr>
+								<td>FAE</td>
+								<td>Gulf</td>
+								<td  style="text-align: center;">102.8</td>
+							</tr>
+							<tr>
+								<td>Jemen</td>
+								<td>Yamaniyyah</td>
+								<td  style="text-align: center;">102.6</td>
+							</tr>
+						</table>
+						<br> 
+						<center>
+						<span class="smallText"><div style="width:800px;text-align: leftjustify;">B. Talafha, A. Waheed, and M. Abdul-Mageed, “N-shot benchmarking of whisper on diverse Arabic speech
+							recognition,” Proc. of the Annual Conf. of the Intl. Speech Communication Association, INTERSPEECH
+							2023, pp. 5092-5096, Aug 2023. doi:10.21437/interspeech.2023-1044</div></span>
+						</center>
+					</section>
+					<section>
+						<center>
+							<div class="framedText" style="width:800px;">we find the phrase<br>
+								اشترك في هذا القناة
+								<br>206 times in UAE and 152 times in Palestinian decoded output</div>
+						</center>
+					</section>
+				</section>
         		<section data-state="mylastslide">
 				</section>
 				

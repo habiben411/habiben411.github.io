@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Signika:wght@300;500;700&family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+       <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>-->
+
+		<title>Den arabiska skriften</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black_hamid.css">
+		
+		<link rel="stylesheet" href="css/hamid.css">
+        <link rel="stylesheet" href="css/chapter_letters.css">
+
+		<link rel="stylesheet" href="css/mouseover.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		
+		 <style>
+            .reveal .slides table,
+            .reveal .slides table tr,
+            .reveal .slides table td,
+            .reveal .slides table th {
+                border: none !important;
+            }
+          .reveal table {
+                border-collapse: collapse;
+            }
+        </style>
+        <style>
+              .fragment.blur {
+            filter: blur(15px);
+              }
+              .fragment.blur.visible {
+            filter: none;
+              }
+        </style>
+
+        </style>
+        <style>
+            .center{
+                text-align:center;
+            }
+    
+        </style>
+
+	</head>
+	
+
+		
+	<body>
+    
+ 
+    	 
+
+		<div class="reveal">
+			<div class="slides">
+                <section data-background-image="./svg/background5.svg">
+    				femte delen<br><br>
+                    <h2 class="r-fit-text" ><div style="opacity:0;" id="chapter_section">modern arabisk databehandling</div></h2>
+				</section>
+				<section>
+                    den första arabiska skrivmaskinen, 1899
+                    <table><tr><td><img src="images/alhaddad_typewriter.png" width="500"></td><td><img src="images/alhaddad.png" width="500"></td></tr></table>
+                </section>
+                <section>
+                    den moderna arabiska "QWERTY"-layouten, غفقثصض<br>
+                    <img src="images/arabickeyboardlayout.png" width="500">
+                    <br><br>
+                    <form action="/submit_form" method="post">
+                        <label for="username">Operativsystemet väljer rätt form av bokstaven:</label><br>
+                        <input type="text" id="username" name="username" placeholder="skriv något på arabiska" style="font-size: 46px;"><br>
+                        
+                    </form>
+                    <br>dock utan diakritiska tecken!
+                </section>
+
+                <section>
+                    <img src="images/tokenizer_median_length.png" width="700"><br>
+                    <a href="https://huggingface.co/spaces/yenniejun/tokenizers-languages">Median Token Length for openai/gpt4</a>
+                      
+                </section>
+
+                <section>
+                    WER
+                    <br>
+                    tre sätt att beräkna: 
+                    <ol>
+                        <li> translitera till latinska bokstäver </ul>
+                        <li><span class="emphasizedText">ta bort diakritiska tecken</span>  </li>
+                        <li> lägg till </li>
+                    </ol> 
+                </section>
+
+                <section data-state="mylastslide">
+				</section>
+		</div>
+    	
+
+        <script src="dist/reveal.js"></script>
+        <script src="allkeys.js"></script>
+
+     
+
+        
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize(
+			{
+				 //autoSlide: 1500,
+				 loop: true,
+				hash: true,
+				margin: 0.0,
+ 				width: '100%',  // You can also use window.innerWidth
+				height: '100%', // You can also use window.innerHeight
+ 				minScale: 1.0,
+  				maxScale: 1.0,
+  				center: true,
+  				disableLayout: false,
+  				autoAnimate: true,
+  				viewDistance: 10,
+                controls: true,
+                autoAnimateEasing: 'ease-out',
+                autoAnimateDuration: 3.8,
+                autoAnimateUnmatched: false,
+                backgroundTransition: 'cross',
+                autoAnimateEasing: 'ease-out',
+                autoAnimateDuration: 0.5,
+                autoAnimateUnmatched: false,
+                navigationMode: 'grid',
+                transitionSpeed: 'slow', // default/fast/slow
+  				dependencies: [
+					{
+						src: 'plugin/external/external.js',
+						condition: function() {
+							return !!document.querySelector( '[data-external],[data-external-replace]' );
+						}
+					},
+
+				],
+				
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [  RevealHighlight ]
+			});
+						
+			/*$(function () {
+			    // on page load  replace all src URLs
+			
+			    $('.animated-gif').each(function (i, e) {
+			        disableGif(e)
+			    });
+			});*/
+
+            
+
+		</script>
+		
+ 
+    
+       <script>
+              // Select the element
+              var textElement_cs = document.getElementById('chapter_section');
+           
+             // Function to fade in the element
+             function fadeIn(element) {
+                 var op =  0;  // initial opacity
+                 var timer = setInterval(function () {
+                     if (op >=  1){
+                         clearInterval(timer);
+                     }
+                     element.style.opacity = op;
+                     op +=  0.05;
+                 },  50);
+             }
+            setTimeout(function() {
+                 fadeIn(textElement_cs);
+             },  1000);
+      </script>
+    
+</script>
+
+	</body>
+</html>
+	<!--
+الْكَبَابُ لَذِيذٌ حَقًّا لَا يَحْتَاجُ إِلَى صَلْصَةٍ
+
+
+الكباب لذيذ حقا لا يحتاج إلى صلصة.
+-->

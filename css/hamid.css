@@ -305,3 +305,7 @@ th, td {
 iframe {
     height: 100vh;
 }
+
+.sr_iframe {
+    height: 200px;
+}
