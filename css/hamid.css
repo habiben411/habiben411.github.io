@@ -279,12 +279,13 @@ th, td {
 }
 
 .first {
-    width: 40vw; /* Adjust width as needed */
+    width: 35vw; /* Adjust width as needed */
     float: left;
     vertical-align: middle;
     display: table-cell;
     padding: 10% 0;
     height: 100vh;
+    margin-left: 60px;
     
 }
 
