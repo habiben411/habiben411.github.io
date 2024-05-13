@@ -84,7 +84,10 @@
                     </form>
                     <br>dock utan diakritiska tecken!
                 </section>
-
+                <section>
+                    transliteration
+                </section>
+                
                 <section>
                     <img src="images/tokenizer_median_length.png" width="700"><br>
                     <a href="https://huggingface.co/spaces/yenniejun/tokenizers-languages">Median Token Length for openai/gpt4</a>
@@ -92,16 +95,20 @@
                 </section>
 
                 <section>
-                    WER
+                    tre sätt att beräkna WER:<br>
                     <br>
-                    tre sätt att beräkna: 
                     <ol>
                         <li> translitera till latinska bokstäver </ul>
                         <li><span class="emphasizedText">ta bort diakritiska tecken</span>  </li>
-                        <li> lägg till </li>
+                        <li> inkludera diaktritiska tecken (DER) i WER-beräkningen </li>
                     </ol> 
+                    <br><br>
+                    Whisper använder (2)<br>
+                    [1] WER ökade från 4.68% → 5.27% 
+                    <br><br> <span class="smallText">[1] Abed, S.; Alshayeji, M.; Sultan, S. Diacritics Effect on Arabic Speech Recognition.
+                    Arab. J. Sci. Eng. 2019, 44, 9043–9056</span>
                 </section>
-
+                
                 <section data-state="mylastslide">
 				</section>
 		</div>
