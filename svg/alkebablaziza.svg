@@ -3,8 +3,8 @@
 
 <svg
    width="297mm"
-   height="50mm"
-   viewBox="0 0 297 50"
+   height="100mm"
+   viewBox="0 0 297 100"
    version="1.1"
    id="svg1"
    sodipodi:docname="alkebablaziza.svg"
@@ -24,22 +24,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.6820162"
-     inkscape:cx="538.63928"
-     inkscape:cy="145.65853"
+     inkscape:cx="597.19996"
+     inkscape:cy="133.76803"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
-     inkscape:window-x="0"
+     inkscape:window-x="14"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="BaseLayer"
      showgrid="false" />
   <defs
      id="defs1">
     <rect
-       x="292.59309"
-       y="64.740424"
+       x="292.59308"
+       y="64.740425"
        width="582.66382"
-       height="60.536501"
+       height="60.536503"
        id="rect14" />
   </defs>
   <style
@@ -61,12 +61,43 @@
        id="diac"
        x="40.044369"
        y="30.333363"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.2349px;line-height:0.75;font-family:'Markazi Text';-inkscape-font-specification:'Markazi Text';white-space:pre;display:inline;opacity:0;fill:#ff6600;fill-opacity:1;paint-order:stroke markers fill"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.2349px;line-height:0.75;font-family:'Markazi Text';-inkscape-font-specification:'Markazi Text';white-space:pre;display:inline;opacity:0.201;fill:#ff6600;fill-opacity:1;paint-order:stroke markers fill"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ff0000;stroke:none;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ff6600;stroke:none;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          x="40.044369"
          y="30.333363">الْكَبَابُ لَذِيذٌ حَقًّا لَا يَحْتَاجُ إِلَى صَلْصَةٍ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.75426px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:0.304822px;text-anchor:middle;opacity:0.829828;fill:#ffe680;fill-opacity:1;stroke-width:1.15208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       x="150.14682"
+       y="74.774704"
+       id="latin_diac"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffe680;fill-opacity:1;stroke-width:1.15208"
+         x="150.29924"
+         y="74.774704">al-k<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan3">a</tspan>-b<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan19">a</tspan>ab l<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan13">a</tspan>ð<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan20">i</tspan>ið ḥ<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan15">a</tspan>q<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan16">an</tspan> l<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan21">a</tspan>a yḥt<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan17">a</tspan>aj 'il<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan22">a</tspan>a ṣ<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan18">a</tspan>lsa</tspan></text>
     <text
        xml:space="preserve"
        id="NOdiac"
@@ -83,21 +114,21 @@
      inkscape:groupmode="layer"
      id="Explanation"
      inkscape:label="Explanation"
-     style="opacity:0">
+     style="opacity:0.722">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0.264583px;text-anchor:middle;opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
-       x="78.2472"
-       y="7.5921631"
+       x="83.710663"
+       y="5.9618869"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;letter-spacing:0.264583px;fill:#ffffff;stroke-width:2"
-         x="78.379494"
-         y="7.5921631">vokalöst</tspan></text>
+         x="83.842957"
+         y="5.9618869">vokalöst</tspan></text>
     <g
        id="path4"
-       transform="translate(0.61175848,-0.7229873)">
+       transform="matrix(-1,0,0,1,161.42644,-2.4533016)">
       <path
          style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
          d="m 91.103516,6.8535156 -0.08008,0.2539063 c 0,0 1.982421,0.6254872 3.992188,2.1328125 2.009767,1.5073256 4.034834,3.8803346 4.144531,7.3906246 l 0.263672,-0.0078 C 99.311066,13.014713 97.22227,10.565641 95.173827,9.0293089 93.125385,7.4929646 91.103516,6.8535156 91.103516,6.8535156 Z"
