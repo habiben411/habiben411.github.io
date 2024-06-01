@@ -47,6 +47,10 @@ objects.forEach(object => {
               handleSvgLoad(); // Assuming handleSvgLoad is a defined function
               return;
             }
+            if (keyName == 'x') {
+                showExplanation(); // Assuming handleSvgLoad is a defined function
+                return;
+            }
        });
    
     doc.addEventListener("focus", (event) => {
@@ -64,6 +68,11 @@ window.addEventListener('keypress', function(event) {
     if (keyName == 'ö') {
         console.log("inside Ö")
         handleSvgLoad()
+        return;
+    }
+    
+    if (keyName == 'x') {
+        showExplanation(); // Assuming handleSvgLoad is a defined function
         return;
     }
     
@@ -90,6 +99,8 @@ function showTurkey(){
 
 }
 
+
+
 function handleSvgLoad() {
     //var svgObject = document.getElementById('linguamap');
     //console.log("svgObject " + svgObject);
@@ -105,11 +116,33 @@ function handleSvgLoad() {
              var svgElement = svgObject.contentDocument.querySelector('#cities');
         
               if (svgElement.style.opacity == 0) {
-                    console.log("is zero, setting to one " + svgElement); // Logs the selected element to the console
+                    //console.log("is zero, setting to one " + svgElement); // Logs the selected element to the console
                     svgElement.style.opacity = 1.0;
                 } else {
                     svgElement.style.opacity = 0.0;
-                    console.log("setting to zero " + svgElement);          
+                    //console.log("setting to zero " + svgElement);          
+              }
+         }
+    }
+}
+function showExplanation() {
+    //var svgObject = document.getElementById('linguamap');
+    //console.log("svgObject " + svgObject);
+    
+    // Select all object elements on the page
+    var objects =  window.parent.document.getElementsByTagName('object');
+
+
+    for (var i =  0; i < objects.length; i++) {
+         var svgObject = objects[i];
+         if (svgObject.getAttribute('what') === 'map') {
+
+             var svgElement = svgObject.contentDocument.querySelector('#ExplText');
+        
+              if (svgElement.style.opacity == 0) {
+                    svgElement.style.opacity = 1.0;
+                } else {
+                    svgElement.style.opacity = 0.0;
               }
          }
     }
