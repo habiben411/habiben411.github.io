@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.6820162"
-     inkscape:cx="597.19996"
-     inkscape:cy="133.76803"
+     inkscape:cx="590.95745"
+     inkscape:cy="158.73807"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
-     inkscape:window-x="14"
+     inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="BaseLayer"
      showgrid="false" />
   <defs
@@ -55,31 +55,30 @@
   <g
      inkscape:label="BaseLayer"
      inkscape:groupmode="layer"
-     id="BaseLayer">
+     id="BaseLayer"
+     style="display:inline">
     <text
        xml:space="preserve"
        id="diac"
        x="40.044369"
        y="30.333363"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.2349px;line-height:0.75;font-family:'Markazi Text';-inkscape-font-specification:'Markazi Text';white-space:pre;display:inline;opacity:0.201;fill:#ff6600;fill-opacity:1;paint-order:stroke markers fill"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.2349px;line-height:0.75;font-family:'Markazi Text';-inkscape-font-specification:'Markazi Text';white-space:pre;display:inline;opacity:0;fill:#ff0000;fill-opacity:1;paint-order:stroke markers fill"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ff6600;stroke:none;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-         x="40.044369"
-         y="30.333363">الْكَبَابُ لَذِيذٌ حَقًّا لَا يَحْتَاجُ إِلَى صَلْصَةٍ</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1">الْكَبَابُ لَذِيذٌ حَقًّا لَا يَحْتَاجُ إِلَى صَلْصَةٍ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:9.75426px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:0.304822px;text-anchor:middle;opacity:0.829828;fill:#ffe680;fill-opacity:1;stroke-width:1.15208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-weight:bold;font-size:9.75426px;line-height:0.9;font-family:Inter;text-align:center;letter-spacing:0.304822px;text-anchor:middle;opacity:0;fill:#ffe680;fill-opacity:1;stroke-width:1.15208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="150.14682"
        y="74.774704"
        id="latin_diac"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffe680;fill-opacity:1;stroke-width:1.15208"
-         x="150.29924"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffe680;fill-opacity:1;stroke-width:1.15208"
+         x="150.29922"
          y="74.774704">al-k<tspan
    style="fill:#ff0000;fill-opacity:1"
-   id="tspan3">a</tspan>-b<tspan
+   id="tspan3">a</tspan>b<tspan
    style="fill:#ff0000;fill-opacity:1"
    id="tspan19">a</tspan>ab l<tspan
    style="fill:#ff0000;fill-opacity:1"
@@ -106,15 +105,45 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15.2349px;line-height:0.75;font-family:'Markazi Text';-inkscape-font-specification:'Markazi Text';white-space:pre;display:inline;opacity:1;fill:#ff6600;fill-opacity:1;paint-order:stroke markers fill"><tspan
          sodipodi:role="line"
          id="NOdiac_span"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffe680;stroke:#ffe680;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1"
-         x="40.132668"
-         y="30.35059">الكباب لذيذ حقا لا يحتاج إلى صلصة</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffe680;stroke:#ffe680;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1">الكباب لذيذ حقا لا يحتاج إلى صلصة</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.75426px;line-height:0.9;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0.304822px;text-anchor:middle;display:none;opacity:1;fill:#ffe680;fill-opacity:1;stroke-width:1.15208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       x="150.14682"
+       y="74.774704"
+       id="text33"
+       inkscape:label="latin_NOdiac"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffe680;fill-opacity:1;stroke-width:1.15208"
+         x="0"
+         y="0">al-k<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan23">a</tspan>b<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan24">a</tspan>ab l<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan25">a</tspan>ð<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan26">i</tspan>ið ḥ<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan27">a</tspan>q<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan28">an</tspan> l<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan29">a</tspan>a yḥt<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan30">a</tspan>aj 'il<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan31">a</tspan>a ṣ<tspan
+   style="fill:#ff0000;fill-opacity:0"
+   id="tspan32">a</tspan>lsa</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="Explanation"
      inkscape:label="Explanation"
-     style="opacity:0.722">
+     style="display:inline;opacity:0">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.75;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;letter-spacing:0.264583px;text-anchor:middle;opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
