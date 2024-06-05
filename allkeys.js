@@ -1,6 +1,7 @@
 // Create an audio element
 var audio_drums = new Audio("audio/drumroll.mp3");
 var audio_appl = new Audio("audio/applause.mp3");
+var audio_glass = new Audio("audio/wineglass.mp3");
 
 // Add an event listener for the keydown event
 window.addEventListener("keydown", function(event) {
@@ -18,6 +19,9 @@ window.addEventListener("keydown", function(event) {
     if (event.key === 'm') {
         // Redirect to another URL
         window.location.href = '/menu.html';
+    }
+    if (event.key === 'g'  || event.key == 'G') {
+      audio_glass.play();
     }
 });
 
