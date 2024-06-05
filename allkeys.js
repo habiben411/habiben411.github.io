@@ -16,11 +16,11 @@ window.addEventListener("keydown", function(event) {
         audio_appl.play();
         console.log("Playing appl sounds..."); 
     }
-    if (event.key === 'm') {
+    if (event.key === 'm' ) {
         // Redirect to another URL
         window.location.href = '/menu.html';
     }
-    if (event.key === 'g'  || event.key == 'G') {
+    if (event.key === 'w'  || event.key == 'W') {
       audio_glass.play();
     }
 });
