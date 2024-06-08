@@ -2,6 +2,7 @@
 var audio_drums = new Audio("audio/drumroll.mp3");
 var audio_appl = new Audio("audio/applause.mp3");
 var audio_glass = new Audio("audio/wineglass.mp3");
+var audio_wronganswer = new Audio("audio/wronganswer.mp3");
 
 // Add an event listener for the keydown event
 window.addEventListener("keydown", function(event) {
@@ -20,8 +21,11 @@ window.addEventListener("keydown", function(event) {
         // Redirect to another URL
         window.location.href = '/menu.html';
     }
-    if (event.key === 'w'  || event.key == 'W') {
+    if (event.key === 'c'  || event.key == 'C') {
       audio_glass.play();
+    }
+    if (event.key === 'w'  || event.key == 'W') {
+      audio_wronganswer.play();
     }
 });
 
