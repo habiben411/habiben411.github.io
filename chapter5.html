@@ -67,23 +67,10 @@
 			<div class="slides">
                 <section data-background-image="./svg/background5.svg">
     				femte delen<br><br>
-                    <span class="myTitle"><div style="opacity:0;" id="chapter_section">modern arabisk databehandling</div></span>
+                    <span class="myTitle"><div style="opacity:0;" id="chapter_section">modern arabisk <br>databehandling</div></span>
 				</section>
-				<section>
-                    den första arabiska skrivmaskinen, 1899
-                    <table><tr><td><img src="images/alhaddad_typewriter.png" width="500"></td><td><img src="images/alhaddad.png" width="500"></td></tr></table>
-                </section>
-                <section>
-                    den moderna arabiska "QWERTY"-layouten, غفقثصض<br>
-                    <img src="images/arabickeyboardlayout.png" width="500">
-                    <br><br>
-                    <form action="/submit_form" method="post">
-                        <label for="username">Operativsystemet väljer rätt form av bokstaven:</label><br>
-                        <input type="text" id="username" name="username" placeholder="skriv något på arabiska" style="font-size: 46px;"><br>
-                        
-                    </form>
-                    <br>dock utan diakritiska tecken!
-                </section>
+
+
                 <section>
                     <section>
                         <span class="myTitle">Translitterering </span>
@@ -91,7 +78,7 @@
                     <section>
                         fler standarder än vad jag kan tycka är rimligt!
                         <br><br>
-                        beroende på sammanhang, t.ex.: <span class="emphasizedTextBold">Buckwalter Transliteration</span> för lingvistika ändamål,
+                        beroende på sammanhang, t.ex.: <br><span class="emphasizedTextBold">Buckwalter Transliteration</span> för lingvistika ändamål,
                         <br>
                         <span class="emphasizedTextBold">UNGEGN</span> för geografiska namn.
                     </section>
@@ -104,28 +91,68 @@
                         <iframe src="transliteration.html" width="1400" ></iframe>
                     </section>
                 </section>
-                
                 <section>
-                    <img src="images/tokenizer_median_length.png" width="700"><br>
-                    <a href="https://huggingface.co/spaces/yenniejun/tokenizers-languages">Median Token Length for openai/gpt4</a>
-                      
-                </section>
+                    <section>
+                        <span class="myTitle">datorbehandling av arabisk text</span>
+                    </section>
+                    <section>
+                        den första arabiska skrivmaskinen, 1899
+                        <table><tr><td><img src="images/alhaddad_typewriter.png" width="500"></td><td><img src="images/alhaddad.png" width="500"></td></tr></table>
+                    </section>
 
-                <section>
-                    tre sätt att beräkna WER:<br>
-                    <br>
-                    <ol>
-                        <li> translitera till latinska bokstäver </ul>
-                        <li><span class="emphasizedText">ta bort diakritiska tecken</span>  </li>
-                        <li> inkludera diaktritiska tecken (DER) i WER-beräkningen </li>
-                    </ol> 
-                    <br><br>
-                    Whisper använder (2)<br>
-                    [1] WER ökade från 4.68% → 5.27% 
-                    <br><br> <span class="smallText">[1] Abed, S.; Alshayeji, M.; Sultan, S. Diacritics Effect on Arabic Speech Recognition.
-                    Arab. J. Sci. Eng. 2019, 44, 9043–9056</span>
+    
+                    <section>
+                        den moderna arabiska "QWERTY"-layouten, غفقثصض<br>
+                        <img src="images/arabickeyboardlayout.png" width="500">
+                        <br><br>
+                        <form action="/submit_form" method="post">
+                            <label for="username">Operativsystemet väljer rätt form av bokstaven:</label><br>
+                            <input type="text" id="username" name="username" placeholder="skriv något på arabiska" style="font-size: 46px;"><br>
+                            
+                        </form>
+                        <br>dock utan diakritiska tecken!
+                    </section>
+                    <section>
+                        svenska bokstäver har ett unikt unicode-värde <br>
+                        beroende på om bostaven är gemen/versal:<br>
+                        <table>
+                            <tr>
+                                <th>bokstav</td><th>unicode</td> 
+                            </tr>
+                            <tr>
+                                <td>H</td><td> U+0048</td> 
+                            </tr>
+                            <tr>
+                                <td>h</td><td> U+0068</td> 
+                            </tr>
+                        </table>
+                        <br><br>
+                        arabiska bokstäver har ett unicode-värde oavsett positionen, d.v.s.:
+                         
+
+
+                    </section>
+                    <section>
+                        tre sätt att beräkna WER:<br>
+                        <br>
+                        <ol>
+                            <li> translitera till latinska bokstäver </ul>
+                            <li><span class="emphasizedText">ta bort diakritiska tecken</span>  </li>
+                            <li> inkludera diaktritiska tecken (DER) i WER-beräkningen </li>
+                        </ol> 
+                        <br><br>
+                        Whisper använder (2)<br>
+                        [1] WER ökade från 4.68% → 5.27% 
+                        <br><br> <span class="smallText">[1] Abed, S.; Alshayeji, M.; Sultan, S. Diacritics Effect on Arabic Speech Recognition.
+                        Arab. J. Sci. Eng. 2019, 44, 9043–9056</span>
+                    </section>
+                    <section>
+                        <img src="images/tokenizer_median_length.png" width="700"><br>
+                        <a href="https://huggingface.co/spaces/yenniejun/tokenizers-languages">Median Token Length for openai/gpt4</a>
+                          
+                    </section>
                 </section>
-                
+               
                 <section data-state="mylastslide">
 				</section>
 		</div>

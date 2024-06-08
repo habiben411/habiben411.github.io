@@ -88,6 +88,7 @@ th, td {
     padding: 10px 10px 10px 10px;
     font-size: 70px;
     #margin-left: 20px;
+    margin-right: 20px;
 
 }
 
@@ -105,6 +106,7 @@ th, td {
   position: relative;
   width: /* Your preferred width */;
   height: /* Your preferred height */;
+
 }
 
 .banner {
@@ -115,7 +117,6 @@ th, td {
     text-align: left;
     padding: 10px 0;
     margin-left:10px;
-    color:white;
     font-weight: 100;
     font-size: 30px;
 }
@@ -139,9 +140,10 @@ th, td {
     top: 0;
     right: 0;
     text-align: right;
-    color:white;
     padding: 10px 10px 10px 10px;
-    font-weight: 100;
+    font-weight: 300;
+    margin-right: 20px;
+    font-family: Inter;
 }
 
 
@@ -194,6 +196,10 @@ th, td {
     /*pointer-events: none;*/
 }
 
+
+.emphasizedLight{
+    font-weight: 400 ; 
+}
 
 .emphasizedTextItalic{
     font-style: italic; 
