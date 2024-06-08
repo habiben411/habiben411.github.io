@@ -1661,22 +1661,31 @@
     
      </style>
  
-     <style
-   id="style2">
-                 /* latin */
-            @font-face {
-              font-family: 'Signika';
-              font-style: normal;
-              font-weight: 300 700;
-              font-display: swap;
-              src: url(https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bBjM7-f7e0.woff2) format('woff2');
-              unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-            }
+     <style id="style2">
+            /* latin */
+      @font-face {
+        font-family: 'Signika';
+        font-style: normal;
+        font-weight: 300 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bBjM7-f7e0.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+
+      @font-face {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+      }
      </style>
+
      <style
    type="text/css"
    id="style3">
-        @import url(&quot;https://fonts.googleapis.com/css2?family=Inter:wght@300&#59;500&#59;&amp;family=Signika:wght@300..700&amp;display=swap&quot;);
+        <!--@import url(&quot;https://fonts.googleapis.com/css2?family=Inter:wght@300..500&amp;family=Signika:wght@300..700&amp;display=swap&quot;);-->
      </style>
  
        <linearGradient
