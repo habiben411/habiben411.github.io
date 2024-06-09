@@ -21,10 +21,10 @@ window.addEventListener("keydown", function(event) {
         // Redirect to another URL
         window.location.href = '/menu.html';
     }
-    if (event.key === 'c'  || event.key == 'C') {
+    if (event.key === 'c'  || event.key === 'C') {
       audio_glass.play();
     }
-    if (event.key === 'w'  || event.key == 'W') {
+    if (event.key === 'w'  || event.key === 'W') {
       audio_wronganswer.play();
     }
 });
