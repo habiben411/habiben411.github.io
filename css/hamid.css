@@ -58,6 +58,17 @@ th, td {
   transition: color  3s ease; /* Adjust the duration and easing function as needed */
 }
 
+.final-image {
+    position: absolute;
+    left: 0;
+    margin: 0;
+    width: var(--dividline);
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-image: url('../images/cinemaMetro.jpg'); /* Replace 'path_to_your_image' with the actual path to your image */
+
+}
 .cover-image {
     position: absolute;
     left: 0;
@@ -69,7 +80,6 @@ th, td {
     background-image: url('../images/naz.jpg'); /* Replace 'path_to_your_image' with the actual path to your image */
 
 }
-
 .right_side_content{
     position: absolute;
     right: 0;
@@ -88,7 +98,7 @@ th, td {
     padding: 10px 10px 10px 10px;
     font-size: 70px;
     #margin-left: 20px;
-    margin-right: 20px;
+    margin-right: 50px;
 
 }
 
@@ -154,7 +164,8 @@ th, td {
     text-align: right;
     padding: 10px 10px 10px 10px;
     font-weight: 300;
-    margin-right: 20px;
+    margin-right: 50px;
+    margin-top: 20px;
     font-family: Inter;
 }
 
