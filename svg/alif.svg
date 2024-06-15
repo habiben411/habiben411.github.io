@@ -28,7 +28,7 @@
    </style>
    
   <style id="style3">
-      svg{ cursor: url(&quot;../images/mycursor.cur&quot;), pointer;}
+   <!--svg{ cursor: url(&quot;../images/mycursor.cur&quot;), pointer;}-->
       <!--svg{ cursor:  wait;}-->
 
   </style>
