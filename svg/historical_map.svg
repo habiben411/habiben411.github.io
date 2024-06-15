@@ -1676,7 +1676,7 @@
       @font-face {
         font-family: 'Inter';
         font-style: normal bold;
-        font-weight: 300 700;
+        font-weight: 300 400 500 600 700;
         font-display: swap;
         src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
         unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
@@ -7521,7 +7521,7 @@
        id="path1252"
        sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#e3ca66;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#e3ca66;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="218.9297"
        y="113.70476"
        id="text1254"
@@ -7623,7 +7623,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#e3ca66;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#e3ca66;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="206.14432"
        y="107.159"
        id="text122"
@@ -7647,7 +7647,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#deb617;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#deb617;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="207.65141"
        y="90.317024"
        id="text124"
@@ -7671,7 +7671,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:3.94976px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#d6b532;fill-opacity:1;stroke-width:0.392241;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:3.94976px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#d6b532;fill-opacity:1;stroke-width:0.392241;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="152.864"
        y="114.37836"
        id="text126"
@@ -7695,7 +7695,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#b5056c;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#b5056c;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="179.93456"
        y="99.303719"
        id="text128"
@@ -7751,7 +7751,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:6.75445px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#3772d6;fill-opacity:1;stroke-width:0.670767;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:6.75445px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#3772d6;fill-opacity:1;stroke-width:0.670767;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="131.87131"
        y="-34.168568"
        id="text133"
@@ -7787,7 +7787,7 @@
        id="path240"
        sodipodi:nodetypes="ccccccccccc" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#d4b712;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#d4b712;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="224.65157"
        y="176.28285"
        id="text242"
@@ -7854,7 +7854,7 @@
        sodipodi:nodetypes="cccccccccscccccccccccccccccccc"
        inkscape:label="Bysans Empire" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.793751px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.793751px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text6"
        inkscape:label="text_bysantiska"
        x="161.89781"
@@ -7879,7 +7879,7 @@
        sodipodi:nodetypes="cccccccscccccccccscc"
        inkscape:label="sassanid" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text613"
        inkscape:label="text_sassanid"
        transform="translate(-10.925586,-8.0650587)"><textPath
@@ -7887,7 +7887,7 @@
          id="textPath36"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;font-family:Signika;-inkscape-font-specification:Signika;fill:#ffffff;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0">Sassanidiska riket</textPath></text><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:8.46667px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#c1c987;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:8.46667px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#c1c987;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text616"
        inkscape:label="text_arabs"
        transform="translate(-10.496199,-13.572057)"><textPath
@@ -7924,7 +7924,7 @@
        sodipodi:nodetypes="cc"
        inkscape:label="path_sassanid" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="222.8203"
        y="100.31336"
        id="text270"
@@ -7948,7 +7948,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="167.06461"
        y="62.64241"
        id="text274"
@@ -8039,7 +8039,7 @@
        sodipodi:nodetypes="cccccccscccscssccccsscc"
        inkscape:label="sassanid" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:9.17222px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text26"
        inkscape:label="text_sassanid"
        transform="translate(-10.925586,-8.0650587)"><textPath
@@ -8047,7 +8047,7 @@
          id="textPath26"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;font-family:Signika;-inkscape-font-specification:Signika;fill:#ffffff;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0">Sassanidiska riket</textPath></text><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:8.46667px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#000000;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:0.577451, 1.73235;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:8.46667px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#000000;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:0.577451, 1.73235;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text27"
        inkscape:label="text_arabs"
        transform="matrix(1.1178883,-0.23481277,0.23481277,1.1178883,-68.231743,20.820816)"><textPath
@@ -8079,7 +8079,7 @@
        sodipodi:nodetypes="cc"
        inkscape:label="path_sassanid" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="222.8203"
        y="100.31336"
        id="text30"
@@ -8103,7 +8103,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:4.95393px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.491962;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:4.95393px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.491962;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="167.03285"
        y="62.613316"
        id="text32"
@@ -8165,7 +8165,7 @@
        id="path28"
        sodipodi:nodetypes="ccccc" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#739b48;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#739b48;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="199.00337"
        y="143.62938"
        id="text45"
@@ -8224,7 +8224,7 @@
        sodipodi:nodetypes="ccccccccccccccsscsscsscsscscccccccccccc"
        inkscape:label="Kalifat" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:15.0633px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;fill:#aa0000;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:1.13153, 3.39458;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:15.0633px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;fill:#aa0000;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:1.13153, 3.39458;paint-order:stroke markers fill"
        id="text627"
        inkscape:label="text_arabs"
        transform="translate(-3.4577934,2.8094572)"><textPath
@@ -8236,7 +8236,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.07111px;line-height:1;font-family:Signika;-inkscape-font-specification:'Signika Light';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:none;stroke-width:0"
            id="tspan629" /></textPath></text><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#fffefb;fill-opacity:1;stroke:#010101;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#fffefb;fill-opacity:1;stroke:#010101;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        x="190.92494"
        y="95.563629"
        id="text371"
@@ -8294,7 +8294,7 @@
        sodipodi:nodetypes="ccsccscscsscscssccccccccsssccssssssssssssssscssssssssssssssscsccc"
        inkscape:label="Bysansregion" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.793751px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.793751px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text391"
        inkscape:label="text_bysantiska"
        transform="translate(3.964733,2.0419513)"><textPath
@@ -8314,7 +8314,7 @@
        sodipodi:nodetypes="ccccssscssccccccccc"
        inkscape:label="Persiaregion" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text394"
        inkscape:label="text_sassanid"
        transform="rotate(-57.161937,255.16259,75.395824)"><textPath
@@ -8327,7 +8327,7 @@
        sodipodi:nodetypes="cc"
        inkscape:label="Arabia" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#edc4bd;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="230.29272"
        y="84.485947"
        id="text398"
@@ -8351,7 +8351,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#d291a9;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="160.21886"
        y="60.916622"
        id="text400"
@@ -8392,7 +8392,7 @@
        id="path404"
        sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="52.675957"
        y="20.538265"
        id="text405"
@@ -8416,7 +8416,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:14.1111px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text406"
        inkscape:label="text_sassanid"
        transform="translate(4.2333335,-11.641668)"><textPath
@@ -8429,7 +8429,7 @@
        sodipodi:nodetypes="cc"
        inkscape:label="Path Marocco" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#55ab96;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#55ab96;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="23.778828"
        y="88.761566"
        id="text408"
@@ -8453,7 +8453,7 @@
        ry="0.6582045"
        inkscape:label="capital city" /><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.529167px;display:inline;fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="text409"
        inkscape:label="text_sassanid"
        transform="matrix(0.39874549,0.66129889,-0.66129889,0.39874549,181.63943,-16.363209)"><textPath
@@ -8472,7 +8472,7 @@
          x="123.1573"
          y="137.80064">1798</tspan></text><text
        xml:space="preserve"
-       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Roboto;-inkscape-font-specification:Roboto;display:inline;opacity:1;fill:#b49f48;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       style="font-weight:500;font-stretch:condensed;font-size:5.03487px;line-height:0;font-family:Inter;-inkscape-font-specification:Inter;display:inline;opacity:1;fill:#b49f48;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        x="218.01115"
        y="187.95265"
        id="text48"
@@ -11104,7 +11104,7 @@
        ry="0"
        inkscape:label="Tunis_path" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:'Signika Light';letter-spacing:0.197821px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#000000;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:'Signika Light';letter-spacing:0.197821px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#000000;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="115.50056"
        y="163.77516"
        id="BaghdadText"
@@ -11114,7 +11114,7 @@
        onclick=""><tspan
          sodipodi:role="line"
          id="tspan34"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.197821px;fill:#8e0d2b;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.197821px;fill:#8e0d2b;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="115.50056"
          y="163.77516">Bagdad</tspan><tspan
          sodipodi:role="line"
@@ -11123,7 +11123,7 @@
          y="168.0085"
          id="tspan15" /></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="149.43149"
        y="152.44322"
        id="text1-9"
@@ -11131,11 +11131,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan1-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="149.43149"
          y="152.44322">Teheran</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="85.347122"
        y="169.97267"
        id="text76"
@@ -11143,11 +11143,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan76"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="85.347122"
          y="169.97267">Kairo</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="93.865379"
        y="158.05382"
        id="text77"
@@ -11155,11 +11155,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan77"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="93.865379"
          y="158.05382">Beirut</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="122.6152"
        y="196.97102"
        id="text78"
@@ -11167,11 +11167,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan78"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="122.6152"
          y="196.97102">Mecka</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="89.204941"
        y="136.43669"
        id="text79"
@@ -11179,11 +11179,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan79"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="89.204941"
          y="136.43669">Istanbul</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="75.677307"
        y="147.52834"
        id="text80"
@@ -11191,11 +11191,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan80"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="75.677307"
          y="147.52834">Aten</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:'Signika Light';letter-spacing:0.197821px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#000000;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:'Signika Light';letter-spacing:0.197821px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#000000;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="33.887077"
        y="146.61246"
        id="text93"
@@ -11205,7 +11205,7 @@
        onclick=""><tspan
          sodipodi:role="line"
          id="tspan92"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.197821px;fill:#8e0d2b;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.197821px;fill:#8e0d2b;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="33.887077"
          y="146.61246">Tunis</tspan><tspan
          sodipodi:role="line"
@@ -11214,7 +11214,7 @@
          y="150.84579"
          id="tspan93" /></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="-5.5351052"
        y="164.65038"
        id="text95"
@@ -11222,11 +11222,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan95"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="-5.5351052"
          y="164.65038">Marrakesh</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="40.085529"
        y="137.1467"
        id="text94"
@@ -11234,11 +11234,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan94"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="40.085529"
          y="137.1467">Rom</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="4.0375681"
        y="145.19623"
        id="text96"
@@ -11246,11 +11246,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan96"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="4.0375681"
          y="145.19623">Córdoba</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="153.11165"
        y="187.65469"
        id="text110"
@@ -11258,11 +11258,11 @@
        class="in "><tspan
          sodipodi:role="line"
          id="tspan110"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.21386px;fill:#8e0d2b;fill-opacity:1;stroke:#ffffff;stroke-width:0.505182;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="153.11165"
          y="187.65469">Dubai</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="153.36429"
        y="171.11223"
        id="text75"
@@ -11274,7 +11274,7 @@
          x="153.36429"
          y="171.11223">IRAN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="117.95404"
        y="185.06334"
        id="text81"
@@ -11291,7 +11291,7 @@
          y="191.8578"
          id="tspan82">ARABIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="129.71637"
        y="215.36017"
        id="text84"
@@ -11303,7 +11303,7 @@
          y="215.36017"
          id="tspan84">JEMEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="82.146469"
        y="215.45544"
        id="text85"
@@ -11315,7 +11315,7 @@
          y="215.45544"
          id="tspan85">SUDAN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="46.943741"
        y="180.8703"
        id="text86"
@@ -11327,7 +11327,7 @@
          y="180.8703"
          id="tspan86">LIBYEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.44863px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.252568px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.107933;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.44863px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.252568px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.107933;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="-6.508162"
        y="198.42459"
        id="text87"
@@ -11340,7 +11340,7 @@
          y="198.42459"
          id="tspan87">JORDANIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="2.7459726"
        y="173.38521"
        id="text88"
@@ -11352,7 +11352,7 @@
          y="173.38521"
          id="tspan88">ALGERIET</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.941px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.787769px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.33665;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.941px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.787769px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.33665;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="1.4703517"
        y="191.56252"
        id="text89"
@@ -11365,7 +11365,7 @@
          y="191.56252"
          id="tspan89">SYRIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36881px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.704112px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.300899;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.36881px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.704112px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.300899;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="119.0478"
        y="160.31633"
        id="text90"
@@ -11377,7 +11377,7 @@
          x="119.0478"
          y="160.31633">IRAK</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="93.116035"
        y="143.85991"
        id="turkiye"
@@ -11389,7 +11389,7 @@
          x="93.116035"
          y="143.85991">TÜRKIYE</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="48.075993"
        y="153.90213"
        id="text97"
@@ -11401,7 +11401,7 @@
          y="153.90213"
          id="tspan97">MALTA</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="112.50029"
        y="119.02866"
        id="text98"
@@ -11418,7 +11418,7 @@
          y="124.12451"
          id="tspan100">LAND</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49204px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.589125px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.25176;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49204px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.589125px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.25176;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="-0.99845892"
        y="134.18498"
        id="text102"
@@ -11430,7 +11430,7 @@
          y="134.18498"
          id="tspan102">SPANIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44432px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.32057px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.136994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44432px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.32057px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.136994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="-145.26115"
        y="16.98447"
        id="text103"
@@ -11445,7 +11445,7 @@
          y="16.98447"
          id="tspan103">PORTUGAL</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93783px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.64759px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.276745;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93783px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.64759px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.276745;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="-120.04877"
        y="126.23153"
        id="text104"
@@ -11458,7 +11458,7 @@
          y="126.23153"
          id="tspan104">MAROCKO</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="32.005096"
        y="203.95444"
        id="text105"
@@ -11470,7 +11470,7 @@
          y="203.95444"
          id="tspan105">NIGER</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="-1.4754945"
        y="209.48601"
        id="text106"
@@ -11482,7 +11482,7 @@
          y="209.48601"
          id="tspan106">MALI</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.29308px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.563031px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.240609;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.29308px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.563031px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.240609;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="115.53019"
        y="57.918556"
        id="text107"
@@ -11495,7 +11495,7 @@
          y="57.918556"
          id="tspan107">ITALIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79446px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.380801;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="55.295944"
        y="213.5619"
        id="text108"
@@ -11507,7 +11507,7 @@
          y="213.5619"
          id="tspan108">CHAD</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="91.309624"
        y="153.61099"
        id="text109"
@@ -11519,7 +11519,7 @@
          y="153.61099"
          id="tspan109">CYPERN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85147px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="61.906815"
        y="149.46735"
        id="text111"
@@ -11531,7 +11531,7 @@
          y="149.46735"
          id="tspan111">GREKLAND</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32167px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.435633px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.186166;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32167px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.435633px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.186166;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="186.5816"
        y="89.574173"
        id="text112"
@@ -11544,7 +11544,7 @@
          x="186.5816"
          y="89.574173">TURKMENISTAN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="68.06266"
        y="121.06176"
        id="text113"
@@ -11556,7 +11556,7 @@
          y="121.06176"
          id="tspan113">RUMÄNIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="68.06266"
        y="121.06176"
        id="text114"
@@ -11568,7 +11568,7 @@
          y="121.06176"
          id="tspan114">RUMÄNIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.99797px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.468272px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.200114;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.99797px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.468272px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.200114;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="24.828087"
        y="148.5713"
        id="text115"
@@ -11581,7 +11581,7 @@
          y="148.5713"
          id="tspan115">BULGARIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="56.926723"
        y="125.79271"
        id="text116"
@@ -11593,7 +11593,7 @@
          y="125.79271"
          id="tspan116">BiH</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38563px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.55913px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.238942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="132.06259"
        y="32.250557"
        id="text117"
@@ -11606,7 +11606,7 @@
          y="32.250557"
          id="tspan117">SERBIEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.1788px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.368375px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.0556912;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.1788px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.368375px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.0556912;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="140.21454"
        y="172.14856"
        id="text118"
@@ -11618,7 +11618,7 @@
          y="172.14856"
          id="tspan118">KUWAIT</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.16163px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.67694px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.289288;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.16163px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.67694px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.289288;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="82.01226"
        y="188.8994"
        id="text119"
@@ -11630,7 +11630,7 @@
          y="188.8994"
          id="tspan119">EGYPTEN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="169.77066"
        y="203.2496"
        id="text120"
@@ -11642,7 +11642,7 @@
          y="203.2496"
          id="tspan120">OMAN</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49408px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.458244px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.195829;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49408px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.458244px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.195829;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="11.308953"
        y="115.61726"
        id="text134"
@@ -11654,7 +11654,7 @@
          y="115.61726"
          id="tspan134">FRANKRIKE</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89105px;line-height:0.75;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.608568px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.26007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89105px;line-height:0.75;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.608568px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.26007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="73.21067"
        y="111.9558"
        id="text135"
@@ -11674,7 +11674,7 @@
        ry="0"
        inkscape:label="Tunis_path" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.65475px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.217018px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.0927419;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.65475px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.217018px;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:none;stroke-width:0.0927419;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
        x="13.253724"
        y="243.92528"
        id="text136"
@@ -11687,7 +11687,7 @@
          y="243.92528"
          id="tspan136">ERITREA</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;line-height:1;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2772px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;letter-spacing:0.891084px;display:inline;opacity:1;fill:#8e0d2b;fill-opacity:0.25;stroke:#f9f9f9;stroke-width:0.134715;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:stroke fill markers"
        x="153.83098"
        y="233.9644"
        id="text137"
