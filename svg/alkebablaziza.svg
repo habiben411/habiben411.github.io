@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.6820162"
-     inkscape:cx="590.95745"
+     inkscape:cx="591.25471"
      inkscape:cy="158.73807"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
@@ -48,9 +48,25 @@
              #Explanation { transition: opacity 0.7s linear;}
      </style>
   <style
-     type="text/css"
-     id="style3">
-        @import url(&quot;https://fonts.googleapis.com/css2?family=Nanum+Gothic=swap);
+     id="style2">
+            /* latin */
+      @font-face {
+        font-family: 'Signika';
+        font-style: normal;
+        font-weight: 300 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/signika/v25/vEFO2_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX6bBjM7-f7e0.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+
+      @font-face {
+        font-family: 'Inter';
+        font-style: normal bold;
+        font-weight: 300 400 500 600 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+      }
      </style>
   <g
      inkscape:label="BaseLayer"
@@ -108,36 +124,16 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2349px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#f5efb8;stroke:#f5efb8;stroke-width:0.254033;stroke-dasharray:none;stroke-opacity:1">الكباب لذيذ حقا لا يحتاج إلى صلصة</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:9.75426px;line-height:0.9;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0.304822px;text-anchor:middle;display:none;opacity:1;fill:#f5efb8;fill-opacity:1;stroke-width:1.15208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
-       x="150.14682"
-       y="74.774704"
+       style="font-weight:bold;font-size:8.97656px;line-height:0.9;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0.280518px;text-anchor:middle;display:inline;opacity:1;fill:#f5efb8;fill-opacity:1;stroke-width:1.06022;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke fill markers"
+       x="149.77432"
+       y="64.875343"
        id="text33"
        inkscape:label="latin_NOdiac"><tspan
          sodipodi:role="line"
          id="tspan33"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#f5efb8;fill-opacity:1;stroke-width:1.15208"
-         x="0"
-         y="0">al-k<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan23">a</tspan>b<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan24">a</tspan>ab l<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan25">a</tspan>ð<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan26">i</tspan>ið ḥ<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan27">a</tspan>q<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan28">an</tspan> l<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan29">a</tspan>a yḥt<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan30">a</tspan>aj 'il<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan31">a</tspan>a ṣ<tspan
-   style="fill:#ff0000;fill-opacity:0"
-   id="tspan32">a</tspan>lsa</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Light';fill:#f5efb8;fill-opacity:1;stroke-width:1.06022"
+         x="151.31717"
+         y="64.875343">kebaben är verkligen god, den behöver ingen sås </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
