@@ -353,3 +353,18 @@ iframe {
 .sr_iframe {
     height: 200px;
 }
+
+
+#upper-right-image-container {
+    position: relative;
+    /* Additional styling for the container */
+}
+
+#upper-right-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    /* Adjust the size of the image if needed */
+    width: 300px; /* Example width */
+    height: 300px; /* Maintain aspect ratio */
+}

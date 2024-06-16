@@ -13,7 +13,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <style id="style1"> 
+  <style
+     id="style1"> 
              #V3 { transition: opacity 0.5s linear;}
              #V2 { transition: opacity 0.5s linear;}
              #V1 { transition: opacity 0.5s linear;}
@@ -26,13 +27,11 @@
      id="style2">
         @import url(&quot;https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&amp;subset=latin&amp;family=Signika:wght@300..700&amp;family=Noto+Sans+Arabic&amp;display=swap&quot;);
    </style>
-   
-  <style id="style3">
-   <!--svg{ cursor: url(&quot;../images/mycursor.cur&quot;), pointer;}-->
-      <!--svg{ cursor:  wait;}-->
-
+  <style
+     id="style3">
+    <!--svg{ cursor: url(&quot;../images/mycursor.cur&quot;), pointer;}-->
+    <!--svg{ cursor:  wait;}-->
   </style>
-
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#000000"
@@ -44,14 +43,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.7605093"
-     inkscape:cx="815.10504"
-     inkscape:cy="21.016646"
+     inkscape:cx="702.63758"
+     inkscape:cy="48.849501"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text_arabic"
      showgrid="false"
      showguides="true" />
   <defs
@@ -235,11 +234,11 @@
          id="tspan17">f</tspan></text>
     <text
        xml:space="preserve"
-       x="84.24437"
-       y="42.827999"
+       x="205.72382"
+       y="34.128777"
        id="text_ar_v1"
        inkscape:label="text_ar_v1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:none;opacity:0.231;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:inline;opacity:0.231;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
          id="tspan22">ف</tspan></text>
   </g>
@@ -270,11 +269,11 @@
          id="tspan9">L</tspan></text>
     <text
        xml:space="preserve"
-       x="142.97589"
-       y="42.827999"
+       x="264.68433"
+       y="32.244663"
        id="text_ar_v2"
        inkscape:label="text_ar_v2"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;display:none;opacity:0.231;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;display:inline;opacity:0;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
          id="tspan24">ف</tspan></text>
   </g>
@@ -285,7 +284,7 @@
      onmouseover="document.getElementById('V3').style.opacity = '1';"
      style="opacity:0">
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
+       style="display:inline;opacity:0;fill:#000000;fill-opacity:0;stroke:#f9f9f9;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.6;paint-order:stroke markers fill"
        id="V3Rect"
        width="26.205753"
        height="26.205753"
@@ -305,11 +304,11 @@
          transform="translate(0.3745782,1.1448287)">i</tspan></text>
     <text
        xml:space="preserve"
-       x="203.34598"
-       y="37.571301"
+       x="322.40845"
+       y="26.987967"
        id="text_ar_v3"
        inkscape:label="text_ar_v3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:none;opacity:0.231;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;display:inline;opacity:0;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
          id="tspan26">ي</tspan></text>
   </g>
@@ -317,11 +316,11 @@
      inkscape:groupmode="layer"
      id="text_arabic"
      inkscape:label="text_arabic"
-     style="display:none;opacity:0.231">
+     style="display:inline;opacity:0">
     <text
        xml:space="preserve"
-       x="53.940704"
-       y="39.61832"
+       x="175.64906"
+       y="25.535097"
        id="text_ar_r1"
        inkscape:label="text_ar_r1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.979139;stroke-dasharray:none"><tspan
@@ -329,8 +328,8 @@
          id="tspan21">ء</tspan></text>
     <text
        xml:space="preserve"
-       x="113.02786"
-       y="41.476604"
+       x="234.7363"
+       y="27.393381"
        id="text_ar_r2"
        inkscape:label="text_ar_r2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;-inkscape-font-specification:'Univers 57 Condensed,  Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
@@ -338,8 +337,8 @@
          id="tspan23">ل</tspan></text>
     <text
        xml:space="preserve"
-       x="173.29535"
-       y="42.827999"
+       x="295.00369"
+       y="28.744772"
        id="text_ar_r3"
        inkscape:label="text_ar_r3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4611px;font-family:Monospace;text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1.31004;stroke-dasharray:none"><tspan
@@ -436,12 +435,12 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.0087px;line-height:1;font-family:'Inter', 'Noto Sans Arabic';letter-spacing:0.5;text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0;fill:#f9f9f9"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.0087px;line-height:1;font-family:Inter, 'Noto Sans Arabic';letter-spacing:0.5;text-anchor:end;white-space:pre;inline-size:127.319;display:inline;opacity:0;fill:#f9f9f9"
      x="137.97787"
      y="14.873549"
      id="explain_ar"
      transform="translate(-23.283342,5.2916667)"
-     onmouseover="document.getElementById('explain_ar').style.opacity = '1';"><tspan
+     onmouseover="document.getElementById('explain_ar').style.opacity = '0';"><tspan
        x="137.97787"
        y="14.873549"
        id="tspan29"><tspan
@@ -455,7 +454,7 @@
      x="113.07224"
      y="36.022827"
      id="explain_sv"
-     onmouseover="document.getElementById('explain_sv').style.opacity = '1';"
+     onmouseover="document.getElementById('explain_sv').style.opacity = '0';"
      inkscape:label="explain_sv"><tspan
        sodipodi:role="line"
        id="tspan18"
