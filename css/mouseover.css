@@ -24,7 +24,7 @@
             transition:opacity 250ms ease-out;
     font-size:40;
     font-weight:700;
-    font-family: sans-serif;
+    font-family: Inter;
 }
 /* <http://css-tricks.com/snippets/css/css-triangle/> */
 .field-tip .tip-content:before {

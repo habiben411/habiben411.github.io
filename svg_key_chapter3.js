@@ -1,4 +1,9 @@
+console.log("svg key chapter 3...");
+
 window.onload = function() {
+
+    console.log("loading...");
+
     var cells  =  document.getElementsByTagName('td');
     
     
