@@ -224,6 +224,11 @@ th, td {
     font-weight: 400 ; 
 }
 
+.textItalic{
+    font-style: italic; 
+}
+
+
 .emphasizedTextItalic{
     font-style: italic; 
     color: red;
