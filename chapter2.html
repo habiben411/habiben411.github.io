@@ -40,6 +40,16 @@
       .fragment.blur.visible {
         filter: none;
       }
+
+			.fragment.fade {
+		opacity: 0;
+		transition: opacity 1s ease-out;
+		}
+
+		.fragment.fade.active {
+		opacity: 1;
+		}
+
     </style>
     	 
 		<div class="reveal">
@@ -66,38 +76,39 @@
 					</section>
 					<section>
 					
-    				<p>
+    				
         				 
-							arabiskan är ett <span class="emphasizedTextBold">konsonantrikt</span> språk
+					arabiskan är ett <span class="emphasizedTextBold">konsonantrikt</span> språk
 						 
 
-        				<br><br>
-        				<table>
+        			<br><br>
+        				<table  class="fragment" >
             				<tr>
                 				<th># fonem:</th>
                 				<th> konsonanter </th>
                 				<th> vokaler </th>
                 				<th> k:v-ratio </th>
                 			</tr>
-                			<tr>
+                			<tr  class="fragment fade-up" >
                     			<td>arabiska</td>
                     			<td align="center">28</td>
                     			<td align="center">8</td>
                     			<td align="center"><font class="emphasizedText">~3,5</font>:1</td>
                     		</tr>
-                    		 <tr>
+                    		 <tr class="fragment fade-up" >
                     			<td>svenska</td>
                     			<td align="center">17</td>
                     			<td align="center">18</td>
                     			<td align="center">~1:1</td>
                     		</tr>
-                			<tr>
+                			<tr class="fragment fade-up" >
                     			<td>danska</td>
                     			<td align="center">18</td>
                     			<td align="center">26</td>
                     			<td align="center">~1:<font class="emphasizedText">1,5</font></td>
                     		</tr>
-                    	</table>		
+                    	</table>	
+					</p>
     				</section>
     				<section> 
     				          <audio id="dj" src="./audio/dj.ogg" ></audio>

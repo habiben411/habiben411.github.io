@@ -5,22 +5,24 @@
     opacity:0.80;
     position:fixed;
     bottom:0;
-    margin-bottom:20px;
+    margin-bottom:30px;
     width:100%;
-    height:120px;
+    height:140px;
+    line-height:70%;
 
 }
 
 .pause-text-div {
     margin-left:20px;
-    margin-top:10px;
-    margin-bottom:20px;
+    margin-top:20px;
+    margin-bottom:0px;
+    line-height:70%;
 }
 
 .pause-headline {
 
     //font-family: Inter;
-    font-weight:600
+    font-weight:400
 
 }
 
@@ -29,3 +31,5 @@
     font-size:32px;
     font-weight:300;
 }
+
+ 
